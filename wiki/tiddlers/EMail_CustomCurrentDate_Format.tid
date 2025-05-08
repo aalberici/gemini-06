@@ -1,0 +1,11 @@
+ValueType: String
+Values: valid PHP date format string
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: EMail_CustomCurrentDate_Format
+tmap.id: 85e1df35-93fb-4d3a-82f3-a32dd1b87b94
+type: text/vnd.tiddlywiki
+
+Format to apply to $custom-currentdate$ variable in email templates. Accepts any valid date format string from PHP. By default leave it empty to get the month in text, day and year.

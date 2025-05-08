@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: SOAP_CustomerPortal_Enabled
+tmap.id: e4e097e8-8d80-40d8-940e-248d37a2f585
+type: text/vnd.tiddlywiki
+
+Completely disables or enables SOAP Customer Portal access.

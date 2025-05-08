@@ -1,0 +1,42 @@
+created: 20170510053211490
+creator: )+(auloop
+footer: <$reveal state="$:/temp/tbl/new-column##tbl-col-id" type="nomatch" text=""><$button message="tm-close-tiddler" actions=<<tbl-set-column-properties>> >{{$:/core/images/done-button}}</$button></$reveal><$button message="tm-close-tiddler">{{$:/core/images/close-button}}<$action-setfield $tiddler="$:/temp/tbl/new-column" text="" /></$button>
+modified: 20181011101830876
+modifier: )+(auloop
+revision: 0
+subtitle: Column properties
+tags: TableToolPlugin
+title: $:/plugins/mau/TableTool/modals/column-dialog
+type: text/vnd.tiddlywiki
+
+\define tbl-col-id-enabled()
+<$reveal state="$:/temp/tbl/new-column!!tbl-col-id-enabled" type="match" text="enabled" default="disabled">
+<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-col-id" tag="input" placeholder="column-id" />
+</$reveal>
+<$reveal state="$:/temp/tbl/new-column!!tbl-col-id-enabled" type="nomatch" text="enabled" default="disabled">
+{{$:/temp/tbl/new-column##tbl-col-id}}
+</$reveal>
+\end
+
+\define tbl-column-order()
+<$select tiddler="$:/temp/tbl/new-column" index="tbl-column-order" default="">
+<$list filter="""[list<tbl-conf>]""" variable="tbl-current-column">
+<option><<tbl-current-column>></option>
+</$list>
+<option value="" selected="selected">place at the end</option>
+</$select>
+\end
+
+<!----------------------------
+-- "Column properties" dialog
+-->
+
+|Column ID|<<tbl-col-id-enabled>>|
+|Column label|<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-col-label" tag="input" placeholder="Column Label" />|
+|Column data view|<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-td-view" tag="input" />|
+|Column data edit|<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-td-edit" tag="input" />|
+|Column header view|<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-th-view" tag="input" />|
+|Column header edit|<$edit-text tiddler="$:/temp/tbl/new-column" index="tbl-th-edit" tag="input" />|
+|Column position|<<tbl-column-order>>|
+|Column hidden|<$checkbox tiddler="$:/temp/tbl/new-column" index="tbl-col-hidden" checked="true" unchecked="false" default="false" />|
+|noBorder|k

@@ -1,0 +1,13 @@
+actualname: Documents
+created: 20220626235841934
+creator: andrea.alberici
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: entity standard-module focus-project
+title: Module: Documents
+tmap.id: 03ad3898-f165-435f-993e-dc503bddbabb
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Documents XXX The Document module manages all types of documents and files throughout the company and may be used for Office documents, folders, software etc.

@@ -1,0 +1,11 @@
+actualname: MassDocumentImport
+modified: 20230617155327088
+modifier: andrea.alberici
+modulename: Mass Document Import
+revision: 0
+tags: extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Mass Document Import
+tmap.id: 9c4864f4-f1ab-465b-b9ae-6c3d2847ecfc
+type: text/vnd.tiddlywiki
+
+coreBOS extension that permits mass import of documents --  --

@@ -1,0 +1,11 @@
+actualname: Bank
+modified: 20240103225153026
+modifier: andrea.alberici
+modulename: Banks
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Banks
+tmap.id: 14caf78f-83ba-4994-8427-4f6936970577
+type: text/vnd.tiddlywiki
+
+Bank module to register information of the banks you work with.\\ This is part of the TSolucio **payments extensions** that support **SEPA and direct bank charges** to your clients. -- Subscription --

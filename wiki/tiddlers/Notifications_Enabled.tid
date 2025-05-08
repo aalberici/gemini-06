@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Notifications GV
+title: Notifications_Enabled
+tmap.id: a9edc8a2-f973-438b-bd2d-0e3aeea5a2ab
+type: text/vnd.tiddlywiki
+
+Completely disables or enables notifications.

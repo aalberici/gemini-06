@@ -1,0 +1,51 @@
+created: 20170414203525718
+creator: )+(auloop
+list: 
+modified: 20181015200311351
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/set-column-properties
+type: text/vnd.tiddlywiki
+
+\define tbl-set-column-properties()
+<$set name="nc" value={{$:/temp/tbl/new-column##tbl-col-id}} >
+
+<$reveal state="$:/temp/tbl/new-column##tbl-col-label" type="match" text="" default="">
+<$action-setfield $tiddler="$:/temp/tbl/new-column" $index="tbl-col-label" $value=<<nc>> />
+</$reveal>
+
+<$set name="tbl-column-before" value={{$:/temp/tbl/new-column##tbl-column-order}}>
+<$action-listops $tiddler=<<tbl-conf>> $field="list" $subfilter="""+[insertbefore:tbl-column-before<nc>]""" />
+</$set>
+
+<$reveal state="$:/temp/tbl/new-column##tbl-col-hidden" type="match" text="true" default="false">
+<$action-listops $tiddler=<<tbl-conf>> $field="tbl-list-hidden" $subfilter=<<nc>> />
+</$reveal>
+
+<$reveal state="$:/temp/tbl/new-column##tbl-col-hidden" type="nomatch" text="true" default="false">
+<$action-listops $tiddler=<<tbl-conf>> $field="tbl-list-hidden" $subfilter="""-[<nc>]""" />
+</$reveal>
+
+<!-- $action-listops $tiddler=<<tbl-conf>> $field="list" $subfilter=<<nc>> / -->
+<$action-setfield $tiddler=<<tbl-conf>> $field=<<nc>> $value="tbl-th-view" />
+
+<$list filter="""[<tbl-conf>] +[addsuffix[/]] +[addsuffix<nc>]""">
+<!-- $action-setfield type="application/x-tiddler-dictionary" text=<<tbl-new-column-defaults>> / -->
+<!-- $action-setfield type="application/x-tiddler-dictionary" caption={{$:/temp/tbl/new-column##tbl-col-label}} / -->
+<$action-setfield $index="tbl-col-id" $value={{$:/temp/tbl/new-column##tbl-col-id}} />
+<$action-setfield $index="tbl-col-label" $value={{$:/temp/tbl/new-column##tbl-col-label}} />
+<$action-setfield $index="tbl-td-view" $value={{$:/temp/tbl/new-column##tbl-td-view}} />
+<$action-setfield $index="tbl-td-edit" $value={{$:/temp/tbl/new-column##tbl-td-edit}} />
+<$action-setfield $index="tbl-th-view" $value={{$:/temp/tbl/new-column##tbl-th-view}} />
+<$action-setfield $index="tbl-th-edit" $value={{$:/temp/tbl/new-column##tbl-th-edit}} />
+<$action-setfield $index="tbl-col-hidden" $value={{$:/temp/tbl/new-column##tbl-col-hidden}} />
+</$list>
+
+<$list filter="""[tag<tbl-name>]""">
+<$action-setfield $field=<<nc>> $value="tbl-td-view" />
+</$list>
+
+</$set>
+<$action-setfield $tiddler="$:/temp/tbl/new-column" text="" />
+\end

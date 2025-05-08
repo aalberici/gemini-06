@@ -1,0 +1,11 @@
+actualname: relateProject2QSOPOI
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Relate Projects with Quotes, Sales Orders, Purchase Orders and Invoices
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Relate Projects with Quotes, Sales Orders, Purchase Orders and Invoices
+tmap.id: d4a5a125-ab9d-4579-aa21-fe5d2a8bbc5b
+type: text/vnd.tiddlywiki
+
+This enhancement will add a Project field on the four inventory modules and the corresponding related list on the Project module. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhancerelproject2qsopoi --  --

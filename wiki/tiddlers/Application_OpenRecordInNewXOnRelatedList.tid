@@ -1,0 +1,11 @@
+ValueType: string
+Values: empty string | tab | window
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_OpenRecordInNewXOnRelatedList
+tmap.id: 880dada3-6ef4-4407-bc9b-4bf815a2b648
+type: text/vnd.tiddlywiki
+
+Modifies the link to records on related lists. If empty (default) the record opens in the same tab, if "tab", the record opens in a new tab and if "window", then the record opens in a new browser window.

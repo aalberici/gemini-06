@@ -1,0 +1,23 @@
+actualname: CobroPago
+created: 20220611151310139
+creator: andrea.alberici
+modified: 20250508100908474
+modifier: andrea.alberici
+revision: 2
+status: complete
+tags: [[area: people]] standard-module crm sales entity focus-project
+title: Module: Payments
+tmap.id: 7ce90695-aa5a-47aa-a439-7a7541534db6
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to invoices
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your invoices. 
+
+
+
+
+
+!! Related Modules 
+

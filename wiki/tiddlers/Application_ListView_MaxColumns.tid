@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_ListView_MaxColumns
+tmap.id: 70caa4ef-7764-4365-a5e1-6ebf6d29964a
+type: text/vnd.tiddlywiki
+
+The maximum number of columns that can be set on a list view. The default is 12.

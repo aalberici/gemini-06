@@ -1,0 +1,11 @@
+actualname: DART
+modified: 20230617155327087
+modifier: andrea.alberici
+modulename: Daily Activity Report Extension
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Daily Activity Report Extension
+tmap.id: a4234e10-ce0f-4a16-b078-7742c5a33b47
+type: text/vnd.tiddlywiki
+
+This extension permits you to see what changes happened in the application and by who each day. --  --

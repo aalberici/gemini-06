@@ -1,0 +1,11 @@
+actualname: CloudFile
+modified: 20230617155327085
+modifier: andrea.alberici
+modulename: Cloud File Extension
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Cloud File Extension
+tmap.id: 339b6c3f-6657-4647-92e5-5461675ffc0f
+type: text/vnd.tiddlywiki
+
+This extension permits you to link files in different locations like Dropbox, Google Drive, Samba, Webdav or File System to any record in the application. It will only register the link to the file which will not be downloaded into coreBOS. -- Sale -- deprecated

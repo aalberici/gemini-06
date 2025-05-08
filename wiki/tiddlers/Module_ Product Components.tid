@@ -1,0 +1,22 @@
+actualname: ProductComponent
+created: 20220622102839719
+creator: andrea.alberici
+modified: 20240827152954628
+modifier: xhensilda.ndreka
+revision: 0
+status: rework
+tags: [[area: people]] standard-module sales crm entity
+title: Module: Product Components
+tmap.id: 28486154-42d3-4d83-9a8e-a81fde314516
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to sub-products, such as modules, parts
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about the entities worked on and sold. 
+
+The Product Components permit to arrange a List of material (BOM can be arranged using a detail module linked to invoices or assets)
+
+
+!! Related Modules 
+[[Module: Asset Details]]

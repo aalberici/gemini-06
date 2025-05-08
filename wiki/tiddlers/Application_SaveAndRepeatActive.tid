@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220711215448307
+creator: andrea.alberici
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_SaveAndRepeatActive
+tmap.id: b107fa28-c6ab-424c-9b72-de1ffc00e1b5
+type: text/vnd.tiddlywiki
+
+Activate "Save and Repeat" action in edit mode. Default deactivated

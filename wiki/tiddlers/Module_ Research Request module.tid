@@ -1,0 +1,11 @@
+actualname: ResearchRequest
+modified: 20240103225153036
+modifier: andrea.alberici
+modulename: Research Request module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Research Request module
+tmap.id: 6fe3ce1d-0ff3-4581-9332-57a034b8a026
+type: text/vnd.tiddlywiki
+
+Module to control research or investigation requests, used, for example, to document quote analysis requests or the study of possible solutions to problems that appear in the business. This module is related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:researchrequestactions|Research Request Actions module]] where each exact step is recorded. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:researchrequest --  --

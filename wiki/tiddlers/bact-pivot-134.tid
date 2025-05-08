@@ -1,0 +1,67 @@
+acrole: H4
+active: 1
+assigned_user_id: 19x1
+brmap: 
+businessactions_no: bact-0000134
+cbuuid: 
+created: 20240618205535000
+created_user_id: 19x1
+createdtime: 2022-05-26 10:12:18
+creator: admin
+description: 
+error_msg: 
+handler: 
+handler_class: 
+handler_path: 
+id: 41x11527
+linkicon: 
+linklabel: Pivot Preventivi
+linktype: LISTVIEWBASIC
+linkurl: javascript:gotourl('index.php?module=cbOffers&action=Pivot&bmapname=cbOffersPivot');
+mandatory: 0
+modified: 20240618211347007
+modifiedtime: 2023-03-12 20:21:12
+modifier: andrea.alberici
+module: BusinessActions
+module_list: cbOffers
+onlyonmymodule: 0
+revision: 0
+sequence: 0
+success_msg: 
+tags: BusinessActions cbrecord
+title: bact-pivot-134
+tmap.id: 4858f376-b0a4-4284-8f42-dbea6f85b2a5
+type: text/vnd.tiddlywiki
+widget_header: 0
+widget_height: 
+widget_width: 
+
+!! [[bact-0000134|https://itelcond.evolutivo.it/index.php?action=DetailView&module=BusinessActions&record=11527]]
+
+|linktype:|{{!!linktype}}|
+|linklabel:|{{!!linklabel}}|
+|linkurl:|{{!!linkurl}}|
+|linkicon:|{{!!linkicon}}|
+|sequence:|{{!!sequence}}|
+|handler_path:|{{!!handler_path}}|
+|onlyonmymodule:|{{!!onlyonmymodule}}|
+|handler_class:|{{!!handler_class}}|
+|module_list:|{{!!module_list}}|
+|handler:|{{!!handler}}|
+|Error Message:|{{!!error_msg}}|
+|Success Message:|{{!!success_msg}}|
+|Widget Header:|{{!!widget_header}}|
+|Widget Width:|{{!!widget_width}}|
+|Widget Height:|{{!!widget_height}}|
+|Assigned To:|{{!!assigned_user_id}}|
+|active:|{{!!active}}|
+|acrole:|{{!!acrole}}|
+|mandatory:|{{!!mandatory}}|
+|brmap:|{{!!brmap}}|
+|businessactions_no:|{{!!businessactions_no}}|
+|Created By:|{{!!created_user_id}}|
+|Created Time:|{{!!createdtime}}|
+|Modified Time:|{{!!modifiedtime}}|
+|Description:|{{!!description}}|
+|ID:|{{!!id}}|
+|CBUUID:|{{!!cbuuid}}|

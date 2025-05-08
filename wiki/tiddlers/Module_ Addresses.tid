@@ -1,0 +1,21 @@
+actualname: cbAddress
+created: 20220628151819667
+creator: andrea.alberici
+modified: 20240103225153023
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: data]] crm specific-module entity non-standard-module focus-project
+title: Module: Addresses
+tmap.id: dda1bc73-f75f-4a69-8d04-b498f5d7a478
+type: text/vnd.tiddlywiki
+
+!!Description
+The Sites is a module that stores all the different locations related to a customer
+
+This is a normal vtlib module which can be installed through the module manager.
+
+The billing address and shipping will be denormalized in the Account module itself
+
+
+!! Related Modules 

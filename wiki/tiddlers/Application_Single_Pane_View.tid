@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628174732314
+creator: andrea.alberici
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Single_Pane_View
+tmap.id: 6ac226d9-ad96-44c9-ac48-d5af19e66788
+type: text/vnd.tiddlywiki
+
+When activated the "More Information" lists will be shown at the end of the detail view block instead of on another tab.

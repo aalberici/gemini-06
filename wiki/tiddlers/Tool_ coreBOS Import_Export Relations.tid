@@ -1,0 +1,11 @@
+actualname: coreBOSIERelations
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: coreBOS Import/Export Relations
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: coreBOS Import/Export Relations
+tmap.id: 36d62649-ee50-4178-9e8c-e409ae296b66
+type: text/vnd.tiddlywiki
+
+This extension permits exporting information about **many to many relations between records** from one coreBOS install to another. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:corebosierelations --  --

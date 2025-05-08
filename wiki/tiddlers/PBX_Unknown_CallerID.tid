@@ -1,0 +1,11 @@
+ValueType: String
+Values: 
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: PBX_Unknown_CallerID
+tmap.id: f7274595-4aa2-4d03-99b2-f3f691366dd2
+type: text/vnd.tiddlywiki
+
+When calling or receiving a call to an unknown party this string will be used as the record name identifier next to the number dialed. The default value is Unknown

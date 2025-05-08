@@ -1,0 +1,11 @@
+actualname: QualityClaims
+modified: 20240103225153035
+modifier: andrea.alberici
+modulename: Quality Claims module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Quality Claims module
+tmap.id: e255e785-0b40-4f7a-a89f-0bd03daa7b17
+type: text/vnd.tiddlywiki
+
+Module to control Quality Claims, used to enforce and document ISO standards. It should capture the details of the claim, who is attending it, the date references and the outcome. This module is related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:qualityactions|Quality Actions module]] where each exact step is recorded. --  --

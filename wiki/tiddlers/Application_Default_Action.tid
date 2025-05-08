@@ -1,0 +1,14 @@
+ActualValue: 
+ValueType: String
+Values: Valid module action, usually "index"
+created: 20220627141718984
+creator: xhilda.shazivari
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Default_Action
+tmap.id: 0c27f264-9f85-48cc-8f66-940d1a001a47
+type: text/vnd.tiddlywiki
+
+Action that will be executed when accessing the application with no action defined in URL

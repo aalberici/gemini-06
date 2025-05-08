@@ -1,0 +1,11 @@
+actualname: cbTraining
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: Training Details Information
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Training Details Information
+tmap.id: 9ef4129b-b53f-4a12-80c7-966dc98a23db
+type: text/vnd.tiddlywiki
+
+Module to record the registration of contacts to and the service price of an event that will take place (related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:cbattendance|cbAttendance module]]) - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbtraining --  --

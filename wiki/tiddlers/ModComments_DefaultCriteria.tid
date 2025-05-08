@@ -1,0 +1,11 @@
+ValueType: String
+Values: All | Last5 | Mine
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: ModComments_DefaultCriteria
+tmap.id: 25c72e1b-254f-4565-b2b8-de761c6ce5e8
+type: text/vnd.tiddlywiki
+
+"All" (default value) will show all comments related to the record, "Last5" will show only the last 5 comments and "Mine" will show all comments of the current user.

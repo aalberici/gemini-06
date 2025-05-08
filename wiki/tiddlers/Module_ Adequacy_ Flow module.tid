@@ -1,0 +1,11 @@
+actualname: Flujo
+modified: 20240103225153024
+modifier: andrea.alberici
+modulename: Adequacy: Flow module
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: Adequacy: Flow module
+tmap.id: 932f0291-8e11-4e82-803c-2e0821a4fef1
+type: text/vnd.tiddlywiki
+
+This module is part of the [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:adecuaciones|Adequacy functionality]]. It represents the exact sequence of steps that must be taken to achieve the implementation process in the company. The idea of this module is to permit creating as many business process flow as needed and then instantiate then using an [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:adecuaciones|Adequacy]]. A business flow is an exact sequence of [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:pasos|business steps]]. -- Sale -- superseded by BPM perspective

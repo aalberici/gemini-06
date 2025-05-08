@@ -1,0 +1,12 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220627141326513
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV [[starting GV]]
+title: Application_ListView_Sum_Currency
+tmap.id: 64363016-8b43-469e-ad0f-624fee15aefe
+type: text/vnd.tiddlywiki
+
+Show total sum of currency columns. The default is 1

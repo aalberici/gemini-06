@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSV of column names
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_sort_users_by
+tmap.id: ab2e3eed-7433-4304-9923-e241da641982
+type: text/vnd.tiddlywiki
+
+Comma separated list of user column fields by which the user list on the calendar will be sorted. By default it is first_name,last_name

@@ -1,0 +1,8 @@
+actualname: modulename
+revision: 0
+tags: config-by-entity
+title: Tool: Business Actions
+tmap.id: 89454652-32ac-48fb-96c2-a6931c956482
+type: text/vnd.tiddlywiki
+
+The business config by entity dedicated to Business Actions XXX Business Actions are things that can happen inside the application. They enhance the vtiger CRM link system and they can affect any part of the application.

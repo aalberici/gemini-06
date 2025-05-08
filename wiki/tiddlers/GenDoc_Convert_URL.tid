@@ -1,0 +1,11 @@
+ValueType: String
+Values: URL
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Extension GV
+title: GenDoc_Convert_URL
+tmap.id: a23012e3-1588-4a27-87b3-3e578dd3ea89
+type: text/vnd.tiddlywiki
+
+URL to the conversion server: https://github.com/sfoxdev/docker-unoconv

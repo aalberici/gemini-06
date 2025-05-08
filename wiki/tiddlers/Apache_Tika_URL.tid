@@ -1,0 +1,11 @@
+ValueType: String
+Values: 
+modified: 20240103225846541
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Apache_Tika_URL
+tmap.id: 965161d8-8bd3-42b0-a218-4ffb01d680cc
+type: text/vnd.tiddlywiki
+
+Set URL where Tika is running

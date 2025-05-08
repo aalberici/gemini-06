@@ -1,0 +1,12 @@
+actualname: PurchaseOrder
+created: 20220626235855292
+creator: andrea.alberici
+modified: 20240103225153034
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module operations
+title: Module: Purchase Order
+tmap.id: 0bec4e93-cbb8-4ad4-8e4a-cb0bece3a3c7
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Purchase Order XXX The Purchase Order module facilitates the process of creating and issuing purchase orders. This module allows for parts, miscellaneous items, outsourced items, and credit returns items to be added to a purchase order.

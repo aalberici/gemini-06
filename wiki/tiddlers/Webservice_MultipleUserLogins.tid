@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_MultipleUserLogins
+tmap.id: 3e5693eb-1502-47fc-9dfe-391b8375ffa9
+type: text/vnd.tiddlywiki
+
+1 (default) allows the same user to login multiple times from different browser sessions.

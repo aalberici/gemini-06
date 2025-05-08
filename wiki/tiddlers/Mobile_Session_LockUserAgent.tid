@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Mobile GV
+title: Mobile_Session_LockUserAgent
+tmap.id: f4406d65-20c6-48bf-a6e7-ce1d67de9329
+type: text/vnd.tiddlywiki
+
+1 (default) restricts access to the same browser the login was made from

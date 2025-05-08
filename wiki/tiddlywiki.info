@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "tiddlywiki/highlight",
+        "tiddlywiki/markdown",
+        "tiddlywiki/qrcode"
+    ],
+    "themes": [
+        "tiddlywiki/snowwhite",
+        "tiddlywiki/vanilla"
+    ]
+}

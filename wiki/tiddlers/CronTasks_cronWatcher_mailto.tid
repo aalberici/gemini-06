@@ -1,0 +1,11 @@
+ValueType: CSV emails
+Values: 
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: CronTasks_cronWatcher_mailto
+tmap.id: f2a1b65e-978a-4ed5-a1f9-9f61fc486c63
+type: text/vnd.tiddlywiki
+
+The Cron Watcher service will send an email to the first administrator user it finds AND any email contained in this variable. By default it is empty.

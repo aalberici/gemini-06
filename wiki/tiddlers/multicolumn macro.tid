@@ -1,0 +1,22 @@
+created: 20241130182103407
+creator: andrea.alberici
+modified: 20241130182403064
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: multicolumn macro
+tmap.id: 6cd3e93a-7abe-4e89-ad4d-7b23787d2d45
+type: text/vnd.tiddlywiki
+
+\define colList(fv f cw i)
+<!-- 📒 fv=filter variable; f=filter; cw=column width; i=line item content -->
+@@display:block;-moz-column-count:auto;-webkit-column-count:auto;-moz-column-width:$cw$em;-webkit-column-width:$cw$em;-moz-column-gap:0.5em;-webkit-column-gap:0.5em;-moz-column-break-inside: avoid;-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column;
+<ul style="list-style-type:none; padding:0; margin:0;">
+<$list variable="$fv$" filter="$f$">
+<li style="border-left:1px solid lightgray;">$i$</li>
+</$list>
+</ul>
+@@
+\end
+
+<<colList "wt" "[tag[GV]sort[]]" 23 "<<wt>>">>

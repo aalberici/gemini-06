@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_Session_LockIP
+tmap.id: e728ffda-24d9-4af1-94ec-3a86e69aec23
+type: text/vnd.tiddlywiki
+
+1 restricts access to the same IP the login was made from. 0 is the default

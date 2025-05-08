@@ -1,0 +1,11 @@
+actualname: ProductAssociation
+modified: 20240103225153033
+modifier: andrea.alberici
+modulename: Product Association
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Product Association
+tmap.id: 60f736da-ed7c-4203-a8af-d4f8fa481017
+type: text/vnd.tiddlywiki
+
+Product to product relation. Permits establishing a relation between products to indicate things like what date range a product is Required,Incompatible,Optional,Marketing,Obsolete,Substitute by another. --  --

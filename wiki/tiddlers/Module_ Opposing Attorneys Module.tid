@@ -1,0 +1,11 @@
+actualname: OpposingAttorney
+modified: 20240103225153032
+modifier: andrea.alberici
+modulename: Opposing Attorneys Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Opposing Attorneys Module
+tmap.id: c9e0e25a-b724-4ed4-ba61-377a9d225814
+type: text/vnd.tiddlywiki
+
+Contact-like module to register information about the Opposing Attorneys we face in litigation matters.\\ This is part of the **Attorney's Back Office**. --  --

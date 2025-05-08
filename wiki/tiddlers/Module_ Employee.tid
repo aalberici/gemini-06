@@ -1,0 +1,20 @@
+actualname: cbEmployment
+created: 20211026144723277
+creator: andrea.alberici
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+tags: [[area: people]] entity non-standard-module
+title: Module: Employee
+tmap.id: 4e119f22-b73d-436e-a0be-5e78605eba97
+type: text/vnd.tiddlywiki
+
+!! DESCRIPTION
+The business entity  dedicated to employees.
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your employees. The assigned to field can be linked to the user accessing the application as a means to extend the information we have about each employee that has access to coreBOS, but it is not really linked in any special way.
+
+
+
+
+

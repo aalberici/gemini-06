@@ -1,0 +1,11 @@
+actualname: cbAttendance
+modified: 20240103225153024
+modifier: andrea.alberici
+modulename: Attendance Details Information
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Attendance Details Information
+tmap.id: def8fe6b-54de-4c61-921f-68b3762ac565
+type: text/vnd.tiddlywiki
+
+Module to register the fact of a contact assisting an event or session (related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:cbsession|cbSession module]]) -- Subscription --

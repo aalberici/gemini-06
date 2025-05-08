@@ -1,0 +1,33 @@
+created: 20180821081510349
+creator: )+(auloop
+footer: <$importvariables filter="[all[shadows+tiddlers]tag[$:/tags/tblMacro]!has[draft.of]]"><$wikify name="tbl-conf-prefix" text=<<tbl-conf-prefix>> ><<check-key>></$wikify></$importvariables><$button message="tm-close-tiddler">{{$:/core/images/close-button}}<$action-setfield $tiddler="$:/temp/tbl/new-row" text="" /></$button>
+modified: 20181016211200888
+modifier: )+(auloop
+revision: 0
+subtitle: Edit row
+tags: TableToolPlugin
+title: $:/plugins/mau/TableTool/modals/row-dialog
+type: text/vnd.tiddlywiki
+
+<$importvariables filter="[all[shadows+tiddlers]tag[$:/tags/tblMacro]!has[draft.of]]">
+<$wikify name="tbl-conf-prefix" text=<<tbl-conf-prefix>> >
+<$tiddler tiddler="$:/temp/tbl/new-row">
+
+<!----------------------------
+-- "Row" dialog
+-->
+
+<table class="noBorder">
+<$list filter="""[list<tbl-conf>]""" variable="tbl-col-id">
+<$list filter="""[<tbl-col>tbl-key[yes]]""" variable="tbl-col">
+<tr>
+<td><$transclude tiddler=<<tbl-col>> index="tbl-col-label" /></td>
+<td><$transclude tiddler=<<tbl-col>> index="tbl-td-edit" /></td>
+</tr>
+</$list>
+</$list>
+</table>
+
+</$tiddler>
+</$wikify>
+</$importvariables>

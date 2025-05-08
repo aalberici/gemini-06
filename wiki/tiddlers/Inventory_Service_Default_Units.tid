@@ -1,0 +1,11 @@
+ValueType: Decimal
+Values: 
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Inventory_Service_Default_Units
+tmap.id: bf927450-7571-4809-9962-fe316fae80ea
+type: text/vnd.tiddlywiki
+
+The number of units that is set when creating a new product line in inventory modules. The default value is 1.

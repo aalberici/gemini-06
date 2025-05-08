@@ -1,0 +1,15 @@
+ActualValue: 1
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628181536253
+creator: andrea.alberici
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: WebDav GV [[starting GV]] focus-project
+title: WEBDAV_Enabled
+tmap.id: 0e4e5ae2-bea0-4589-ae42-7542179a57c1
+type: text/vnd.tiddlywiki
+
+Completely disables or enables webdav access.

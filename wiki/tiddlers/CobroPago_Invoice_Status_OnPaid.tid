@@ -1,0 +1,11 @@
+ValueType: string
+Values: Valid Invoice status picklist values
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: CobroPago_Invoice_Status_OnPaid
+tmap.id: d9634d1b-6542-4377-837d-92e9c5b88f61
+type: text/vnd.tiddlywiki
+
+When saving a Payment related to an Invoice, the status of the Invoice will be set to the value contained in this variable. The special value "DoNotChange" will deactivate this functionality and no change will be done.

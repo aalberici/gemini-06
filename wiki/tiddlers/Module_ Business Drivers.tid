@@ -1,0 +1,14 @@
+created: 20211122203826411
+creator: artemisa.puci
+modified: 20240103225153026
+modifier: andrea.alberici
+revision: 0
+tags: [[area: infrastructure]] entity non-standard-module
+title: Module: Business Drivers
+tmap.id: cb8d8f11-1b1a-444a-9c1a-8dabc3b7032a
+type: text/vnd.tiddlywiki
+
+!! DESCRIPTION
+The business entity dedicated to Business Drivers.
+
+This is a custom vtlib module which can be installed through the module manager.Business drivers measure value, risk, and economic costs that influence an organization’s approach to IT security. Value drivers determine the worth of assets of the system to the business and of the business itself. Risk drivers involve compliance, corporate structure, corporate image, and the risk tolerance of the company. Economic drivers determine productivity impact, competitive advantage, and system cost. This set of drivers might vary from industry to industry, from organization to organization in the same industry, and even from different business applications within an organization.

@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20240618210349000",
+        "creator": "admin",
+        "title": "cbOffersKanban",
+        "text": "!! [[cbOffersKanban|https://itelcond.evolutivo.it/index.php?action=DetailView&module=cbMap&record=11675]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "tags": "cbMap cbrecord",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "cbOffersKanban",
+        "mapnumber": "BMAP-0000061",
+        "maptype": "Kanban",
+        "targetname": "cbOffers",
+        "content": "<map>\n    <module>cbOffers</module>\n    <lanefield>success_chance</lanefield>\n    <showsearch>1</showsearch>\n    <showfilter>1</showfilter>\n    <applyfilter>Delivered_Probability of Sucess</applyfilter>\n    <pagesize>6</pagesize>\n \n<lanes>\n    <lane>\n        <name>Bassa</name>\n        <sequence>1</sequence>\n       <color>green</color>\n   </lane>\n\n   <lane>\n        <name>Media</name>\n        <sequence>3</sequence>\n        <color>orange</color>\n   </lane>\n\n   <lane>\n        <name>Alta</name>\n        <sequence>2</sequence>\n       <color>green</color>\n   </lane>\n</lanes>\n    <card>\n      <title>subject</title>\n      <showfields>\n        <field>cboffersno</field>\n      </showfields>\n      <morefields>\n        <field>related_client</field>\n        <field>expiration_date</field>\n      </morefields>\n    </card>\n</map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "2022-05-30 22:41:49",
+        "modifiedtime": "2022-05-30 23:32:15",
+        "created_user_id": "19x1",
+        "contentjson": "{\"module\":\"cbOffers\",\"lanefield\":\"success_chance\",\"showsearch\":\"1\",\"showfilter\":\"1\",\"applyfilter\":\"Delivered_Probability of Sucess\",\"pagesize\":\"6\",\"lanes\":{\"lane\":[{\"name\":\"Bassa\",\"sequence\":\"1\",\"color\":\"green\"},{\"name\":\"Media\",\"sequence\":\"3\",\"color\":\"orange\"},{\"name\":\"Alta\",\"sequence\":\"2\",\"color\":\"green\"}]},\"card\":{\"title\":\"subject\",\"showfields\":{\"field\":\"cboffersno\"},\"morefields\":{\"field\":[\"related_client\",\"expiration_date\"]}}}",
+        "description": "",
+        "id": "37x11675",
+        "cbuuid": "dc3b642e0877ef6bc719e41e0602d7aa55cc55cc",
+        "tmap.id": "021e37ac-2d74-48c3-ac1e-36dae517d1fe",
+        "revision": "0"
+    }
+]

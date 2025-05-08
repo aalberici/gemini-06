@@ -1,0 +1,11 @@
+created: 20190809053338780
+creator: andrea.alberici
+description: part of Timelines plugin documentation. Do not delete
+modified: 20220919125553039
+modifier: andrea.alberici
+revision: 0
+title: sample-user-template
+tmap.id: f75c4adf-cea7-4d0e-8c79-28e6923ee28a
+type: text/vnd.tiddlywiki
+
+<h3><$transclude field="title"/></h3>

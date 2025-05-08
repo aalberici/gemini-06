@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: ToolTip_NumberOfComments
+tmap.id: 35ecd125-c1bd-43b4-b299-8c8f0545e831
+type: text/vnd.tiddlywiki
+
+The maximum number of comments to show in the tooltip. The default value is 5.

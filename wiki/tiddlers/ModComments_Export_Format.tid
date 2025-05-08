@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSV | XLS
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: ModComments_Export_Format
+tmap.id: 145cc191-ad19-44b4-a4fa-bf2d127e5c8b
+type: text/vnd.tiddlywiki
+
+This variable decides if we export comments in CSV or XLS format. The default value is CSV

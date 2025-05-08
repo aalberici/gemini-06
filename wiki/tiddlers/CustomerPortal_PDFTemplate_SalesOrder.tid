@@ -1,0 +1,11 @@
+ValueType: String
+Values: ID or name of template to use
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_PDFTemplate_SalesOrder
+tmap.id: 2731377b-8d6b-4f04-ad6f-ff1f634913bb
+type: text/vnd.tiddlywiki
+
+When the CustomerPortal_PDF variable is set to PDFMaker or GenDoc, this variable indicates which template should be used to generate Sales Order PDF. If it is empty the first template found will be used.

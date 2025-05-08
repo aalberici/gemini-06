@@ -1,0 +1,11 @@
+ValueType: String
+Values: Name|Number
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Workflow_Email_GenDoc_Attachment_Name
+tmap.id: c7140b6a-2df2-4803-9cd1-a26b1fd33342
+type: text/vnd.tiddlywiki
+
+When merging a GenDoc workflow email attachment, the name used for the attachment will be the Entity Name field (Name) or the Entity Number field (Number) concatenated with the template name.

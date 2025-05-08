@@ -1,0 +1,11 @@
+ValueType: String
+Values: SQL sort specification|DO NOT SORT
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_User_SortBy
+tmap.id: b9b7bb4c-df7c-4ea0-9070-4080c3e37a35
+type: text/vnd.tiddlywiki
+
+If given will be feeded directly into the SQL query to retrieve users that appear in the Assigned To dropdown permitting us to customize the sort order of these users.

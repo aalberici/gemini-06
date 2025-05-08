@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_PermitQueryOnInactiveUsers
+tmap.id: ceb5e41f-5fb5-4159-85c9-335b4d5c0119
+type: text/vnd.tiddlywiki
+
+Include inactive users in results of web service query.

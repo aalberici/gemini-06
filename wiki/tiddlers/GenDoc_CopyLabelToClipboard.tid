@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0|1
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Extension GV
+title: GenDoc_CopyLabelToClipboard
+tmap.id: 8e27f3f1-0d53-4164-8291-ee6077918510
+type: text/vnd.tiddlywiki
+
+Make the copy links in Detail View copy GenDoc labels instead of field values. By default deactivated.

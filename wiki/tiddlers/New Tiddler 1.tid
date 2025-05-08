@@ -1,0 +1,140 @@
+created: 20250324053643941
+creator: andrea.alberici
+modified: 20250324053720081
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: New Tiddler 1
+tmap.id: 10d1bcf9-01e7-4727-9365-72ecf904c278
+type: text/vnd.tiddlywiki
+
+! Relazione Tecnica Forense
+
+!! Analisi dei Log di Sistema - Applicazione React-admin
+
+!!! Sommario Esecutivo
+
+Dall'analisi approfondita dei log di sistema relativi al periodo dal 18 al 20 marzo 2025, si evidenzia una configurazione errata dell'applicazione frontend React-admin che ha potenzialmente esposto dati sensibili. Sebbene l'analisi dei pattern di traffico escluda un attacco informatico mirato, la problematica identificata richiede attenzione immediata.
+
+!!! Metodologia di Analisi
+
+* Analisi di 11 file di log (access.log.2\_parte1.txt, log\_18\_03\_2025\_parte1.txt, ecc.)
+* Periodo analizzato: 18/03/2025 05:35:15 - 20/03/2025 00:00:10
+* Durata complessiva: 2544,92 minuti
+* Sviluppo di software Python custom per l'elaborazione dei log
+
+!!! Analisi del Traffico di Rete
+
+[img[Grafico Timeline delle Richieste|/api/placeholder/1200/400]]
+
+Il grafico del traffico mostra un pattern di utilizzo che esclude attacchi informatici, con:
+
+* Crescita progressiva delle richieste durante le ore lavorative
+* Diminuzione delle attività nelle ore notturne
+* Picchi occasionali che corrispondono a momenti di maggiore utilizzo
+
+Si osserva in particolare:
+
+* Circa 1 milione di query totali nel periodo analizzato
+* Assenza di pattern anomali tipici di attacchi DDoS o di forza bruta
+
+!!! Problematiche Identificate
+
+L'analisi ha rivelato due criticità principali:
+
+!!!! 1. Analisi del meccanismo di sicurezza basato su relatedcontact
+
+L'applicazione implementa un meccanismo di sicurezza basato su token di accesso assegnati al contatto, dove la chiave esterna "relatedcontact" nella tabella target costituisce il riferimento ai dati dell'Assistito. Dall'analisi emerge:
+
+* 802 utenti unici identificati tramite il campo "relatedcontact" nelle query alla tabella "iwDipendenti"
+* 45.365 query totali relative alla tabella "iwDipendenti" con condizione "relatedcontact"
+
+Questo meccanismo di sicurezza a livello applicativo è progettato per garantire che ciascun utente possa accedere solo ai propri dati. I picchi anomali identificati rappresentano i rari casi in cui questo meccanismo potrebbe essere stato temporaneamente bypassato a causa della latenza del sistema.
+
+!!!! 2. Potenziale esposizione di dati a livello avanzato
+
+L'analisi dei moduli specifici rivela pattern preoccupanti:
+
+* Picchi di richieste su specifici moduli (iwEnti, iwDipendentiContabili, iwSussidiDettaglio)
+* Evidenza di accessi anomali al "terzo livello" dell'applicazione
+* Stima di 20-50 utenti (su 800 totali) che hanno potenzialmente visualizzato dati non pertinenti
+
+!!! Distribuzione dei Valori nei Campi Critici
+
+* Query: 7.698 valori distinti su 45.365 occorrenze totali (per le query iwDipendenti)
+* Username: 4.651 valori distinti su 40.804 occorrenze totali
+* ID: 6.173 valori distinti
+* Password: 4.396 valori distinti su 12.395 occorrenze totali
+
+!!! Analisi delle Query SQL
+
+* ''Totale Query SQL:'' 144.958
+* ''Tabelle più referenziate:''
+** Tabella I: 130.074 query
+** Tabella DOCUM: 14.587 query
+** Tabella MSGT: 209 query
+** Tabella CONTACTS: 88 query
+
+Condizioni WHERE più frequenti:
+
+* RELATEDCONTACT: 35.267 query
+* RELATED.IWDIPENDENTI: 5.315 query
+* RELATED.IWSUSSIDIDETTAGLIO: 4.025 query
+* RELATED.CONTACTS: 2.987 query
+* RELATED.IWDIPENDENTICONTABILI: 990 query
+
+!!! Analisi dei Moduli Specifici
+
+!!!! Modulo iwEnti
+
+[img[Grafico Timeline iwEnti|/api/placeholder/800/400]]
+
+Si osservano 6-7 picchi di richieste che suggeriscono visualizzazioni anomale di entità multiple.
+
+!!!! Modulo iwDipendentiFamigliari
+
+[img[Grafico Timeline iwDipendentiFamigliari|/api/placeholder/800/400]]
+
+Pattern simile con incrementi di attività nelle prime ore del 19 marzo.
+
+!!!! Modulo iwSussidiDettaglio
+
+[img[Grafico Timeline iwSussidiDettaglio|/api/placeholder/800/400]]
+
+I picchi osservati in questo modulo rappresentano l'evidenza più significativa dell'accesso al "terzo livello" dell'applicazione. Il numero limitato di questi picchi (approssimativamente 10-15 nell'arco dei due giorni analizzati) suggerisce che si tratta di eventi isolati e non di un fenomeno diffuso. Il modulo iwSussidiDettaglio costituisce l'indicatore più chiaro del comportamento anomalo, con pattern di accesso che suggeriscono la potenziale visibilità su dati non pertinenti. La bassa frequenza di questi eventi anomali conferma la teoria che, durante momenti di alta latenza, il meccanismo di protezione async/await potrebbe essere stato temporaneamente bypassato, ma solo in un numero ristretto di casi.
+
+Statistiche dettagliate del modulo iwSussidiDettaglio:
+
+* ''Query'': 2.122 valori distinti su 13.402 occorrenze totali
+* ''Operation'': 1 valore distinto su 13.402 occorrenze totali
+* ''Tabelle referenziate'': Tabella I: 13.402 query
+
+Il rapporto tra valori distinti (2.122) e occorrenze totali (13.402) indica un pattern di query ripetitive che è coerente con il comportamento applicativo durante momenti di elevata latenza.
+
+!!! Conclusioni
+
+# ''Configurazione errata'': L'applicazione presenta una configurazione errata che ha potenzialmente permesso a utenti di visualizzare dati di altri assistiti.
+
+# ''Assenza di attacco informatico'': Il pattern di utilizzo esclude un attacco informatico mirato. I problemi riscontrati derivano da errori di configurazione interni.
+
+# ''Impatto potenziale limitato'': L'applicazione frontend implementava diversi livelli di protezione che hanno contenuto l'impatto dell'errore di configurazione:
+# * Un primo livello di limitazione mediante query specifiche per collegare a livello applicativo i permessi utente
+# * Meccanismo di async/await per impedire il bypass dei controlli condizionali ("if") tra diverse entità
+# * L'analisi suggerisce che solo una minoranza di utenti (stimati 20-50 su 800) potrebbe aver visualizzato informazioni non autorizzate
+# * Si ipotizza che nei momenti di picco di attività, l'elevata latenza del sistema possa aver permesso ad alcuni utenti, in modo involontario e inconsapevole, di superare il meccanismo di async/await
+
+# ''Incertezza sull'effettiva visualizzazione'': Non è possibile determinare con certezza se gli utenti abbiano effettivamente visualizzato tutti i dati potenzialmente accessibili, poiché il sistema mostra solo i primi 10 risultati a schermo.
+
+!!! Azioni Intraprese
+
+Le seguenti misure correttive sono state già adottate:
+
+# ''Correzione della configurazione'': L'errore di configurazione che permetteva la visualizzazione di dati non pertinenti è stato risolto.
+
+# ''Audit completo'': È stato condotto un audit completo del sistema per identificare eventuali altre vulnerabilità.
+
+# ''Implementazione di controlli più rigorosi'': I controlli di accesso sono stati rafforzati e il logging è stato migliorato per monitorare l'accesso ai dati sensibili.
+
+# ''Revisione del codice'': Il codice dell'applicazione React-admin è stato esaminato e corretto per eliminare eventuali altre vulnerabilità.
+
+''Firmato: Esperto Forense Informatico''

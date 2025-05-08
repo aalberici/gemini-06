@@ -1,0 +1,11 @@
+actualname: County
+modified: 20240103225153028
+modifier: andrea.alberici
+modulename: County
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: County
+tmap.id: 6e6b5367-f9ee-4f69-b930-8fe4a18ae324
+type: text/vnd.tiddlywiki
+
+County module to save local region/political divisions. -- Subscription --

@@ -1,0 +1,11 @@
+actualname: GEOMAP
+modified: 20230617155327088
+modifier: andrea.alberici
+modulename: Geographical maps for coreBOSCRM
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Geographical maps for coreBOSCRM
+tmap.id: b4c622f3-8d9e-4e63-87ad-73018a921712
+type: text/vnd.tiddlywiki
+
+This extension allows you to locate your customers, leads, opportunities and any module with an address, geographically on a map using the integration with Google Maps or OpenStreetMaps. --  --

@@ -1,0 +1,23 @@
+created: 20220729145320303
+creator: andrea.alberici
+modified: 20240103225153028
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Delivery Note Details
+tmap.id: c59f7a16-7eb8-4468-a561-988c3d9d69e1
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to sales order details, that represent the different product/services offered in a DDT
+
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about quantity / prices / discounts. 
+
+
+
+!! Related Modules 
+
+

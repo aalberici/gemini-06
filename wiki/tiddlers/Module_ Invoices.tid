@@ -1,0 +1,23 @@
+actualname: Invoice
+created: 20220611150918337
+creator: andrea.alberici
+modified: 20240103225153031
+modifier: andrea.alberici
+revision: 0
+tags: [[area: people]] standard-module crm sales entity
+title: Module: Invoices
+tmap.id: a88b80bf-db3a-43f8-845b-080d770462a7
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to invoices
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your invoices. 
+
+
+
+
+
+!! Related Modules 
+[[Module: Invoice Details]]
+[[Module: Payments]]

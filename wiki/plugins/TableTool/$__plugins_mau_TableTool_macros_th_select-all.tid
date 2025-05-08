@@ -1,0 +1,23 @@
+created: 20170412090003168
+creator: )+(auloop
+list: 
+modified: 20181015200311249
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/th/select-all
+type: text/vnd.tiddlywiki
+
+\define thvSelectAll()
+<$button class="tc-btn-invisible">
+<$checkbox field="select-all" checked="true" unchecked="false" />
+<$reveal state="!!select-all" type="nomatch" text="true">
+<$action-setfield select-all="true"/>
+<$list filter="""[tag<tbl-name>]"""><$action-setfield selected="true"/></$list>
+</$reveal>
+<$reveal state="!!select-all" type="match" text="true">
+<$action-setfield select-all="false"/>
+<$list filter="""[tag<tbl-name>]"""><$action-setfield selected="false"/></$list>
+</$reveal>
+</$button>
+\end

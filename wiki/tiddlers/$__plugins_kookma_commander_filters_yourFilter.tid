@@ -1,0 +1,10 @@
+created: 20250319193233994
+creator: andrea.alberici
+description: just imported
+filter: [[$:/Import]links[]]
+modified: 20250319193233994
+modifier: andrea.alberici
+revision: 0
+tags: $:/tags/Commander/Filter
+title: $:/plugins/kookma/commander/filters/yourFilter
+type: text/vnd.tiddlywiki

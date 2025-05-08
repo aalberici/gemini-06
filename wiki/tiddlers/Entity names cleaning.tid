@@ -1,0 +1,13 @@
+created: 20220712101301000
+creator: andrea.alberici
+modified: 20220808093302301
+modifier: xhensilda.ndreka
+revision: 0
+tags: 
+title: Entity names cleaning
+tmap.id: 77df4eb5-2066-4b90-b77b-0aca9390a91e
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" field=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[entity]search{$:/temp/tasks/dtable/search}]" fields="tbl-expand title tags actualname" class="w-100" stateTiddler="your-state-tid"/>

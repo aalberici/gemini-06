@@ -1,0 +1,11 @@
+actualname: MargenComision
+modified: 20240103225153027
+modifier: andrea.alberici
+modulename: Commission Range module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Commission Range module
+tmap.id: 38b7c385-e378-4345-844b-d9db7786cacc
+type: text/vnd.tiddlywiki
+
+Module to register commission ranges. This module will permit you to record a start and end number associated to a commission, which can then be used in other modules to establish payments or similar. -- Subscription --

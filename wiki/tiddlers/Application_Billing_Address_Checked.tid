@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846541
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Billing_Address_Checked
+tmap.id: 8727b8b4-225d-4572-98a8-9a732122bb5b
+type: text/vnd.tiddlywiki
+
+When selecting an Account/Contact/Vendor in the popup window, the application asks if it must fill in addresses. This variable sets the Billing Address check box.

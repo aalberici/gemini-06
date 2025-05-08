@@ -1,0 +1,13 @@
+ValueType: String
+Values: SMS | EMAIL | MOBILE
+created: 20220711215019052
+creator: andrea.alberici
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: User_2FAAuthentication_SendMethod
+tmap.id: 583592f3-c111-427f-9b0d-7b5b889a1490
+type: text/vnd.tiddlywiki
+
+Method to send 2FA code to user

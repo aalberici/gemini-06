@@ -1,0 +1,16 @@
+created: 20170517195222349
+creator: )+(auloop
+list: 
+modified: 20181015194322705
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/thvHeadMenu TableToolPlugin
+title: $:/plugins/mau/TableTool/head-menu/col-properties
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible">
+Change column properties
+<$action-sendmessage $message="tm-modal" $param="$:/plugins/mau/TableTool/modals/column-dialog" tbl-conf=<<tbl-conf>> tbl-name=<<tbl-name>> tbl-set-column-properties=<<tbl-set-column-properties>>/>
+<$action-setfield $tiddler=<<tbl-col>> title="$:/temp/tbl/new-column" />
+<$action-setfield $tiddler="$:/temp/tbl/new-column" $index="tbl-column-order" $value={{{[list<tbl-conf>after<tbl-col-id>]}}} />
+</$button>

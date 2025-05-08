@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0|1
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Attachment_ShowDownloadName
+tmap.id: 57262d27-56a9-4172-ab89-7f1a8481ba0e
+type: text/vnd.tiddlywiki
+
+In Detail View, will show the image/attachment name as a download link above the image itself.

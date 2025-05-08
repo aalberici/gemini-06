@@ -1,0 +1,13 @@
+ValueType: string
+Values: module column name
+created: 20220711220953361
+creator: andrea.alberici
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_ListView_Default_OrderField
+tmap.id: b1bf363e-8676-4300-a4be-ab4ba2838251
+type: text/vnd.tiddlywiki
+
+Field of the module to sort by. If not defined the internal default value of each module will be used.

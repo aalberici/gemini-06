@@ -1,0 +1,24 @@
+actualname: cbSODetails
+created: 20220729135445347
+creator: andrea.alberici
+modified: 20240103225153036
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Sales Order Details
+tmap.id: 1852ea98-f1e4-458a-8b06-fcf40c353b23
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Documentos of transportation, that represent the different product/services offered in a sales order
+
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about quantity / prices / discounts. 
+
+
+
+!! Related Modules 
+
+

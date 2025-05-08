@@ -1,0 +1,12 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220627141755307
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Global_Search_Active
+tmap.id: 416c1ba9-871e-4f9b-83e9-1350b8473917
+type: text/vnd.tiddlywiki
+
+Displays (1) or hides (0) the global search functionality. It can be combined with the global search autocomplete map to offer a reduced search option.

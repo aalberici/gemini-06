@@ -1,0 +1,11 @@
+actualname: subslist
+modified: 20240103225153037
+modifier: andrea.alberici
+modulename: Segmentation Lists
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Segmentation Lists
+tmap.id: c3f87714-3332-4c2e-a277-a19be509ae01
+type: text/vnd.tiddlywiki
+
+Module to register the different groupings of our clients by different criteria in order to work with them in a segmented manner. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:subslist --  --

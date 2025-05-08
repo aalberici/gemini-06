@@ -1,0 +1,11 @@
+created: 20220709134359565
+creator: andrea.alberici
+modified: 20221006112935923
+modifier: andrea.alberici
+module: cbProcessStep
+revision: 0
+tags: bpm-flow purchaseorder_mgmt flow-status
+title: STATUS: Canceled
+tmap.edges: {}
+tmap.id: 97e3c8c7-6750-4f8b-b71f-eeb1a1f91e6f
+type: text/vnd.tiddlywiki

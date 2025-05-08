@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Email_Sending
+tmap.id: ee6debda-b90c-4a81-a74c-8f20c864a094
+type: text/vnd.tiddlywiki
+
+If set to 1 the full email conversation will be output to the log file so you can debug email settings issues. The log file debugging must be activated.

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_ListView_SearchPanel_Open
+tmap.id: 8151e3a8-505e-42e2-bbd7-a7a3d902cf99
+type: text/vnd.tiddlywiki
+
+If set to the default value of 1, the search panel on list view will be open. If set to 0 it will be hidden. It can be toggled using the search icon on the toolbar.

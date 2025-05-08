@@ -1,0 +1,11 @@
+ValueType: String
+Values: Any valid Zero Bounce API KEY
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Zero_Bounce_API_KEY
+tmap.id: 8a08bd54-ad90-46e6-b0e0-02dad70000d2
+type: text/vnd.tiddlywiki
+
+The valid Zero Bounce API KEY

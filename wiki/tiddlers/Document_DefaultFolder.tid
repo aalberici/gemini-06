@@ -1,0 +1,15 @@
+ActualValue: Default
+ValueType: String
+Values: 
+created: 20220627141640459
+creator: andrea.alberici
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] done focus-project
+title: Document_DefaultFolder
+tmap.id: 475c1b17-9ce3-4e4a-b8f7-b77a7297abd3
+type: text/vnd.tiddlywiki
+
+When creating a document, it will be related to the "Default" folder. This variable defines the name of the folder you want the documents to be related to.

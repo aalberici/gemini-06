@@ -1,0 +1,11 @@
+actualname: cbGMP
+modified: 20230617155327088
+modifier: andrea.alberici
+modulename: Google Measurement Protocol Extension
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Google Measurement Protocol Extension
+tmap.id: 42e03dc1-d120-4ffe-b37a-6ea47bf66fdc
+type: text/vnd.tiddlywiki
+
+This extension permits you to send data to Google Analytics based on ClientID on Account via WorkfFlow. With this easy setup you can fully track the ROI of your google investments and do all sorts of analysis and statistics on your clients using Google Analytics platform. -- Sale -- native in corebos now

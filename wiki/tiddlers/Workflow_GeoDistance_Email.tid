@@ -1,0 +1,11 @@
+ValueType: String
+Values: Valid Email
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Workflow_GeoDistance_Email
+tmap.id: e964e162-6b48-4277-babf-ac7880b3f13d
+type: text/vnd.tiddlywiki
+
+For GeoDistance calculation workflow functions, we need to sets this variable with a valid email. Default value is an empty string

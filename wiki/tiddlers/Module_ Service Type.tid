@@ -1,0 +1,11 @@
+actualname: cbServiceType
+modified: 20240103225153037
+modifier: andrea.alberici
+modulename: Service Type
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Service Type
+tmap.id: 84535854-8307-4280-88cb-a0b95c3eafe4
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record service categories or types - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbservicetype --  --

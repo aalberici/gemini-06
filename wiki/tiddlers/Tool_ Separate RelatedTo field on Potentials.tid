@@ -1,0 +1,11 @@
+actualname: PotentialSeparateRelatedTo
+modified: 20230617155327090
+modifier: andrea.alberici
+modulename: Separate RelatedTo field on Potentials
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Separate RelatedTo field on Potentials
+tmap.id: e9d1f856-86aa-4322-97d4-2146b6528b34
+type: text/vnd.tiddlywiki
+
+This enhancement will separate the Account/Contact RelatedTo field on the Potentials module. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhancepotrelto --  --

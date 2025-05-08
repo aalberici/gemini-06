@@ -1,0 +1,11 @@
+ValueType: CSV Errors
+Values: comma separated list of error properties
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_WebService_Errors
+tmap.id: d5029c45-9a25-4cc3-9ba2-ce58cce71375
+type: text/vnd.tiddlywiki
+
+Error code property names can be found in the include/Webservices/WebServiceErrorCode.php file. For example; `DATABASEQUERYERROR,INVALIDID`

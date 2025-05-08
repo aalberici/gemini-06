@@ -1,0 +1,11 @@
+ValueType: CSV EMail
+Values: comma separated list of valid emails
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Send_VtigerCron_Error
+tmap.id: 69c5b607-f325-498c-abc9-f28449fc8070
+type: text/vnd.tiddlywiki
+
+All the email addresses on this list will receive an email when the cron process produces a catchable error

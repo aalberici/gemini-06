@@ -1,0 +1,14 @@
+{
+    "author": "Felix Küppers",
+    "core-version": ">=5.1.5",
+    "dependents": "",
+    "description": "TopStoryView – Always scroll navigated tiddlers to the top",
+    "list": "Configuration License Readme",
+    "plugin-type": "plugin",
+    "released": "",
+    "source": "https://github.com/felixhayashi/TW5-TopStoryView",
+    "title": "$:/plugins/felixhayashi/topstoryview",
+    "version": "0.2.0",
+    "revision": "0",
+    "bag": "default"
+}

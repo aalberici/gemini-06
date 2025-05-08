@@ -1,0 +1,25 @@
+created: 20170418162629326
+creator: )+(auloop
+modified: 20181011101830862
+modifier: )+(auloop
+revision: 0
+tags: TableToolPlugin
+title: $:/plugins/mau/TableTool/templates/row-template
+tmap.id: b6706133-9f74-473f-beee-ae7beba59433
+type: text/vnd.tiddlywiki
+
+\define tbl-show-column()
+<$(tbl-mode-tag)$ style="min-width:$(tbl-col-width)$;"><$transclude tiddler=<<tbl-col>> index=<<tbl-mode>> /></$(tbl-mode-tag)$>
+\end
+
+<tr>
+<$list filter="""[list<tbl-conf>] -[list<tbl-list-hidden>]""" variable="tbl-col-id">
+<$wikify name="tbl-mode" text=<<tbl-mode>> >
+<$wikify name="tbl-col-width" text=<<tbl-col-width>> >
+<$set name="tbl-mode-tag" filter=<<tbl-mode-filter>> value="th" emptyValue="td">
+<<tbl-show-column>>
+</$set>
+</$wikify>
+</$wikify>
+</$list>
+</tr>

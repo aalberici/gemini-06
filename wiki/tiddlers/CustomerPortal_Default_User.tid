@@ -1,0 +1,11 @@
+ValueType: String
+Values: user name of the default user to access as
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_Default_User
+tmap.id: 488ac052-555b-4525-966c-ea0de94efa4a
+type: text/vnd.tiddlywiki
+
+When accessing an external portal application as a contact or employee, you must use a real coreBOS user to get the permissions. This variable defines that user. The application will look for the selected user on the contact/employee record. If there is none, then the value in this variable will be used.

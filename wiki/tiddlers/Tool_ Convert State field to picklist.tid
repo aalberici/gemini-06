@@ -1,0 +1,11 @@
+actualname: convertState2Picklist
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: Convert State field to picklist
+revision: 0
+tags: change jpl_tsolucio tool non-standard-module archived-modules
+title: Tool: Convert State field to picklist
+tmap.id: 2b879f8e-1896-4455-91c1-6c99753a0f6b
+type: text/vnd.tiddlywiki
+
+This change will convert state fields on Accounts, Contacts, Vendors, Leads and Inventory modules into shared picklists. -- Free --

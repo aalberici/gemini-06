@@ -1,0 +1,13 @@
+created: 20220628173142038
+creator: andrea.alberici
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: TableOfContent
+title: Global Variables Search and Destroy
+tmap.id: fde90478-c986-49fe-b1fb-85f52c59de9b
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" field=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[GV]search{$:/temp/tasks/dtable/search}]" fields=" tbl-expand title text Values tags" class="w-100" stateTiddler="your-state-tid"/>

@@ -1,0 +1,12 @@
+ValueType: URL
+Values: 
+created: 20220627141834898
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_UI_URL
+tmap.id: 36d6b58f-e0bc-4baa-a634-9739ba042787
+type: text/vnd.tiddlywiki
+
+URL of the application that will be used on screen as a link in the name.

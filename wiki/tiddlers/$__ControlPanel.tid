@@ -1,0 +1,14 @@
+color: #bbb
+created: 20240815205550494
+creator: andrea.alberici
+icon: $:/core/images/options-button
+modified: 20240815205606814
+modifier: andrea.alberici
+page-cover: 
+revision: 0
+title: $:/ControlPanel
+type: text/vnd.tiddlywiki
+
+<div class="tc-control-panel">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/ControlPanel]!has[draft.of]]" default="$:/core/ui/ControlPanel/Info" explicitState="$:/state/tab-1749438307"/>
+</div>

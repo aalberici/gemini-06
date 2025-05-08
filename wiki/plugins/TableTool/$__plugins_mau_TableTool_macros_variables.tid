@@ -1,0 +1,25 @@
+created: 20170519160134098
+creator: )+(auloop
+list: 
+modified: 20181015204218993
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/variables
+type: text/vnd.tiddlywiki
+
+\define tbl-plugin() $:/plugins/mau/TableTool
+\define tbl-row() $(tbl-plugin)$/templates/row-template
+\define tbl-conf() $(tbl-conf-prefix)$/$(tbl-name)$/$(tbl-layout)$
+\define tbl-list-hidden() $(tbl-conf)$!!tbl-list-hidden
+\define tbl-col() $(tbl-conf)$/$(tbl-col-id)$
+\define tbl-mode-filter() [<currentTiddler>regexp:$(tbl-col-id)$[^tbl-th.*]]
+
+\define tbl-max-rows() $(tbl-plugin)$/config/tbl-max-rows
+\define tbl-start-row() $:/state/tbl/$(tbl-name)$/start-row
+
+\define tbl-conf-prefix() {{$(tbl-plugin)$/config/tbl-conf-prefix}}
+\define tbl-mode() {{!!$(tbl-col-id)$}}
+\define tbl-col-width() {{$(tbl-col)$##tbl-col-width}}
+
+<!-- this variables have to be wikified: """<$wikify name="macro" text=<<macro>> >""" -->

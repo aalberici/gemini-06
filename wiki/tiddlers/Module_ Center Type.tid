@@ -1,0 +1,11 @@
+actualname: cbCenterType
+modified: 20240103225153027
+modifier: andrea.alberici
+modulename: Center Type
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Center Type
+tmap.id: 56234d48-edc2-4d4e-ae40-c67f0b0a1a91
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record work centers, offices or similar. <WRAP center round info 75%>Does not contain address.</WRAP> -- Subscription --

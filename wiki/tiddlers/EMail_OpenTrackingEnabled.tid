@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: EMail_OpenTrackingEnabled
+tmap.id: 870f072e-fe99-4ad5-85ac-5e1f1ba07006
+type: text/vnd.tiddlywiki
+
+If emails will have a hidden image to track openings. The default is enabled (1). Documentation

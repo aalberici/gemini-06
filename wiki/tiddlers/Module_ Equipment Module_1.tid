@@ -1,0 +1,11 @@
+actualname: cbEquipment
+modified: 20240103225153029
+modifier: andrea.alberici
+modulename: Equipment Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Equipment Module
+tmap.id: a6d411f4-bbf3-455b-8b96-2c75b6263504
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record equipment/assets, their cost and amortization. -- Subscription --

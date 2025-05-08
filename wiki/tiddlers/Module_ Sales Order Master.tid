@@ -1,0 +1,25 @@
+actualname: cbSOMaster
+created: 20220729135306005
+creator: andrea.alberici
+modified: 20240103225153036
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Sales Order Master
+tmap.id: 021eca7f-4270-4838-aeb6-a9f886bd5565
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to quotes.
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about the terms and master data of offers
+Eventually to be linked to calculations about tickets and timecontrols
+
+
+
+!! Related Modules 
+* [[Module: Sales Order Details]]
+* [[Module: Calendar Todos]]
+* [[Module: Documents]]

@@ -1,0 +1,16 @@
+created: 20170415223200010
+creator: )+(auloop
+list: 
+modified: 20181015200311373
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/new-column-defaults
+type: text/vnd.tiddlywiki
+
+\define tbl-new-column-defaults()
+tbl-td-view:<<tdvShowVal>>
+tbl-td-edit:<<tdeInputVal>>
+tbl-th-view:<<thvHeadMenu>>
+tbl-th-edit:
+\end

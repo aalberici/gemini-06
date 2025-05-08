@@ -1,0 +1,25 @@
+actualname: HelpDesk
+created: 20220611145941340
+creator: andrea.alberici
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module post-sales entity focus-project
+title: Module: Tickets
+tmap.edges: {}
+tmap.id: 5287bd06-4415-4504-b642-f5bd0e73a84b
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Helpdesk.
+Can be part of Commesse, or projects or manutenzione
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. 
+
+A ticket is triggered from customer action:
+email, telephone call, a portal
+
+
+!! Related Modules 
+[[Module: Time Control]]

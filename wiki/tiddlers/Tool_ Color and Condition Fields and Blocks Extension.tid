@@ -1,0 +1,11 @@
+actualname: cbColorizer
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: Color and Condition Fields and Blocks Extension
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Color and Condition Fields and Blocks Extension
+tmap.id: 3c718087-58dd-44c7-98b6-504170b40299
+type: text/vnd.tiddlywiki
+
+This extension permits you to establish different coloring and formatting rules for fields on a module depending on conditions based on the values of the fields in the record. You can also manipulate blocks by closing and hiding them depending on field conditions defined. -- Sale -- deprecated

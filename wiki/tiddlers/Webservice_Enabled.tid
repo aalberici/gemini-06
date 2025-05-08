@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220728201806269
+creator: andrea.alberici
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV [[starting GV]]
+title: Webservice_Enabled
+tmap.id: c1a6cc7d-9702-485e-8286-b509a9c28e80
+type: text/vnd.tiddlywiki
+
+Completely disables or enables web service access.

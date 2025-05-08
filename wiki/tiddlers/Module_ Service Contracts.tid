@@ -1,0 +1,33 @@
+actualname: ServiceContracts
+created: 20220611105642198
+creator: andrea.alberici
+modified: 20240103225153037
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module operations entity focus-project
+title: Module: Service Contracts
+tmap.edges: {"dbf4af09-b86b-4067-8935-d585253340f4":{"to":"666a2de7-410b-40f2-a036-a3f5cc9464c5","type":"specific link"},"c303df70-f9b8-4999-aada-f31814913e83":{"to":"4db01d5a-79ac-4b0d-8ecb-033ddc14e270","type":"specific link"}}
+tmap.id: aedfc8b4-9de5-475c-b141-8493882077fc
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Service Contracts
+
+A Service Contracts serves as a umbrella contract on projects. 
+
+Types of service contract:
+STARTING
+ONGOING (manutenzione)
+STANDARD 
+
+We are going to add a RL with projects
+
+!! Related Modules 
+* [[Module: Projects]]
+* [[Module: Time Control]]
+* [[Module: Assets]]
+* [[Module: Tickets]]
+* [[Module: Business Case]]
+* [[Module: Purchase Orders]]
+* [[Module: Documents]]

@@ -1,0 +1,22 @@
+actualname: cbCalendar
+created: 20220611150441938
+creator: andrea.alberici
+modified: 20250508100903957
+modifier: andrea.alberici
+revision: 13
+status: complete
+tags: [[area: people]] standard-module crm entity focus-project
+title: Module: Calendar Todos
+tmap.id: 6efcb94a-c68d-409c-bd18-658ebfa61329
+type: text/vnd.tiddlywiki
+
+!!Description
+
+The business entity dedicated to Activity management: it can be used to plan meetings / activities, and also is the entity of choice for micromanagement (todo's) It can also be viewed as a standard Calendar View.
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about management time.
+
+
+
+!! Related Modules 
+[[Module: Time Control]]

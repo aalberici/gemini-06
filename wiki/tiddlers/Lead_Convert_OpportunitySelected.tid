@@ -1,0 +1,11 @@
+ValueType: String
+Values: false | true
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Lead_Convert_OpportunitySelected
+tmap.id: 08a5c1cb-5c9e-4630-91a8-71511884cd9e
+type: text/vnd.tiddlywiki
+
+If set to the string "true", the Opportunity section will be selected when converting a Lead. By default, the section is not selected.

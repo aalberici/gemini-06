@@ -1,0 +1,4 @@
+filter: [tag[veroproject]] [tag[focus-project]]
+revision: 0
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/ER veroproject/filter/nodes
+type: text/vnd.tiddlywiki

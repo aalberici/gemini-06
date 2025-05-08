@@ -1,0 +1,25 @@
+actualname: cbEmployee
+created: 20220611130507989
+creator: andrea.alberici
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] entity focus-project non-standard-module
+title: Module: Employees
+tmap.edges: {"3a5cf887-3458-4721-909c-d0de5251dbe0":{"to":"96b66f7b-d909-4df4-a9ee-ac1e60201cf3","type":"one to one"}}
+tmap.id: cd1db906-cc64-40f6-9dd2-86848645145d
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Employees
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. 
+
+Typically these are "ours" employees, in order to monitor performances against customer projects / Tickets
+
+!! Related Modules
+[[Module: Time Control]]
+
+[[Module: cbExternalAssets]]
+

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Slot_Event_Overlap
+tmap.id: 137e2881-2ad8-4d4f-90da-e7c5397e647f
+type: text/vnd.tiddlywiki
+
+Determines if timed events in agenda view should visually overlap. When set to true (the default), events will overlap each other. At most half of each event will be obscured. When set to false, there will be absolutely no overlapping.

@@ -1,0 +1,11 @@
+ValueType: Path
+Values: path to audio file
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Notification_Sound
+tmap.id: 0af0dc34-51e6-4234-9bcf-802114047ce8
+type: text/vnd.tiddlywiki
+
+Path to audio file to play when new notification arrives.

@@ -1,0 +1,19 @@
+created: 20220624132329247
+creator: andrea.alberici
+modified: 20240103225153039
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: data]] crm specific-module entity focus-project non-standard-module
+title: Module: Transaction Project Allocation
+tmap.id: f09951f3-a5d9-4f3d-b152-dbe3bb05d05e
+type: text/vnd.tiddlywiki
+
+!!Description
+The TBA is a module that can be considered a single allocation of a REVENUE related to a Project  / Commessa
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about financials. 
+
+
+
+!! Related Modules 

@@ -1,0 +1,24 @@
+created: 20180821134735927
+creator: )+(auloop
+list: 
+modified: 20181015200311329
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/edit-row-id
+type: text/vnd.tiddlywiki
+
+\define tdeEditRowID()
+<$edit-text index="$(tbl-col-id)$" tag="input"/>
+<$reveal state="""##$(tbl-col-id)$""" type="nomatch" text="" >
+<$button class="tc-btn-invisible">
+<small>{{$:/core/images/done-button}}</small>
+<$action-setfield $(tbl-col-id)$="tbl-td-view" title={{##$(tbl-col-id)$}} />
+<$action-deletetiddler $tiddler=<<currentTiddler>> />
+</$button>
+</$reveal>
+<$button class="tc-btn-invisible">
+<small>{{$:/core/images/close-button}}</small>
+<$action-setfield $(tbl-col-id)$="tbl-td-view" $index="""$(tbl-col-id)$""" $value={{!!title}} />
+</$button>
+\end

@@ -1,0 +1,19 @@
+created: 20220611165942962
+creator: andrea.alberici
+modified: 20240103225153034
+modifier: andrea.alberici
+revision: 0
+tags: standard-module operations entity
+title: Module: Purchase Orders
+tmap.id: 8e95243f-ae89-43be-b642-e945dcd32dbc
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to passive invoices and PO
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your invoices. 
+
+
+!! Related Modules 
+
+[[Module: Cost Payments]]

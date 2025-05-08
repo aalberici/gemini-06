@@ -1,0 +1,11 @@
+ValueType: String
+Values: Any valid Activity Status
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: RelatedList_Activity_DefaultStatusFilter
+tmap.id: 9bfc36a7-622a-4b95-be6b-edcb3be1cc85
+type: text/vnd.tiddlywiki
+
+Initial Activity filter on Related List. Default is "all".

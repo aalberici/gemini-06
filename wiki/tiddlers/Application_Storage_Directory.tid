@@ -1,0 +1,11 @@
+ValueType: string
+Values: Directory path
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Storage_Directory
+tmap.id: 54568aa8-7d00-4b02-af41-ae3afeeec0f7
+type: text/vnd.tiddlywiki
+
+The directory where document files are to be saved. The webserver user must be able to access and write inside this folder.

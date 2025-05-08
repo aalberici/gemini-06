@@ -1,0 +1,22 @@
+actualname: cbRequestForProposal
+created: 20220729132230302
+creator: andrea.alberici
+modified: 20240103225153036
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm entity [[area: data]] sales non-standard-module
+title: Module: Request for Proposal
+tmap.id: 0012de23-524a-4c75-8d34-3eb09cd73895
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to the request for product prices for vendors related to a Quote.
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about the terms and master data of request for proposals
+
+
+!! Related Modules 
+* [[Module: Request for Proposal Details]]
+* [[Module: Documents]]

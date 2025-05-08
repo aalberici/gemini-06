@@ -1,0 +1,15 @@
+ActualValue: company name
+ValueType: String
+Values: 
+created: 20220627141828348
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] focus-project
+title: Application_UI_CompanyName
+tmap.id: 99f3e2db-7725-4ecf-b62f-9978fbbe5d45
+type: text/vnd.tiddlywiki
+
+Name of the company creating the application. Appears in the lower right-hand link of the footer. Defaults to the same as Application_UI_Name.

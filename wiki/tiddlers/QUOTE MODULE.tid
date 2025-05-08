@@ -1,0 +1,27 @@
+created: 20230617142138436
+creator: andrea.alberici
+modified: 20230618131129854
+modifier: andrea.alberici
+revision: 0
+tags: C/Marketing marketing-family-crm
+title: QUOTE MODULE
+tmap.id: 7961ed70-5f00-4dbd-832f-0759cc437efa
+type: text/vnd.tiddlywiki
+
+Embark on a distinctive journey with Evolutivo's unparalleled Quote Management process. This pivotal expedition is intertwined with sales opportunities and commences when a Field Sales Representative crafts one or more quotes in response to a customer's interest. These quotes traverse through various stages of life, such as creation, approval, presentation, acceptance, or rejection, ultimately culminating in an order placement or abandonment.
+
+A Field Representative can offer multiple quotes to a customer, and once the customer embraces a quote, it can be transformed into an order at any time before its expiration. This progression propels the quote to an Ordered status, the opportunity to a Won status, and the remaining quotes are left behind.
+
+However, if the customer does not wish to proceed with any quote or the quotes reach their expiry date, these paths are considered abandoned. The field representative manually moves the corresponding opportunity to the Lost status, closing this chapter of the journey. These quotes, whether ordered or abandoned, are later purged from the Quote Fulfillment pipeline to maintain an organized system.
+
+Throughout the lifecycle of a quote, a Field Representative can add valuable annotations, such as reasons behind each note - from Customer Inquiry to Competitor Price and Customer Satisfaction. These notes serve as markers, providing insights into the journey each quote has taken. The platform also supports file attachments, allowing representatives to attach relevant documents to quotes, such as legal paperwork or payment specifications.
+
+The story of a quote commences when a Field Sales Representative creates one or more in response to a sales opportunity or a direct request from a customer. The representative, equipped with Customer Rating details and the Discount Advisor, forges a suitable price for each product line in a quote.
+
+If a customer requests a unique feature for an item in the quote, this requires a detour. The request is evaluated and developed by an engineering team before the quote can continue on its journey for approval. A quote may require several approvals, depending on the complexity of the quote. The quote is put on hold until all the approvers have granted their blessings. With all approvals in place, the quote gains the Approved status.
+
+Once a quote has passed through all these stages, the Field Sales Representative presents it to the customer. The customer can either accept or reject this quote. An acceptance results in the creation of an order and the quote, now in the Ordered status, abandons the remaining quotes as it steps into its new form. However, a rejection could lead to a rework of the quote, its expiration, or the customer requesting its abandonment.
+
+Even after acceptance, if a customer requests changes, the quote needs to be reworked, and it restarts its journey from the Created status.
+
+Finally, the quote that has transformed into an order then embarks on its own journey through the Order Fulfillment pipeline. This narrative unfolds within Evolutivo's comprehensive CRM digitalization platform, creating a seamless and efficient sales process that delivers results.

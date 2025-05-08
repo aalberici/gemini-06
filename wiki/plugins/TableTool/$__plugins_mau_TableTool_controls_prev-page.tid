@@ -1,0 +1,21 @@
+created: 20180404134354633
+creator: )+(auloop
+list: 
+modified: 20181015201310585
+modifier: )+(auloop
+revision: 0
+select-all: false
+tags: $:/tags/tblControl TableToolPlugin
+title: $:/plugins/mau/TableTool/controls/prev-page
+type: text/vnd.tiddlywiki
+
+\define tbl-prev-page()
+<$action-setfield $tiddler="""$(tbl-start-row)$""" text={{{[tag[$(tbl-name)$]allbefore<start-row>last{$(tbl-max-rows)$}first[]]}}} />
+\end
+
+<!----------------
+-- "Prev-Page" control
+-->
+<$button actions=<<tbl-prev-page>> >
+{{$:/core/images/left-arrow}}
+</$button>

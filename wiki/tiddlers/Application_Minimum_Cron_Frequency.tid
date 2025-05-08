@@ -1,0 +1,13 @@
+ValueType: Integer
+Values: 
+created: 20220711220814983
+creator: andrea.alberici
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Minimum_Cron_Frequency
+tmap.id: 816b27d3-0556-4a84-ba70-4f8858bf0b0a
+type: text/vnd.tiddlywiki
+
+The minimum number of minutes between consecutive same scheduled tasks execution. The default is 15 minutes.

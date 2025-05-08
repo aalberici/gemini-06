@@ -1,0 +1,11 @@
+ValueType: CSV IPs
+Values: Example: 127.0.0.1,192.168.0.100
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Security GV
+title: Application_UserLoginIPs
+tmap.id: cca3ccea-97c8-4926-81f4-71bd7ac147b6
+type: text/vnd.tiddlywiki
+
+Comma separated list of IP addresses from which users will be permitted to login

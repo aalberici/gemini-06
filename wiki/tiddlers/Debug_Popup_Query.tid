@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Popup_Query
+tmap.id: 59530370-4f98-4b2a-b469-efb365b88ff1
+type: text/vnd.tiddlywiki
+
+If set to 1 the SQL query being launched to retrieve records in a Popup View will be shown on screen.

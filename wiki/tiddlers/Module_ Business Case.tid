@@ -1,0 +1,24 @@
+actualname: cbBCase
+created: 20220624131916685
+creator: andrea.alberici
+modified: 20240103225153026
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: [[area: data]] crm specific-module entity non-standard-module
+title: Module: Business Case
+tmap.edges: {"ae797fe7-8657-4b9c-9337-3d22e7e2ee1d":{"to":"f09951f3-a5d9-4f3d-b152-dbe3bb05d05e","type":"specific link"},"8ed8ae94-8f50-42e1-b890-9efafe162c76":{"to":"23ccef20-b424-4a54-95b1-ef4816a714f3","type":"specific link"}}
+tmap.id: 4db01d5a-79ac-4b0d-8ecb-033ddc14e270
+type: text/vnd.tiddlywiki
+
+!!Description
+The business Case is a module that can be considered a financial dossier of some project / commessa
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about financials. 
+
+
+
+!! Related Modules 
+[[Module: Transaction Budget Allocation]]
+
+[[Module: Transaction Project Allocation]]

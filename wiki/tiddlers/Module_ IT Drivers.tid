@@ -1,0 +1,15 @@
+created: 20211122204259495
+creator: artemisa.puci
+modified: 20240103225153031
+modifier: andrea.alberici
+revision: 0
+tags: [[area: infrastructure]] entity non-standard-module
+title: Module: IT Drivers
+tmap.id: e91d4f7d-2d6b-4cb3-b979-e04e7e53f456
+type: text/vnd.tiddlywiki
+
+!! DESCRIPTION
+The business entity dedicated to IT Drivers.
+
+This is a custom vtlib module which can be installed through the module manager. IT drivers represent operational constraints in the general IT environment. For example, the complexity of a system, including its environment, that is exposed to internal and external threats presents risks that the organization must address. The IT drivers represent technical considerations that can affect the trustworthiness of the IT environment and the managed business systems as a whole. IT drivers are universal and must be considered within the context of the business drivers in all efforts. The combination of business and IT drivers represents the key initiatives for security management.
+

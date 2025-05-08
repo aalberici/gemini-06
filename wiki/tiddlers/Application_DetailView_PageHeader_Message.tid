@@ -1,0 +1,11 @@
+ValueType: String
+Values: OFF | {Business Map ID} | UPDATE
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_DetailView_PageHeader_Message
+tmap.id: f1dfa885-0b67-4717-b029-43eca9a17817
+type: text/vnd.tiddlywiki
+
+What to show in page header sub title. Nothing (OFF), the result of a Business Map or the default Updated text.

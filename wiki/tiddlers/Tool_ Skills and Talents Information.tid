@@ -1,0 +1,11 @@
+actualname: SkillsInfo
+modified: 20230617155327090
+modifier: andrea.alberici
+modulename: Skills and Talents Information
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Skills and Talents Information
+tmap.id: 814ac848-8490-4ce9-84a2-6f2ad146499a
+type: text/vnd.tiddlywiki
+
+Skills information module to register information about the skills and talents of your employees and contacts.\\ This is part of the **Attorney's Back Office** **Human Resources** extensions. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:skillsinfo --  --

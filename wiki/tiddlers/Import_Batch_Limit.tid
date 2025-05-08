@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Import_Batch_Limit
+tmap.id: 14d3841e-7cf4-410d-b6b7-1a807b4cbb2b
+type: text/vnd.tiddlywiki
+
+Individual import batch limit - Specified number of records will be imported at one shot and the cycle will repeat until all records are imported. Default value is 250

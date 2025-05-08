@@ -1,0 +1,9 @@
+created: 20220611203331754
+fa-icon: 
+modified: 20220624141633577
+priority: 3
+revision: 0
+scope: [tag[post-sales]]
+style: {"color":{"background":"rgba(252,193,234,1)"},"font":{"size":20}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Post-sales
+type: text/vnd.tiddlywiki

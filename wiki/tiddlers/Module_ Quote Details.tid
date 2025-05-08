@@ -1,0 +1,24 @@
+created: 20220718192103353
+creator: andrea.alberici
+modified: 20240103225153035
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Quote Details
+tmap.id: 64f7866b-b984-46d3-846f-45eb9ccf62dc
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to quote details, that represent the different product/services offered in a quote
+
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about quantity / prices / discounts. 
+Eventually to be linked to calculations about tickets and timecontrols
+
+
+
+!! Related Modules 
+
+

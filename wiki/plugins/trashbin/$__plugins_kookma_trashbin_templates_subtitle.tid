@@ -1,0 +1,10 @@
+created: 20200327082525694
+modified: 20200327083014840
+title: $:/plugins/kookma/trashbin/templates/subtitle
+type: text/vnd.tiddlywiki
+
+<div class="tc-subtitle">
+<$link to={{##modifier}}>
+<$view index="modifier"/>
+</$link> <$view index="modified" format="date" template={{$:/language/Tiddler/DateFormat}}/>
+</div>

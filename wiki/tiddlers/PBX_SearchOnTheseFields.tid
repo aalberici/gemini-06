@@ -1,0 +1,11 @@
+ValueType: String
+Values: list of field names
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: PBX_SearchOnTheseFields
+tmap.id: f19fb909-27b1-4258-afdb-6ee811a0681f
+type: text/vnd.tiddlywiki
+
+List of fields to search in when we get a call from Asterisk. The first result found will be returned.

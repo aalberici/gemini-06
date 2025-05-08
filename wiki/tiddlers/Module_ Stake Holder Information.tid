@@ -1,0 +1,11 @@
+actualname: cbStakeHolder
+modified: 20240103225153037
+modifier: andrea.alberici
+modulename: Stake Holder Information
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Stake Holder Information
+tmap.id: fe82937b-e3b2-460c-8d4e-82da035f85f7
+type: text/vnd.tiddlywiki
+
+Module to register the relation between accounts, contacts, vendors or leads against project or tickets. Representing their interest as stake holders on the project or ticket. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbstakeholder --  --

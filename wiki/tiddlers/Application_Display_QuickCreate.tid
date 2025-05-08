@@ -1,0 +1,12 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220627141731880
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Display_QuickCreate
+tmap.id: 779a1828-b0b3-4333-8c2d-2abad305945f
+type: text/vnd.tiddlywiki
+
+Show or Hide Quick Create options in menu

@@ -1,0 +1,11 @@
+actualname: SeparateACCyP
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Separate Account and Contact field on Payments
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Separate Account and Contact field on Payments
+tmap.id: 9d9579f4-79c2-45c7-a617-ff29c79e3f08
+type: text/vnd.tiddlywiki
+
+This enhancement will add a new Account field on the Payments module. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhancecyprelto --  --

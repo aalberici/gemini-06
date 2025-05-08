@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Show_Inactive_Users
+tmap.id: 929c5fdc-f3a1-44af-abc9-17ab2570042c
+type: text/vnd.tiddlywiki
+
+1 will show inactive users in the user list on the calendar. 0 will not show these users. The default value is to show the inactive users (1).

@@ -1,0 +1,11 @@
+actualname: LitigationMatter
+modified: 20240103225153031
+modifier: andrea.alberici
+modulename: Litigation Matter Details
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Litigation Matter Details
+tmap.id: b7681ec2-cf1f-493e-89fa-ea367ef41595
+type: text/vnd.tiddlywiki
+
+This project-like module permits defining the details of a litigation matter our business is working on.\\ This is part of the **Attorney's Back Office** extensions. --  --

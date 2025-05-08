@@ -1,0 +1,13 @@
+actualname: Email
+created: 20220626235843009
+creator: andrea.alberici
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: entity standard-module
+title: Module: Email
+tmap.id: 0317fafc-1847-4be6-bb34-05e118751428
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Email XXX The Email module is used for managing email messages.

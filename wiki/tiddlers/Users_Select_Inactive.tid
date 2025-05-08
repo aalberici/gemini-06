@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Users_Select_Inactive
+tmap.id: 9df36079-3068-4738-ba63-99b24052fc43
+type: text/vnd.tiddlywiki
+
+By default, the application permits selecting inactive users. Setting this variable to 0 will hide inactive users.

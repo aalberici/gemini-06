@@ -1,0 +1,11 @@
+actualname: RegAcceso
+modified: 20240103225153023
+modifier: andrea.alberici
+modulename: Access Registration module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Access Registration module
+tmap.id: 6ef6ea2d-4365-4634-ba90-3afcc399a4f5
+type: text/vnd.tiddlywiki
+
+This module records all access different people do upon certain assets. Necessary for inventory knowledge and legal requirements. -- Sale --

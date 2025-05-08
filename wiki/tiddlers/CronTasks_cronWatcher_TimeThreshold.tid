@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: minutes
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: CronTasks_cronWatcher_TimeThreshold
+tmap.id: 7a2d0a8b-d1bd-48ee-ae3b-55f2433c45b9
+type: text/vnd.tiddlywiki
+
+The time threshold in minutes that a scheduled task must be running for Cron Watcher service to send the warning email. The default value is 30 minutes.

@@ -1,0 +1,11 @@
+actualname: RegCpSeg
+modified: 20240103225153035
+modifier: andrea.alberici
+modulename: Register Backups module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Register Backups module
+tmap.id: d88c0103-dd26-40f1-b756-45b758c8e062
+type: text/vnd.tiddlywiki
+
+This module records all the backups that have been done. Necessary for inventory knowledge and legal requirements. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:registercopiaseguridad --  --

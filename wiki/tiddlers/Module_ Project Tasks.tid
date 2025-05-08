@@ -1,0 +1,26 @@
+actualname: ProjectTask
+created: 20220611112516066
+creator: andrea.alberici
+modified: 20240103225153034
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module operations entity focus-project
+title: Module: Project Tasks
+tmap.id: dfd0fe40-76bd-4cac-a33f-6d7b0e2b2451
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Service Contracts
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. The account name field can be accessed by the user accessing the application as a means to extend the information we have about each organization that is linked to coreBOS.
+
+A project is a set of actions leading to a deliverable. 
+
+
+
+!! Related Modules
+[[Module: Tickets]]
+
+[[Module: Time Control]]
+

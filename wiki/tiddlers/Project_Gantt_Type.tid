@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 1 | 2 | 3
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Project_Gantt_Type
+tmap.id: d535ef79-8659-4dc3-9cf6-91a7621992d9
+type: text/vnd.tiddlywiki
+
+Used to define Gantt Chart type. 1 for daily, 2 for weekly and 3 for monthly. Default value is set to 2.

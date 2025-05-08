@@ -1,0 +1,11 @@
+actualname: AssignFollowUpUserField
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Select User for Calendar Follow up
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Select User for Calendar Follow up
+tmap.id: 645cff2c-7992-4c33-82a6-6c13be8dc50f
+type: text/vnd.tiddlywiki
+
+Add secondary user picklist to Calendar to permit assigning the follow-up task to another user. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhancecalendarassignfollowup --  --

@@ -1,0 +1,10 @@
+created: 20220606063844580
+modified: 20220606063921857
+tags: 
+title: $:/plugins/cdaven/markdown-export/md-tiddler
+
+<!--
+
+This template is used for saving tiddlers as Markdown
+
+--><$text text=<<mdtiddler>>/>

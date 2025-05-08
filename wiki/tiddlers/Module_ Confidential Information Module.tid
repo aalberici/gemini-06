@@ -1,0 +1,11 @@
+actualname: Confidential-Information
+modified: 20240103225153027
+modifier: andrea.alberici
+modulename: Confidential Information Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Confidential Information Module
+tmap.id: 68635015-eb80-4a80-ba75-7757ca4113be
+type: text/vnd.tiddlywiki
+
+Extensión a vtigerCRM para guardar información confidencial de manera segura. Los datos serán encriptados y solo accesibles por usuarios con las credenciales apropiadas El objetivo de este módulo es el de proteger la información confidencial del acceso no autorizado, tanto desde dentro de la empresa como de todo aquel que de alguna manera podría conseguir un acceso a nuestra base de datos completa, ya sean con malas intenciones o simplemente terceros que requieren acceso para dar soporte o resolver problemas. --  --

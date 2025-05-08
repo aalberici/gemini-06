@@ -1,0 +1,9 @@
+actualname: modulename
+modified: 20220626235716464
+revision: 0
+tags: tool standard-module
+title: Tool: coreBOS Updater
+tmap.id: fe46f038-f657-425a-862b-3131f2eaecd2
+type: text/vnd.tiddlywiki
+
+The business tool dedicated to coreBOS Updater XXX coreBOS Updater is a tool that will control the state of our database with respect to the code and will be able to automatically apply the pending changes that are needed

@@ -1,0 +1,11 @@
+actualname: USAppealsCourtCircuit
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: US Appeals Court Circuit Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: US Appeals Court Circuit Module
+tmap.id: 946f9f26-3913-432a-b52d-592a1741825f
+type: text/vnd.tiddlywiki
+
+Information about courts we may work with.\\ This is part of the **Attorney's Back Office**. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:usappealscourtcircuit --  --

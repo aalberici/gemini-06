@@ -1,0 +1,11 @@
+ValueType: String
+Values: 0 | 1
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Mobile_UI_Enabled
+tmap.id: 94880256-605e-4413-9a99-cb079ec2d53d
+type: text/vnd.tiddlywiki
+
+Completely disables or enables Mobile UI access.

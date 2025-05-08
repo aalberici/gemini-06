@@ -1,0 +1,11 @@
+actualname: Retainer
+modified: 20240103225153036
+modifier: andrea.alberici
+modulename: Retainer Contract Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Retainer Contract Module
+tmap.id: bea6fa0d-7e38-4c3f-807b-9a560e4f7353
+type: text/vnd.tiddlywiki
+
+Contract-like module to register information about condtions of payment agreed upon for a work to be done.\\ This is part of the **Attorney's Back Office** extensions, to control the retainments. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:retainer --  --

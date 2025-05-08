@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_DetailView_Sticky_BlockStatus
+tmap.id: fe4c2fd5-e981-478e-9531-4035b66d6df4
+type: text/vnd.tiddlywiki
+
+Keep the open/closed status of each Detail View block during the user session. By default it is not kept (0).

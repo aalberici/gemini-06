@@ -1,0 +1,11 @@
+actualname: LTFunctions
+modified: 20240103225153031
+modifier: andrea.alberici
+modulename: Litigation Team Functions
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Litigation Team Functions
+tmap.id: de5c850e-03e7-4558-94b6-9d938a70db66
+type: text/vnd.tiddlywiki
+
+This module permits defining the function or responsibility of people working on a litigation. We can define the role each team member working on the matter has as they participate on different litigations.\\ It is a part of the team management extensions of **Attorney's Back Office**. --  --

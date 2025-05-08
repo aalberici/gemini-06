@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_MultipleUserLogins
+tmap.id: 06a77bcb-1917-4385-9805-bf7b91edae78
+type: text/vnd.tiddlywiki
+
+1 (default) allows the same user to login multiple times from different browser sessions.

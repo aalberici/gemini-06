@@ -1,0 +1,11 @@
+ValueType: string
+Values: ASC | DESC
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_ListView_Default_Sort_Order
+tmap.id: 3b8e3aef-61a9-4899-937a-2bc0c87023ac
+type: text/vnd.tiddlywiki
+
+Initial sort order for records when clicking on list view header. The default is ASC

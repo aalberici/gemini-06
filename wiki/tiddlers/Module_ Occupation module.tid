@@ -1,0 +1,11 @@
+actualname: Occupation
+modified: 20240103225153032
+modifier: andrea.alberici
+modulename: Occupation module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Occupation module
+tmap.id: 70b5f673-2dce-4fea-bf3a-9b6dab4b8b3b
+type: text/vnd.tiddlywiki
+
+Occupation module to register official SOC Code information types.\\ This is part of the **Attorney's Back Office** **Human Resources** extensions. --  --

@@ -1,0 +1,13 @@
+ValueType: Integer
+Values: 0 | 1
+created: 20220628181454774
+creator: andrea.alberici
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV [[starting GV]]
+title: HelpDesk_Notify_Owner_EMail
+tmap.id: f729a0b9-8e4d-4076-9ae2-465843183571
+type: text/vnd.tiddlywiki
+
+If set to 1 an email will be sent to the owner of the HelpDesk Ticket when it changes, if set to 0 no email will be sent to the owner. This can be overridden with workflows, it only applies to the default workflows. The default value is 1.

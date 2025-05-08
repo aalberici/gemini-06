@@ -1,0 +1,41 @@
+created: 20220919064055339
+creator: andrea.alberici
+modified: 20230808114345643
+modifier: andrea.alberici
+revision: 0
+tags: deliverable
+title: DELIVERABLE: DOCUMENTATION through intentional source-code views
+tmap.id: cd6b6759-c38b-46ef-828b-260fb51db5f4
+type: text/vnd.tiddlywiki
+
+An intentional source-code view is a set of related program entities (such as classes, instance variables, methods, method statements) that is specified by one or more alternative descriptions (one of which is the ‘default’ description). 
+
+Each alternative description is an executable specification of the contained elements in the view. Such a description reflects the commonalities of the contained elements in the view, and as such, codifies a certain intention that is common to all these elements. In addition, we require that all alternative descriptions of a given view are ‘extensionally consistent’, in other words, after computation they should yield the same set of elements. 
+
+The computational medium in which we describe the intentional views is a declarative metaprogramming language
+ 
+Table Overview of the discovered Usage Patterns
+
+| ''Usage pattern'' | ''Purpose '' |
+|Conceptual Structuring |Render explicit the conceptual structure of a software system  |
+|Enforcing Coding Conventions |Verify consistent usage of coding conventions throughout a system |
+|Verifying Test-suite Completeness |Ensure full unit test coverage |
+|Checking Design Consistency |Verify consistency of source code with a design diagram |
+|Detecting Manual Code |In the context of code generation, retrieve all non-generated code |
+|Software Customization	 |Tailor a software system to different clients|
+
+This definition highlights some key elements that turn intentional views into more than mere ‘sets’ of program entities:
+
+''Intentional. ''The sets are not defined by enumeration but are computed from a specification. This is useful when the software is modified as the sets are ‘updated’ au- tomatically: it suffices to recompute the specification. Intentional descriptions are also more concise.
+
+''Declarative. ''The executable specifications are written in a declarative language, which makes them easy to read. This is important as they codify essential knowledge on the programmers’ assumptions and intentions.
+
+''Alternative descriptions.'' Some descriptions are more intuitive, others are more efficient to compute. As such it is useful to specify both. Also, sometimes there are different natural ways in which to codify a view, depending on the perspective taken.
+
+''Extensional consistency.'' The consistency constraint between different alternative descriptions allows us to assess the correctness of the view definition, as well as the consistency of the actual source code (e.g., consistent usage of certain conventions and assumptions in the source code). Extensional consistency is verified by our Intentional View Browser.
+
+''Deviations. ''Although not mentioned in the definition, for each alternative we can also specify positive and negative ‘deviations’, i.e. elements that do not satisfy the specification of the alternative but that should be included, and elements that do satisfy the specification but should not be included. These deviations indicate ‘exceptions to the general rule’ made by programmers. They also help in defining intentional views incrementally: you can start out with a rough rule that has some exceptions and refine it later to make it more precise.
+
+''Relations. ''By relating intentional views we codify highlevel structural knowledge about the source code.
+
+''Negative information. ''By using logic negation in our intentional descriptions we can codify negative information too (all program entities that do not have a certain property), which is often very powerful

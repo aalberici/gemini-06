@@ -1,0 +1,18 @@
+actualname: Issuecards
+created: 20220611165942962
+creator: andrea.alberici
+modified: 20240103225153031
+modifier: andrea.alberici
+revision: 0
+tags: operations entity specific-module [[area: data]] non-standard-module
+title: Module: Issuecards
+tmap.id: 224aca4d-aabc-4e39-bb70-52cfcd0c901f
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to delivery notes: the translation is Packing Slips
+
+This is master-detail vtlib module which can be installed through the module manager. It contains a set of fields and information and a relationship with Inventorylines. 
+
+
+!! Related Modules 

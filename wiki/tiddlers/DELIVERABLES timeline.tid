@@ -1,0 +1,12 @@
+created: 20190728115024978
+creator: andrea.alberici
+date: 
+modified: 20220920124241075
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: DELIVERABLES timeline
+tmap.id: 003d3e1a-34e5-4e99-86f5-a19a6f2d7f2e
+type: text/vnd.tiddlywiki
+
+<<timeline-vertical filter:"[tag[deliverable]]+[tag[focus-project]]" class:light date:"releasedate" dateformat:"mmm DDth" template:"sample-user-template">>

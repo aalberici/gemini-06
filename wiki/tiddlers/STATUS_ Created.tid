@@ -1,0 +1,13 @@
+created: 20220709133443778
+creator: andrea.alberici
+fromstep: Created
+modified: 20221213091242116
+modifier: andrea.alberici
+module: cbProcessStep
+revision: 0
+tags: purchaseorder_mgmt bpm-flow flow-status
+title: STATUS: Created
+tmap.edges: {"3713aa99-dc8d-4119-abac-d4cc269762ed":{"to":"8d886499-9cb1-4bc4-9eb4-26cb94f4a30f","type":"flow"},"96a45040-2e78-4548-ae44-27bab8c6e7de":{"to":"97e3c8c7-6750-4f8b-b71f-eeb1a1f91e6f","type":"flow"},"0769e261-661a-443d-84e5-018ec9fda2a3":{"to":"c0fb8c82-5c15-4db3-b825-54ba9aed9d8d","type":"segment"}}
+tmap.id: b43204f2-9129-442a-bea1-c74add189be8
+tostep: Approved
+type: text/vnd.tiddlywiki

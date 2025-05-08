@@ -1,0 +1,9 @@
+actualname: modulename
+modified: 20220626235716466
+revision: 0
+tags: tool standard-module
+title: Tool: User Audit Trail
+tmap.id: 45c2691c-0b58-4d79-bab7-484eadb4e8d9
+type: text/vnd.tiddlywiki
+
+The business tool dedicated to User Audit Trail XXX This extension is used to monitor and log user activity in a CoreBOS CRM by recording events initiated by the user.

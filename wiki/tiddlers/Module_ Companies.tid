@@ -1,0 +1,26 @@
+actualname: cbCompanies
+created: 20220611134814877
+creator: andrea.alberici
+modified: 20240103225153027
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module entity focus-project
+title: Module: Companies
+tmap.id: 86a11e34-b35e-4c41-8752-88b3b07ff0f8
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Internal Companies (different legal entities).
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. 
+
+The cbCompany entity for the management of a multi-company system. 
+
+
+
+!! Related Modules 
+[[Module: Service Contracts]]
+[[Module: Accounts]]
+[[Module: Invoices]]
+[[Module: Sales Orders]]

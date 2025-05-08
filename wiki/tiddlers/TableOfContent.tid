@@ -1,0 +1,16 @@
+caption: Content
+created: 20220627163608676
+creator: mukades.sharka
+modified: 20220627164253304
+modifier: mukades.sharka
+revision: 0
+tags: $:/tags/SideBar
+title: TableOfContent
+tmap.id: 7815e0fe-4d19-41a5-830d-7f0d661e0366
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable 'TableOfContents' sort[title]>>
+
+</div>

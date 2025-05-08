@@ -1,0 +1,14 @@
+created: 20211129141008508
+creator: xhemiljana.troka
+modified: 20240103225153037
+modifier: andrea.alberici
+revision: 0
+tags: [[area: people]] entity non-standard-module
+title: Module: Supervisors
+tmap.id: 1494c0ba-e27b-44a9-bfa8-27d243649716
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity dedicated to supervisors.
+
+This is a custom vtlib module which can be installed through the module manager.  It can contain a set of fields and information about your supervisors. A supervisor, or lead, (also known as foreman, boss, overseer, facilitator, monitor, area coordinator, or sometimes gaffer) is the job title of a lower-level management position that is primarily based on authority over workers or workplace. A supervisor can also be one of the most senior in the staff at the place of work, such as a professor who oversees a PhD dissertation. Supervision, on the other hand, can be performed by people without this formal title, for example by parents. The term supervisor itself can be used to refer to any personnel who have this task as part of their job description.

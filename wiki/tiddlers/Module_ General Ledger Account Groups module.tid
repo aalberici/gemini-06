@@ -1,0 +1,11 @@
+actualname: GLAGroups
+modified: 20240103225153030
+modifier: andrea.alberici
+modulename: General Ledger Account Groups module
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: General Ledger Account Groups module
+tmap.id: e9b89b93-2d15-4fbe-a52b-a44cc5c9b563
+type: text/vnd.tiddlywiki
+
+General Ledger Account Groups module.\\ This is part of the Attorney's BackOffice **accounting extensions**. -- Subscription --

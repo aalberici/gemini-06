@@ -1,0 +1,11 @@
+actualname: GLAccounts
+modified: 20240103225153030
+modifier: andrea.alberici
+modulename: General Ledger Accounts
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: General Ledger Accounts
+tmap.id: b5213875-ec67-4915-95e2-3314eb334191
+type: text/vnd.tiddlywiki
+
+General Ledger Accounts module.\\ This is part of the Attorney's BackOffice **accounting extensions**. -- Subscription --

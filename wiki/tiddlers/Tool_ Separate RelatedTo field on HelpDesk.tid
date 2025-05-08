@@ -1,0 +1,11 @@
+actualname: HelpDeskSeparateRelatedTo
+modified: 20230617155327090
+modifier: andrea.alberici
+modulename: Separate RelatedTo field on HelpDesk
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Separate RelatedTo field on HelpDesk
+tmap.id: 0c7fae32-7f3e-4d50-99c8-96891518171b
+type: text/vnd.tiddlywiki
+
+This enhancement will separate the Account/Contact RelatedTo field on the HelpDesk module. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhancehdrelto --  --

@@ -1,0 +1,21 @@
+ValueType: String
+Values: all | admin | none
+blocked: 0
+category: 
+created: 20220628173445337
+creator: andrea.alberici
+default_check: 1
+gvname: Application_Allow_Exports
+in_module_list: 0
+mandatory: 0
+modified: 20240103225846551
+modifier: andrea.alberici
+module: GlobalVariable
+module_list: 
+revision: 0
+rolegv: 
+tags: $:/tags/TextEditor/Template
+title: GV_temp
+tmap.id: f14812be-6aa5-4abf-b269-1cb3d3df7224
+type: text/vnd.tiddlywiki
+value: all

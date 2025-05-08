@@ -1,0 +1,11 @@
+actualname: cbLockIt
+modified: 20230617155327088
+modifier: andrea.alberici
+modulename: Lock Record Extension
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Lock Record Extension
+tmap.id: 1d73559c-25fa-468d-85ae-79096ea095cd
+type: text/vnd.tiddlywiki
+
+This extension will inform about record editing and optionally block the edit completely.\\ When you access a record in detail view and another user in the application is editing it, you will be informed it is being edited. Optionally you can activate a full block, so, if you try to edit the record you will not be permitted to do so until the other edit finishes.\\ This work is based on Stefan Warnat's work as he donated the initial version to the coreBOS project. Thank you!! --  -- deprecated

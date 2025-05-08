@@ -1,0 +1,21 @@
+created: 20180819165727217
+creator: )+(auloop
+list: 
+modified: 20181015201310615
+modifier: )+(auloop
+revision: 0
+select-all: false
+tags: $:/tags/tblControl TableToolPlugin
+title: $:/plugins/mau/TableTool/controls/last-page
+type: text/vnd.tiddlywiki
+
+\define tbl-last-page()
+<$action-setfield $tiddler="""$(tbl-start-row)$""" text={{{[tag[$(tbl-name)$]last{$(tbl-max-rows)$}first[]]}}} />
+\end
+
+<!----------------
+-- "Last-Page" control
+-->
+<$button actions=<<tbl-last-page>> >
+{{$:/core/images/chevron-right}}
+</$button>

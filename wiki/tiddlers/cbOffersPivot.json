@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20240618210359000",
+        "creator": "admin",
+        "text": "!! [[cbOffersPivot|https://itelcond.evolutivo.it/index.php?action=DetailView&module=cbMap&record=11677]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "title": "cbOffersPivot",
+        "tags": "cbMap cbrecord",
+        "modified": "20240618210857693",
+        "modifier": "andrea.alberici",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "cbOffersPivot",
+        "mapnumber": "BMAP-0000062",
+        "maptype": "Pivot",
+        "targetname": "cbOffers",
+        "content": "<map>\n <module>cbOffers</module>\n<filter>Tutti</filter>\n<aggregatorName>Multifact Aggregators</aggregatorName>\n<rendererName>GT Table</rendererName>\n <aggregations>\n <aggregation>\n            <aggType>Count</aggType>\n            <arguments>cboffersid</arguments>\n        </aggregation>\n  </aggregations>\n <rows>\n  <row>\n  <name>success_chance</name>\n  <label>Probab. successo</label>\n  </row>\n  <row>\n  <name>agent_name</name>\n  <label>Agente</label>\n  </row>\n\n<row>\n<name>nation_address</name>\n  <label>Nazione</label>\n</row>\n\n<row>\n<name>feedback</name>\n  <label>Feedback</label>\n</row>\n\n<row>\n<name>feedback</name>\n  <label>Feedback</label>\n</row>\n\n<row>\n<name>shipping_date</name>\n  <label>Data Spedito</label>\n</row>\n\n </rows>\n <cols>\n  <col>\n  <name>expected_close_date</name>\n  <label>Data attesa chiusura</label>\n  </col>\n\n\n </cols>\n </map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "2022-05-30 22:53:33",
+        "modifiedtime": "2023-10-05 10:16:55",
+        "created_user_id": "19x1",
+        "contentjson": "{\"module\":\"cbOffers\",\"filter\":\"Tutti\",\"aggregatorName\":\"Multifact Aggregators\",\"rendererName\":\"GT Table\",\"aggregations\":{\"aggregation\":{\"aggType\":\"Count\",\"arguments\":\"cboffersid\"}},\"rows\":{\"row\":[{\"name\":\"success_chance\",\"label\":\"Probab. successo\"},{\"name\":\"agent_name\",\"label\":\"Agente\"},{\"name\":\"nation_address\",\"label\":\"Nazione\"},{\"name\":\"feedback\",\"label\":\"Feedback\"},{\"name\":\"feedback\",\"label\":\"Feedback\"},{\"name\":\"shipping_date\",\"label\":\"Data Spedito\"}]},\"cols\":{\"col\":{\"name\":\"expected_close_date\",\"label\":\"Data attesa chiusura\"}}}",
+        "description": "",
+        "id": "",
+        "cbuuid": "",
+        "tmap.id": "6ef3ac1f-99f4-4df6-a870-125952f0e12b",
+        "revision": "0"
+    }
+]

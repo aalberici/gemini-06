@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220711215010622
+creator: andrea.alberici
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: User_2FAAuthentication
+tmap.id: e9eeb75b-7b60-4193-8db2-0dc5e839200c
+type: text/vnd.tiddlywiki
+
+Ask for Two Factor Authentification

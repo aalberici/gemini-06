@@ -1,0 +1,11 @@
+ValueType: String
+Values: Calendar | HelpDesk | Contacts ...
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Mobile_Module_by_default
+tmap.id: 7b362df8-b655-4948-900e-7697775aedbf
+type: text/vnd.tiddlywiki
+
+Set the default module to show when accessing the Mobile module.

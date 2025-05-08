@@ -1,0 +1,11 @@
+actualname: Messages
+created: 20220626235848732
+modified: 20240103225153032
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Messages
+tmap.id: 7de164b8-98f7-40fc-8a26-e5702ed57f71
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Messages XXX The Message module is the core of the message stack. It enables logging and displaying system events in a number of different use cases

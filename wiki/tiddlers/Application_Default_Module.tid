@@ -1,0 +1,14 @@
+ActualValue: 
+ValueType: String
+Values: Valid module name
+created: 20220627141719667
+creator: xhilda.shazivari
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Default_Module
+tmap.id: cacf6889-7290-4ea8-ae9a-df0bafd07df9
+type: text/vnd.tiddlywiki
+
+Module that will be loaded by default when no module is specified in URL

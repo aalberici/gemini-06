@@ -1,0 +1,13 @@
+ValueType: String
+Values: CSV of authorized CORS domains
+created: 20220711221015163
+creator: andrea.alberici
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV [[starting GV]]
+title: Webservice_CORS_Enabled_Domains
+tmap.id: 7d2efddf-9924-4438-81de-a244f811f035
+type: text/vnd.tiddlywiki
+
+CSV of URI of domains authorized to access web service. The special entry asterisk "*" will give access to all domains.

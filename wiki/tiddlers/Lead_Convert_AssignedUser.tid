@@ -1,0 +1,11 @@
+ValueType: String
+Values: any user ID | current_user
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Lead_Convert_AssignedUser
+tmap.id: f798104f-fec8-42f0-a4a1-64b58bf159ca
+type: text/vnd.tiddlywiki
+
+User ID to set the assigned user picklist to when converting a Lead. If set to "current_user" the current user will be used. By default, the user assigned to the lead record is used.

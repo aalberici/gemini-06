@@ -1,0 +1,17 @@
+[
+    {
+        "created": "20220918181420525",
+        "creator": "andrea.alberici",
+        "text": "Risk monitoring and control is a specific area of implementation after going into production, to help detect risks in running software and manage those risks to prevent them from slowing down the software. \n\nThere are a variety of tools that can be used to monitor various aspects of software development and operation. These tools can be used to track code changes, server performance, user activity, and more. By monitoring these aspects of software development and operation, developers can ensure that their software is running smoothly and efficiently.\n\nRisk monitoring and control tools help identify potential risks and take action to prevent or mitigate them by keeping track of these factors. These tools can be used to monitor internal and external factors that may affect the company, such as changes in the political or economic environment. By tracking these factors, companies can be better prepared to make decisions that will minimize the impact of risks on their business.\n\nIn conclusion, risk monitoring and control tools are important for businesses of all sizes. By analyzing the specific needs of the customer, businesses can select the right tool for their unique needs. By implementing a risk monitoring and control tool, businesses can improve their overall security posture and protect their valuable assets.\n\n\n\n",
+        "tags": "deliverable focus-project",
+        "title": "DELIVERABLE: Risk monitoring and control tools",
+        "modified": "20230808114345641",
+        "modifier": "andrea.alberici",
+        "type": "text/vnd.tiddlywiki",
+        "tmap.id": "46adb116-e0a5-4d4e-848e-93f5e3a8a1cc",
+        "releasedate": "20221130",
+        "summary": "Risk monitoring and control is a specific area of implementation after going into production, to help detect risks in running software and manage those risks to prevent them from slowing down the software. ",
+        "status": "complete",
+        "revision": "0"
+    }
+]

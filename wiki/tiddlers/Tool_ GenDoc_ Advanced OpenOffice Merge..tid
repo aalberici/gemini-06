@@ -1,0 +1,11 @@
+actualname: gendoc
+modified: 20230617155327087
+modifier: andrea.alberici
+modulename: GenDoc: Advanced OpenOffice Merge.
+revision: 0
+tags: corebos-extension jpl_tsolucio tool non-standard-module archived-modules
+title: Tool: GenDoc: Advanced OpenOffice Merge.
+tmap.id: 4145b456-e2ca-4598-9b7a-5528fa59f596
+type: text/vnd.tiddlywiki
+
+This extension permits creating advanced templates using [[https://www.openoffice.org/|OpenOffice]] or [[https://www.libreoffice.org/|Libre Office]] which can easily be merged with fields in the coreBOS application and then converted to PDF or used as working documents in the word processor. -- Subscription -- native in corebos now

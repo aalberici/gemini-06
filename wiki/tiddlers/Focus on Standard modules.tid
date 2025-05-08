@@ -1,0 +1,13 @@
+created: 20220918151533835
+creator: andrea.alberici
+modified: 20220918151644688
+modifier: andrea.alberici
+revision: 0
+tags: print-river
+title: Focus on Standard modules
+tmap.id: 3f4f52f6-d1e7-4f99-9e8e-3063d140ba9a
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[standard-module]] +[!tag[tool]] +[!tag[tool-config]] +[tag[focus-project]]"  fields="tbl-checkbox-specific tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

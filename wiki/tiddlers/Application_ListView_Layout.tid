@@ -1,0 +1,14 @@
+ValueType: string
+Values: table|tuigrid
+created: 20220628173733005
+creator: andrea.alberici
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] focus-project
+title: Application_ListView_Layout
+tmap.id: a7dc6f3d-0b33-44b1-ae92-7d09af0443e7
+type: text/vnd.tiddlywiki
+
+Show the classic table-based view (default) or the TUIGrid view.

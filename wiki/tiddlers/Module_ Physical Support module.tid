@@ -1,0 +1,11 @@
+actualname: Soportes
+modified: 20240103225153033
+modifier: andrea.alberici
+modulename: Physical Support module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Physical Support module
+tmap.id: 112c42c2-e5d8-4cb7-b284-0998660e97e6
+type: text/vnd.tiddlywiki
+
+This asset-like module records all the external devices and support hardware being used by an account. Necessary for inventory knowledge and legal requirements. --  --

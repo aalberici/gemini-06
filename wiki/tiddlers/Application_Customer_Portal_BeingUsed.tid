@@ -1,0 +1,11 @@
+ValueType: String
+Values: vtigercrmportal | coreboscp | reactadmin
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Customer_Portal_BeingUsed
+tmap.id: a5876fb4-d44b-4f16-94cc-069e3f96b944
+type: text/vnd.tiddlywiki
+
+Indicate the customer portal connected to this coreBOS so we can adapt outputs accordingly. Used mostly for email template communications.

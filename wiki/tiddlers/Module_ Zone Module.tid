@@ -1,0 +1,11 @@
+actualname: cbZone
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: Zone Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Zone Module
+tmap.id: 16aa7654-fdcc-4e6a-a9a4-90c777514d5e
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record different zones or regions in which we wish to divde countries or similar. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbzone --  --

@@ -1,0 +1,15 @@
+actualname: cbSubscription
+created: 20221123170530545
+creator: joe.bordes
+modified: 20230617155324954
+modifier: andrea.alberici
+modulename: Subscription-Follow Changes module
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Subscription-Follow Changes module
+tmap.id: 34617123-1744-4c0c-932e-9f1d73b88cf7
+type: text/vnd.tiddlywiki
+
+Module that permits following changes on any module for any user. This module will send notifications to all users subscribed to a record.
+
+http://corebos.tsolucio.com/documentation/doku.php?id=es:extensions:extensions:cbsubscription

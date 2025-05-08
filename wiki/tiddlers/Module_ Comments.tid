@@ -1,0 +1,13 @@
+actualname: ModComments
+created: 20220626235837847
+creator: xhensilda.ndreka
+modified: 20240827152931129
+modifier: xhensilda.ndreka
+revision: 0
+status: rework
+tags: entity standard-module
+title: Module: Comments
+tmap.id: 1ee7b623-51c5-451c-96de-9666b3adc585
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Comments XXX The Comment module allows users to comment on content, set commenting defaults and permissions and create new comment types that can be related to other content entities.

@@ -1,0 +1,11 @@
+actualname: cbSession
+modified: 20230617155327090
+modifier: andrea.alberici
+modulename: Session/Event Details Information
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Session/Event Details Information
+tmap.id: 4adff9da-4a8f-4528-8fbc-6a0159dab459
+type: text/vnd.tiddlywiki
+
+Module to register the fact of a session of some event that will take place (related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:cbattendance|cbAttendance module]]) - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbsession --  --

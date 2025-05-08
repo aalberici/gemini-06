@@ -1,0 +1,11 @@
+actualname: SupportPersonnel
+modified: 20240103225153038
+modifier: andrea.alberici
+modulename: Support Personnel
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Support Personnel
+tmap.id: 2626c21b-d413-408e-946d-e979a97b2509
+type: text/vnd.tiddlywiki
+
+Contact-like module to register information about eventual or third party workers that support your business.\\ This is part of the **Attorney's Back Office** **Human Resources** extensions. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:supportpersonnel --  --

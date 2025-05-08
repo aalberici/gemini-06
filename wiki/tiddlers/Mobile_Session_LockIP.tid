@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Mobile GV
+title: Mobile_Session_LockIP
+tmap.id: 6c0756ea-a15c-44de-87ed-c6b6fbf896c5
+type: text/vnd.tiddlywiki
+
+1 restricts access to the same IP the login was made from. 0 is the default

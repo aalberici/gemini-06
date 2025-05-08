@@ -1,0 +1,22 @@
+actualname: cbExternalAssets
+created: 20220611165213496
+creator: andrea.alberici
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+tags: [[area: people]] operations entity non-standard-module
+title: Module: Employee Materials
+tmap.id: ccd3b6ab-3d80-4d8e-9aeb-236a6da89238
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to assets and third party applications.
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. 
+
+An external asset is the serialization of software license and such. 
+
+
+
+!! Related Modules 
+

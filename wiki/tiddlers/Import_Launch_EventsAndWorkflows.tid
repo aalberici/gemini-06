@@ -1,0 +1,11 @@
+ValueType: String
+Values: yes | no
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Import_Launch_EventsAndWorkflows
+tmap.id: 1296b356-c6d7-4905-81ab-4d91310a7a13
+type: text/vnd.tiddlywiki
+
+Launch events and workflows when importing records. Default value is no

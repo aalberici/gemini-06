@@ -1,0 +1,14 @@
+config.central-topic: 
+config.filter_nodes_by_edge_types: false
+config.neighbourhood_scope: 3
+config.physics_mode: false
+config.refresh-triggers: $:/temp/tmap/currentTiddler
+config.show_inter_neighbour_edges: true
+config.vis: {"physics":{"forceAtlas2Based":{"springConstant":0.09}}}
+created: 20150331114808577
+id: cf5f430d-8fcb-497b-ab1d-84ae3633f810
+isview: true
+modified: 20220626171743590
+revision: 0
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FLOW purchase
+type: text/vnd.tiddlywiki

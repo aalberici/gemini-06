@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628174724174
+creator: andrea.alberici
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_RTESpellcheck
+tmap.id: df81d3cc-58c8-4f5b-b328-36bbd1ab3201
+type: text/vnd.tiddlywiki
+
+Activate browser's spellchecker in the Rich Text Editor.

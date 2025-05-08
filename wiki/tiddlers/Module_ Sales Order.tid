@@ -1,0 +1,11 @@
+actualname: SalesOrder
+created: 20220626235857047
+modified: 20240103225153036
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Sales Order
+tmap.id: 28b29c0a-dbaa-44dc-9904-a582a38dad45
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Sales Order XXX The Sales Order module can be used to generate sales orders, credit returns, and drop ship orders, as well as fulfill those orders, receive payments from customers, create invoices, and edit sales orders in a number of ways.

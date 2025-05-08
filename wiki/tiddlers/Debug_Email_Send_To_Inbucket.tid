@@ -1,0 +1,11 @@
+ValueType: String
+Values: InBucket SMTP Listener
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Email_Send_To_Inbucket
+tmap.id: c25a1ac8-b9a0-417f-8326-580f345d0d33
+type: text/vnd.tiddlywiki
+
+If set its value will be used as the Out Going Mail Server Host

@@ -1,0 +1,22 @@
+actualname: Vendors
+created: 20211119164044225
+creator: xhemiljana.troka
+modified: 20240103225153039
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module entity focus-project
+title: Module: Vendors
+tmap.id: 35eb034a-4483-4acb-b94e-d2dc5ae74936
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity dedicated to vendors.
+
+This is a normal vtlib module which can be installed through the module manager.  It contains a set of fields and information about your vendors. 
+
+A vendor is a business or person who purchases products from a company, then sells them  to another company or individual.
+
+!! Related Modules 
+[[Module: Contacts]]
+[[Module: Purchase Orders]]

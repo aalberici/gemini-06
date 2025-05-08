@@ -1,0 +1,11 @@
+actualname: DiscountLine
+modified: 20240103225153029
+modifier: andrea.alberici
+modulename: Discount on Product and Service Category
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Discount on Product and Service Category
+tmap.id: 4874fc22-16d4-46fd-8c8d-531157b0e570
+type: text/vnd.tiddlywiki
+
+This business settings module will permit you to define discounts per product/service line and/or clients.. -- Subscription --

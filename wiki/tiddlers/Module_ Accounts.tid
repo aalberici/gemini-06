@@ -1,0 +1,33 @@
+actualname: Accounts
+created: 20211026145228570
+creator: andrea.alberici
+modified: 20240827152915365
+modifier: xhensilda.ndreka
+revision: 0
+status: complete
+tags: [[area: people]] standard-module crm entity focus-project
+title: Module: Accounts
+tmap.edges: {"fe871e6f-bc0a-4fd4-8fc1-28eefe0ac313":{"to":"0c9ebeb4-8036-4e21-8494-e560a413ed49","type":"1 to many"},"8e7de91d-cda4-421e-a187-d242509b85a7":{"to":"dda1bc73-f75f-4a69-8d04-b498f5d7a478","type":"specific link"}}
+tmap.id: 0c9ebeb4-8036-4e21-8494-e560a413ed49
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Customers and potential customers.
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. The account name field can be accessed by the user accessing the application as a means to extend the information we have about each organization that is linked to coreBOS.
+
+An account  is an entity comprising the informations of an organization. The organization can be a Customer, a partner, a competitor or a potential customer (prospect).
+
+
+
+
+!! Related Modules 
+* [[Module: Contacts]]
+* [[Module: Addresses]]
+* [[Module: Contact Role]]
+* [[Module: Assets]]
+* [[Module: Calendar Todos]]
+* [[Module: Opportunities]]
+* [[Module: Tickets]]
+* [[Module: Service Contracts]]
+* [[Module: Documents]]
+

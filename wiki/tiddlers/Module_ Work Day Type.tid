@@ -1,0 +1,11 @@
+actualname: cbWorkDayType
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: Work Day Type
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Work Day Type
+tmap.id: 7b094d59-78a6-4a36-86f1-8f9571d9be7d
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record different categories or types of working days and their cost. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbworkdaytype --  --

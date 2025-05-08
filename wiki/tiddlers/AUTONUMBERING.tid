@@ -1,0 +1,22 @@
+created: 20230118173744203
+creator: andrea.alberici
+modified: 20230119124956988
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: AUTONUMBERING
+tmap.id: ad74e5e9-59da-465b-8fe2-d11b58b2b7f0
+type: text/vnd.tiddlywiki
+
+AutoNumberPrefix
+[ ANPx-00048 ] ANPx-00048
+Aggiornato Oggi (18 Gen 2023) Da Administrator
+SINGLE_AutoNumberPrefix Informazioni
+ 	 	 	
+Nascondi LBL_AUTO_NUMBER_PREFIX_INFORMATION
+AutoPrefixNumber No	 ANPx-00048	Module	  Preventivo
+Prefix	  PREV-	Format	  \%'.04\u/Y
+Attivo	 si 	Default	 si 
+Current Value	  2	Workflow Expression	 no 
+Assegnato a	  Administrator  	Orario creazione	 02-06-2022 08:42:29
+Orario modifica	 18-01-2023 10:34:30	Creato da	  Administrator

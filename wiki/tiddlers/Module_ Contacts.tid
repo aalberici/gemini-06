@@ -1,0 +1,29 @@
+actualname: Contacts
+created: 20211026145819620
+creator: andrea.alberici
+modified: 20240103225153028
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module crm entity focus-project
+title: Module: Contacts
+tmap.edges: {}
+tmap.id: 96b66f7b-d909-4df4-a9ee-ac1e60201cf3
+tmap.style: {"borderWidth":1,"borderWidthSelected":2}
+type: text/vnd.tiddlywiki
+
+!! DESCRIPTION
+The business entity dedicated to contacts.
+
+This is a normal vtlib module which can be installed through the module manager.  It contains a set of fields and information about your contacts. The Last Name field can be accessed by the user accessing the application as a means to extend the information we have about each contact that is linked to coreBOS.
+
+Contacts are people with whom you communicate, either in pursuit of a business opportunity or for personal reasons.
+The Contacts module represents an electronic replacement of your address book.You can find phone numbers, email addresses and other entries about a contact.
+
+
+!! RELATED MODULES
+[[Module: Employees]]
+
+[[Module: Calendar Todos]]
+
+[[Module: Contact Role]]

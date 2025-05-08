@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_RelatedList_Query
+tmap.id: 057ec266-f6be-4c8a-afee-49b434c3c3a5
+type: text/vnd.tiddlywiki
+
+If the value of the variable is 1 it will be written on screen, the record query for the related list.

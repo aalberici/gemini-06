@@ -1,0 +1,14 @@
+created: 20170415230904595
+creator: )+(auloop
+modified: 20181011101830789
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/Macro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/table-tool
+type: text/vnd.tiddlywiki
+
+\define table-tool(tbl-name, tbl-layout:"default", tbl-controls:"show")
+<$vars tbl-name="""$tbl-name$""" tbl-layout="""$tbl-layout$""" tbl-controls="""$tbl-controls$""">
+{{||$:/plugins/mau/TableTool/templates/table-template}}
+</$vars>
+\end

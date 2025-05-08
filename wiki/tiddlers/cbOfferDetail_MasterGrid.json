@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20241113203541000",
+        "creator": "admin",
+        "text": "!! [[cbOfferDetail_MasterGrid|https://evo4sigla.evolutivo.it/index.php?action=DetailView&module=cbMap&record=8987]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "title": "cbOfferDetail_MasterGrid",
+        "tags": "cbMap cbrecord",
+        "modified": "20241113204436317",
+        "modifier": "andrea.alberici",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "cbOfferDetail_MasterGrid",
+        "mapnumber": "",
+        "maptype": "MasterGrid",
+        "targetname": "cbOffers",
+        "content": "<map>\n\t<module>cbOfferDetail</module>\n\t<parentmodule>cbOffers</parentmodule>\n\t<relatedfield>cboffers_relation</relatedfield>\n<props>\n    <height>2.8rem</height>\n    <widths>\n        <width>\n            <value>500px</value>\n            <field>description</field>\n        </width>\n    <width>\n            <value>200px</value>\n            <field>related_product</field>\n        </width>\n    <width>\n            <value>80px</value>\n            <field>quantity</field>\n        </width>\n    <width>\n            <value>120px</value>\n            <field>net_price</field>\n        </width>\n    <width>\n            <value>100px</value>\n            <field>discount_1</field>\n        </width>\n    <width>\n            <value>120px</value>\n            <field>gross_price</field>\n        </width>\n   <width>\n            <value>50px</value>\n            <field>offerdetail_condition</field>\n        </width>\n\n    </widths>\n</props>\n\t<fields>\n\t\t<field>\n\t\t\t<name>related_product</name>\n\t\t\t<readonly>0</readonly>\n\n\t\t</field>\n\t\t<field>\n\t\t\t<name>description</name>\n\t\t\t<readonly>0</readonly>\n\t\t</field>\n\t\n\t\t<field>\n\t\t\t<name>gross_price</name>\n\t\t\t<readonly>0</readonly>\n\t\t</field>\n\t<field>\n\t\t\t<name>quantity</name>\n\t\t\t<readonly>0</readonly>\n\t\t</field>\n\t<field>\n\t\t\t<name>discount_1</name>\n\t\t\t<readonly>0</readonly>\n<tooltip>\n<field>discount_2</field>\n<field>discount_3</field>\n<field>discount_4</field>\n<field>discount_5</field>\n</tooltip>\n\t\t</field>\n\t\t<field>\n\t\t\t<name>net_price</name>\n\t\t\t<readonly>0</readonly>\n\t\t</field>\n\n\t\t<field>\n\t\t\t<name>offerdetail_condition</name>\n\t\t\t<readonly>0</readonly>\n\t\t</field>\n\t\n\t</fields>\n</map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "",
+        "modifiedtime": "",
+        "created_user_id": "19x1",
+        "contentjson": "{\"module\":\"cbOfferDetail\",\"parentmodule\":\"cbOffers\",\"relatedfield\":\"cboffers_relation\",\"props\":{\"height\":\"2.8rem\",\"widths\":{\"width\":[{\"value\":\"500px\",\"field\":\"description\"},{\"value\":\"200px\",\"field\":\"related_product\"},{\"value\":\"80px\",\"field\":\"quantity\"},{\"value\":\"120px\",\"field\":\"net_price\"},{\"value\":\"100px\",\"field\":\"discount_1\"},{\"value\":\"120px\",\"field\":\"gross_price\"},{\"value\":\"50px\",\"field\":\"offerdetail_condition\"}]}},\"fields\":{\"field\":[{\"name\":\"related_product\",\"readonly\":\"0\"},{\"name\":\"description\",\"readonly\":\"0\"},{\"name\":\"gross_price\",\"readonly\":\"0\"},{\"name\":\"quantity\",\"readonly\":\"0\"},{\"name\":\"discount_1\",\"readonly\":\"0\",\"tooltip\":{\"field\":[\"discount_2\",\"discount_3\",\"discount_4\",\"discount_5\"]}},{\"name\":\"net_price\",\"readonly\":\"0\"},{\"name\":\"offerdetail_condition\",\"readonly\":\"0\"}]}}",
+        "description": "",
+        "id": "",
+        "cbuuid": "",
+        "tmap.id": "d073af13-fbcd-4be0-a8a8-362b5c1973ef",
+        "revision": "0"
+    }
+]

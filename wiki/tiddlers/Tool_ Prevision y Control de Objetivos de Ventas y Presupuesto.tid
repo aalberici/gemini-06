@@ -1,0 +1,11 @@
+actualname: forecast
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Previsión y Control de Objetivos de Ventas y Presupuesto
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Previsión y Control de Objetivos de Ventas y Presupuesto
+tmap.id: 30caa1d8-861f-478c-a160-8fe9ae6ff1fd
+type: text/vnd.tiddlywiki
+
+Planifica un rango completo de objetivos comerciales para cada comercial y/o producto por periodo basado en el estado de las oportunidades de negocio --  -- Forecast and Budget Control

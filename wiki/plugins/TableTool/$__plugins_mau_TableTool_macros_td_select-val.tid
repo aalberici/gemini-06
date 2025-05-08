@@ -1,0 +1,20 @@
+created: 20170411161845759
+creator: )+(auloop
+list: 
+modified: 20181015200311291
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/select-val
+type: text/vnd.tiddlywiki
+
+\define tdeSelectVal()
+<$select index="$(tbl-col-id)$">
+<$list filter="""[tag<tbl-col>]""" variable="tbl-select-opt">
+<option><<tbl-select-opt>></option>
+</$list>
+</$select>
+<$button class="tc-btn-invisible" set="!!$(tbl-col-id)$" setTo="tbl-td-view">
+<small>{{$:/core/images/close-button}}</small>
+</$button>
+\end

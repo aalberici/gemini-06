@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV
+title: HomePage_Widget_Group_Size
+tmap.id: 29e1870b-842a-4afe-95a2-b28d2fb4c16b
+type: text/vnd.tiddlywiki
+
+The number of ajax requests on home page, reduce this value if home page widgets do not show values. The default value is 12.

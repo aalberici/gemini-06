@@ -1,0 +1,25 @@
+actualname: 
+created: 20220718191842862
+creator: andrea.alberici
+modified: 20240103225153035
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Quote Master
+tmap.edges: {"fce2f1f0-6f91-4d16-bf82-1555d9ebb394":{"to":"6efcb94a-c68d-409c-bd18-658ebfa61329","type":"specific link"}}
+tmap.id: 5ce7001a-d706-4038-a642-92322efdd276
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to quotes.
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about the terms and master data of offers
+Eventually to be linked to calculations about tickets and timecontrols
+
+
+
+!! Related Modules 
+* [[Module: Quote Details]]
+* [[Module: Calendar Todos]]

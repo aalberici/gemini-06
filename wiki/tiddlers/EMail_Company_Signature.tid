@@ -1,0 +1,12 @@
+ValueType: Text
+Values: HTML Email Footer
+created: 20220627141914757
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: EMail_Company_Signature
+tmap.id: dd32822e-5bfc-4cef-9af9-149db0c93906
+type: text/vnd.tiddlywiki
+
+Adds the given HTML to the bottom of all emails sent by the application.

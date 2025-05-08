@@ -1,0 +1,11 @@
+ValueType: String
+Values: PBX field name
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: PBX_callerNumberField
+tmap.id: b492b7c8-6742-41c8-bdc2-3a6fa4428d6d
+type: text/vnd.tiddlywiki
+
+Field name coming from PBX which we should use to search inside the application. By default it is CallerID

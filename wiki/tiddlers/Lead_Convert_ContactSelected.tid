@@ -1,0 +1,11 @@
+ValueType: String
+Values: false | true
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Lead_Convert_ContactSelected
+tmap.id: 06eafa70-1166-4a46-94d1-34f44c354cda
+type: text/vnd.tiddlywiki
+
+If set to the string "true", the Contact section will be selected when converting a Lead. By default, the section is selected.

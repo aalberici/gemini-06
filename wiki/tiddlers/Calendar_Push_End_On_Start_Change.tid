@@ -1,0 +1,11 @@
+ValueType: String
+Values: No | Distance | Set
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Push_End_On_Start_Change
+tmap.id: 49a8a323-98f5-4ff5-abd5-9efd5f354443
+type: text/vnd.tiddlywiki
+
+On DetailView Edit of start date we can push forward the end date. If this variable is set to "No", the end date will not be modified. This is the default value. If it is set to "Set" the end date will be set to the same value as the start date plus the minutes in Calendar_call_default_duration. If it is set to "Distance" the same time difference that exists prior to the change will be applied.

@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_TrackerMaxHistory
+tmap.id: ec9323c8-6b70-4b74-a2a2-0ab2ace76108
+type: text/vnd.tiddlywiki
+
+The maximum number of elements in the Recent Viewed elements popup. The default value is 10.

@@ -1,0 +1,11 @@
+ValueType: Business Map
+Values: 
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: BusinessMapping_SalesOrder2Invoice
+tmap.id: 0f3fa02f-771a-4b85-ba31-d25e27fd8ee8
+type: text/vnd.tiddlywiki
+
+Business Map ID with the mapping to apply in the transformation from Sales Order to Invoice

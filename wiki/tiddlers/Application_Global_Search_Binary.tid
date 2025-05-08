@@ -1,0 +1,11 @@
+ValueType: boolean
+Values: 0 | 1
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Global_Search_Binary
+tmap.id: 12e8ee57-95bb-445c-9e1a-ac1ab3601020
+type: text/vnd.tiddlywiki
+
+By default (0), the global search does not distinguish between special characters. So a, á, à and ä are all the same. If this variable is set to 1 it will treat them as different letters.

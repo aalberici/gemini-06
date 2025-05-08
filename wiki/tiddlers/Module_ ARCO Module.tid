@@ -1,0 +1,11 @@
+actualname: ARCO
+modified: 20240103225153024
+modifier: andrea.alberici
+modulename: ARCO Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: ARCO Module
+tmap.id: 704478f4-7a55-44e4-bfbe-d221dfe12195
+type: text/vnd.tiddlywiki
+
+Module for registering incidents of Access, Rectification, Cancellation and Opposition to comply with the GDPR. -- Sale --

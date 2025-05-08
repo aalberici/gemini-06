@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: Positive Integer
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Extension GV
+title: GenDoc_PDFConversion_Retries
+tmap.id: a036ce89-ca13-4fe5-9315-1cb2d75d623e
+type: text/vnd.tiddlywiki
+
+The maximum number of retries when PDF conversion fails.

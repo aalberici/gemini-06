@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_LogCallsToQueue
+tmap.id: 8e131c28-859f-4336-ae8b-a143d70de4c0
+type: text/vnd.tiddlywiki
+
+Disables or enables web service call logging. Logs are put in the queue to be processed

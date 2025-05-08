@@ -1,0 +1,11 @@
+actualname: PriceBooks
+created: 20220626235854512
+modified: 20240103225153033
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Price Books
+tmap.id: 810b869c-4c06-4e8b-8e4c-98677b8e0a6b
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Price Books XXX Price Books are used for selling products at different prices, based on the agreement terms with a particular type of customer. For each customer you can sell the same product at different prices.

@@ -1,0 +1,14 @@
+created: 20220113114751866
+creator: artemisa.puci
+modified: 20240103225153029
+modifier: andrea.alberici
+revision: 0
+tags: [[area: data]] entity non-standard-module
+title: Module: Duties
+tmap.id: 04a3c6ff-080b-4aef-b5e2-42f065042270
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to duties. 
+This is a custom vtlib module which can be installed through the module manager. It can contain a set of fields and information about the segregation of duties to each member  of the  organization, the description and instructions of the task, their responsibilities and the time and means they have to fulfill a task .
+

@@ -1,0 +1,16 @@
+created: 20180829205909030
+creator: )+(auloop
+list: 
+modified: 20181015200311283
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/show-row-id
+type: text/vnd.tiddlywiki
+
+\define tdvShowRowID()
+<$button class="tc-btn-invisible" style="text-align: left;">
+{{!!title}}
+<$action-setfield $(tbl-col-id)$="tbl-td-edit" $index="""$(tbl-col-id)$""" $value={{!!title}} />
+</$button>
+\end

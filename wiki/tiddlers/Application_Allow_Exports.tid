@@ -1,0 +1,25 @@
+ActualValue: none
+ValueType: String
+Values: all | admin | none
+blocked: 0
+category: 
+created: 20220628173445337
+creator: andrea.alberici
+default_check: 1
+gvname: Application_Allow_Exports
+in_module_list: 0
+mandatory: 0
+modified: 20240103225846541
+modifier: andrea.alberici
+module: GlobalVariable
+module_list: 
+revision: 0
+rolegv: 
+status: complete
+tags: Application GV [[starting GV]] focus-project
+title: Application_Allow_Exports
+tmap.id: 3d654d14-ae6f-4211-916e-7ee1e7876b3d
+type: text/vnd.tiddlywiki
+value: all
+
+Global security check to permit exporting. "all" to allow anyone to use exports, "admin" to only allow admins to export, "none" to block exports completely. Default value = all

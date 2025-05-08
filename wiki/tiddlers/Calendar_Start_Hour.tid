@@ -1,0 +1,11 @@
+ValueType: String
+Values: Hour in format HH:MM:SS
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Start_Hour
+tmap.id: 0adace5d-db70-42dd-87e5-02fc4948a875
+type: text/vnd.tiddlywiki
+
+Start hour to show in Calendar, by default will be the hour defined on Calendar Settings per user.

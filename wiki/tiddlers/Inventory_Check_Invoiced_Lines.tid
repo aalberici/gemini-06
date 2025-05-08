@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0|1
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Inventory_Check_Invoiced_Lines
+tmap.id: 168b59d8-bb76-4659-a7b0-b79897230fd6
+type: text/vnd.tiddlywiki
+
+When activated (1), system checks quantity of product or service invoiced from a Sales Order and transfer to Invoice the maximum number permitted to invoice from a Sales Order. Defalut is 0 (deactivated)

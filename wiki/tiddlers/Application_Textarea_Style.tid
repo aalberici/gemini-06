@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSS Style
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Textarea_Style
+tmap.id: ea0e97b5-c58d-4b97-827c-7348f51d8159
+type: text/vnd.tiddlywiki
+
+CSS Style to apply on Textarea fields. By default defines height.

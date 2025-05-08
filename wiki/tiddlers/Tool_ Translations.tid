@@ -1,0 +1,9 @@
+actualname: Translations
+modified: 20220626235716467
+revision: 0
+tags: tool-config standard-module
+title: Tool: Translations
+tmap.id: 08852af1-4a00-4e41-a782-de33f0d08744
+type: text/vnd.tiddlywiki
+
+The business tool config dedicated to Translations XXX This module allows you to translate fields ,custom blocks and other content entities.

@@ -1,0 +1,9 @@
+actualname: EtiquetasOO
+modified: 20220626235716467
+revision: 0
+tags: tool-config standard-module
+title: Tool: Merge Labels
+tmap.id: 51ccffc0-3d7e-452f-84df-8435ac0b8f36
+type: text/vnd.tiddlywiki
+
+The business tool config dedicated to Merge Labels XXX This is a custom Extension which can be installed through the module manager. It contains information about Merge Labels. This extension can be accessed by the user accessing the application as a means to extend the information we have about each Merge Label that is linked to coreBOS.

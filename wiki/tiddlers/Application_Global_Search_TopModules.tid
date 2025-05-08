@@ -1,0 +1,11 @@
+ValueType: CSV list of modules
+Values: CSV list of modules
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Global_Search_TopModules
+tmap.id: cde33a9c-3c81-4901-8276-f3db4d0a34a9
+type: text/vnd.tiddlywiki
+
+Comma Separated List of modules that the global search will put first in the result list.

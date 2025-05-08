@@ -1,0 +1,13 @@
+created: 20220920123606242
+creator: andrea.alberici
+modified: 20220920123629983
+modifier: andrea.alberici
+revision: 0
+tags: start
+title: CHOOSE Deliverables
+tmap.id: e7031ca3-27a0-49a5-9907-72e0bcbcadfc
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[deliverable]]"  fields="tbl-checkbox-specific tbl-checkbox tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

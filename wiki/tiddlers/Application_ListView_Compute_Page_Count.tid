@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628173619510
+creator: andrea.alberici
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV [[starting GV]]
+title: Application_ListView_Compute_Page_Count
+tmap.id: 2809825f-e554-436f-a6de-ba4ea8f46954
+type: text/vnd.tiddlywiki
+
+Compute list view record count while loading listview. The default is 0

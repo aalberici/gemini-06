@@ -1,0 +1,11 @@
+actualname: cbSurveyQuestion
+created: 20220626235903272
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Survey Questions
+tmap.id: 5d20cbe1-05e2-43bc-a960-9388093c85d5
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Survey Questions XXX The Survey Questions is a module related to Surveys module and gives information about the questions of a survey.

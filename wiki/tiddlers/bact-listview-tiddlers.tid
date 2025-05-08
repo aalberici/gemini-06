@@ -1,0 +1,71 @@
+acrole: 
+active: 1
+assigned_user_id: 19x1
+brmap: 
+businessactions_no: bact-0000149
+cbuuid: 03f8fe6443f10a92f810e5553f5f5015265b809d
+confirmalert: 0
+confirmmessage: 
+created: 20240618201152000
+created_user_id: 19x1
+createdtime: 2023-06-26 10:24:39
+creator: admin
+description: 
+error_msg: 
+handler: 
+handler_class: 
+handler_path: 
+id: 
+linkicon: 
+linklabel: drag me to TW
+linktype: LISTVIEWROW
+linkurl: javascript:runBAScriptFromListView('listviewTiddlers', 'Utilities', listviewTiddlers)
+mandatory: 1
+modified: 20240618202946641
+modifiedtime: 2024-03-18 14:11:27
+modifier: andrea.alberici
+module: BusinessActions
+module_list: cbMap
+onlyonmymodule: 1
+revision: 0
+sequence: 0
+success_msg: 
+tags: BusinessActions cbrecord
+title: bact-listview-tiddlers
+tmap.id: 5c2c5c4a-3b61-4d4a-8f79-9d1ae701833d
+type: text/vnd.tiddlywiki
+widget_header: 0
+widget_height: 
+widget_width: 
+
+!! [[bact-0000149|https://evo4sigla.evolutivo.it/index.php?action=DetailView&module=BusinessActions&record=8752]]
+
+|linktype:|{{!!linktype}}|
+|linklabel:|{{!!linklabel}}|
+|linkurl:|{{!!linkurl}}|
+|linkicon:|{{!!linkicon}}|
+|sequence:|{{!!sequence}}|
+|handler_path:|{{!!handler_path}}|
+|onlyonmymodule:|{{!!onlyonmymodule}}|
+|handler_class:|{{!!handler_class}}|
+|module_list:|{{!!module_list}}|
+|handler:|{{!!handler}}|
+|Error Message:|{{!!error_msg}}|
+|Success Message:|{{!!success_msg}}|
+|Widget Header:|{{!!widget_header}}|
+|Widget Width:|{{!!widget_width}}|
+|Widget Height:|{{!!widget_height}}|
+|Confirmation Alert:|{{!!confirmalert}}|
+|Confirmation Message:|{{!!confirmmessage}}|
+|Assigned To:|{{!!assigned_user_id}}|
+|active:|{{!!active}}|
+|acrole:|{{!!acrole}}|
+|mandatory:|{{!!mandatory}}|
+|brmap:|{{!!brmap}}|
+|businessactions_no:|{{!!businessactions_no}}|
+|Created By:|{{!!created_user_id}}|
+|Created Time:|{{!!createdtime}}|
+|Modified Time:|{{!!modifiedtime}}|
+|Description:|{{!!description}}|
+|ID:|{{!!id}}|
+|CBUUID:|{{!!cbuuid}}|

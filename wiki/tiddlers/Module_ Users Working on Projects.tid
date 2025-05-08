@@ -1,0 +1,11 @@
+actualname: UserWorksIn
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: Users Working on Projects
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Users Working on Projects
+tmap.id: 0056a967-b4c5-4958-ad00-56be193784f8
+type: text/vnd.tiddlywiki
+
+This module permits relating users to different projects in the system. It is a very basic team management module.\\ This is part of the **Attorney's Back Office** **Human Resources** extensions. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:userworksin --  --

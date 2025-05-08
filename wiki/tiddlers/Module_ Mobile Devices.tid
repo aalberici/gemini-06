@@ -1,0 +1,15 @@
+actualname: Mobile
+created: 20211219132825058
+creator: xhemiljana.troka
+modified: 20240103225153032
+modifier: andrea.alberici
+revision: 0
+tags: [[area: infrastructure]] entity non-standard-module
+title: Module: Mobile Devices
+tmap.id: 979a3773-98c6-4237-9b4b-e06effe2357c
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to mobile devices.
+
+This is a custom vtlib module which can be installed through the module manager. It can contain a set of fields and information about mobile devices usage. A mobile device can be any mobile computer or a variety of other electronic devices that have portable functionality. Typical examples include smartphones, tablets, laptop computers, smart watches, e-readers, and handheld gaming consoles.

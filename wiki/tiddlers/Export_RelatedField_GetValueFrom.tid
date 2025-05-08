@@ -1,0 +1,11 @@
+ValueType: string
+Values: valid field name for the module
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Export_RelatedField_GetValueFrom
+tmap.id: 9d2ace78-3d9c-4478-b022-f47ce4f392da
+type: text/vnd.tiddlywiki
+
+Field name to use to get the value of the related field export.

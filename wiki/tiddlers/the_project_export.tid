@@ -1,0 +1,18 @@
+created: 20220627175434074
+creator: andrea.alberici
+modified: 20220719111600525
+modifier: andrea.alberici
+revision: 0
+sticky-footer: this name has to be changed for the new project
+tags: 
+title: the_project_export
+tmap.id: 5310c4ec-6d97-4148-9195-d22e325ab1a8
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[start]!sort[created]]">
+<br/>
+<h2><$link><$transclude field="title" mode="block"/></$link></h2>
+<$transclude field="text" mode="block"/>
+<br/>
+<hr/>
+</$list>

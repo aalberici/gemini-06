@@ -1,0 +1,71 @@
+acrole: 
+active: 1
+assigned_user_id: 19x1
+brmap: 
+businessactions_no: 
+cbuuid: 
+confirmalert: 0
+confirmmessage: 
+created: 20240618201235000
+created_user_id: 19x1
+createdtime: 2023-08-08 15:10:48
+creator: admin
+description: 
+error_msg: 
+handler: 
+handler_class: 
+handler_path: 
+id: 
+linkicon: 
+linklabel: drag me to TW
+linktype: DETAILVIEWWIDGET
+linkurl: module=Utilities&action=UtilitiesAjax&file=showTiddlerLink&recordid=$RECORD$&msg=Drag me to TW
+mandatory: 1
+modified: 20240618205225418
+modifiedtime: 2024-03-18 14:41:57
+modifier: andrea.alberici
+module: BusinessActions
+module_list: cbupdater |##| BusinessActions |##| cbMap |##| GlobalVariable
+onlyonmymodule: 1
+revision: 0
+sequence: 0
+success_msg: 
+tags: BusinessActions cbrecord
+title: bact-drag-to-bact-gv-map-updater
+tmap.id: e08e3575-e1cc-4310-8973-8686367cca56
+type: text/vnd.tiddlywiki
+widget_header: 0
+widget_height: 
+widget_width: 
+
+!! [[bact-0000159|https://evo4sigla.evolutivo.it/index.php?action=DetailView&module=BusinessActions&record=8988]]
+
+|linktype:|{{!!linktype}}|
+|linklabel:|{{!!linklabel}}|
+|linkurl:|{{!!linkurl}}|
+|linkicon:|{{!!linkicon}}|
+|sequence:|{{!!sequence}}|
+|handler_path:|{{!!handler_path}}|
+|onlyonmymodule:|{{!!onlyonmymodule}}|
+|handler_class:|{{!!handler_class}}|
+|module_list:|{{!!module_list}}|
+|handler:|{{!!handler}}|
+|Error Message:|{{!!error_msg}}|
+|Success Message:|{{!!success_msg}}|
+|Widget Header:|{{!!widget_header}}|
+|Widget Width:|{{!!widget_width}}|
+|Widget Height:|{{!!widget_height}}|
+|Confirmation Alert:|{{!!confirmalert}}|
+|Confirmation Message:|{{!!confirmmessage}}|
+|Assigned To:|{{!!assigned_user_id}}|
+|active:|{{!!active}}|
+|acrole:|{{!!acrole}}|
+|mandatory:|{{!!mandatory}}|
+|brmap:|{{!!brmap}}|
+|businessactions_no:|{{!!businessactions_no}}|
+|Created By:|{{!!created_user_id}}|
+|Created Time:|{{!!createdtime}}|
+|Modified Time:|{{!!modifiedtime}}|
+|Description:|{{!!description}}|
+|ID:|{{!!id}}|
+|CBUUID:|{{!!cbuuid}}|

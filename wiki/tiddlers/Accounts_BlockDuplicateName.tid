@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846541
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Accounts_BlockDuplicateName
+tmap.id: 6b0bce88-fc31-4cff-8a8f-db9f6d1fcf3d
+type: text/vnd.tiddlywiki
+
+If set to 1, which is the default value, you will not be able to duplicate account names, if set to 0 that will be permitted.

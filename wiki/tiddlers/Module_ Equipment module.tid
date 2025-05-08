@@ -1,0 +1,11 @@
+actualname: Equipos
+modified: 20240103225153029
+modifier: andrea.alberici
+modulename: Equipment module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Equipment module
+tmap.id: 6d161e2b-3b42-4efa-a8d7-0fef332eee23
+type: text/vnd.tiddlywiki
+
+This asset-like module records all computers being used by an account. Necessary for inventory knowledge and legal requirements. -- Sale --

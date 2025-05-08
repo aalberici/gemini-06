@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Mobile GV
+title: Mobile_MultipleUserLogins
+tmap.id: 5f31c510-a813-4084-8009-1104860f4ccd
+type: text/vnd.tiddlywiki
+
+1 (default) allows the same user to login multiple times from different browser sessions.

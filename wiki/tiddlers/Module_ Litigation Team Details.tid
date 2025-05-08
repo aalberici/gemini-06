@@ -1,0 +1,11 @@
+actualname: LitigationTeam
+modified: 20240103225153031
+modifier: andrea.alberici
+modulename: Litigation Team Details
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Litigation Team Details
+tmap.id: f769c60b-4564-4b88-8dda-a24bddb39bda
+type: text/vnd.tiddlywiki
+
+This module permits defining the details and people working on a litigation. It is a very basic team management module.\\ This is part of the **Attorney's Back Office** extensions. --  --

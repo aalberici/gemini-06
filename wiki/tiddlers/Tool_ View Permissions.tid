@@ -1,0 +1,8 @@
+actualname: modulename
+revision: 0
+tags: config-by-entity
+title: Tool: View Permissions
+tmap.id: e07fb22b-35a2-42f4-a91c-0cb00e007917
+type: text/vnd.tiddlywiki
+
+The business config by entity dedicated to View Permissions XXX This extension is used to manage a particular permission when the user tries to enable the relevant feature.

@@ -1,0 +1,34 @@
+created: 20170417221320425
+creator: )+(auloop
+modified: 20181016211240262
+modifier: )+(auloop
+revision: 0
+tags: TableToolPlugin
+title: $:/plugins/mau/TableTool/templates/table-template
+tmap.id: b50e9bd4-f5a3-445d-affc-80ddc2ac39ff
+type: text/vnd.tiddlywiki
+
+<$importvariables filter="[all[shadows+tiddlers]tag[$:/tags/tblMacro]!has[draft.of]]">
+
+<$wikify name="tbl-conf-prefix" text=<<tbl-conf-prefix>> >
+<$wikify name="start-row" text=<<start-row>> >
+
+<$set name="display" filter="""[enlist<tbl-controls>] -[[show]]""" value="" emptyValue="tbl-display-controls">
+<$macrocall $name=<<display>> />
+</$set>
+
+<$tiddler tiddler=<<tbl-conf>> >
+
+<table class="tbl">
+<!-- header -->
+<$transclude tiddler=<<tbl-row>> />
+<!-- data -->
+<$list filter=<<tbl-filter>> template=<<tbl-row>> />
+</table>
+
+</$tiddler>
+
+</$wikify>
+</$wikify>
+
+</$importvariables>

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Modules_Panel_Visible
+tmap.id: 1b138101-ed93-4dc5-b49c-466b8f12d6f6
+type: text/vnd.tiddlywiki
+
+Show or hide the modules list in the calendar. The default value of 1 shows the list and 0 hides it.

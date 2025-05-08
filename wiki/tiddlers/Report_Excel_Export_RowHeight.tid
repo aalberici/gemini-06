@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Report_Excel_Export_RowHeight
+tmap.id: 3eb1914d-e487-4ffe-9884-9915823c656b
+type: text/vnd.tiddlywiki
+
+Row height of Excel sheets obtained from reporting export. The default value is 20

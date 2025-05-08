@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20240618205404000",
+        "creator": "admin",
+        "text": "!! [[cbOffersPivot2|https://itelcond.evolutivo.it/index.php?action=DetailView&module=cbMap&record=30269]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "title": "map-pivot",
+        "tags": "cbMap cbrecord",
+        "modified": "20240618210836106",
+        "modifier": "andrea.alberici",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "cbOffersPivot2",
+        "mapnumber": "",
+        "maptype": "Pivot",
+        "targetname": "cbOffers",
+        "content": "<map>\n <module>cbOffers</module>\n<filter>Tutti</filter>\n<aggregatorName>Multifact Aggregators</aggregatorName>\n<rendererName>GT Table</rendererName>\n <aggregations>\n <aggregation>\n            <aggType>Sum</aggType>\n            <arguments>subtotal_amount</arguments>\n            <name>subtotal_amount</name>\n        </aggregation>\n  </aggregations>\n <rows>\n  <row>\n  <name>success_chance</name>\n  <label>Probab. successo</label>\n  </row>\n  <row>\n  <name>agent_name</name>\n  <label>Agente</label>\n  </row>\n <row>\n <name>nation_address</name>\n  <label>Nazione</label>\n </row>\n </rows>\n <cols>\n  <col>\n  <name>offer_status</name>\n  <label>Stato</label>\n  </col>\n </cols>\n </map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "2023-06-20 09:54:38",
+        "modifiedtime": "2023-06-20 09:58:38",
+        "created_user_id": "19x1",
+        "contentjson": "{\"module\":\"cbOffers\",\"filter\":\"Tutti\",\"aggregatorName\":\"Multifact Aggregators\",\"rendererName\":\"GT Table\",\"aggregations\":{\"aggregation\":{\"aggType\":\"Sum\",\"arguments\":\"subtotal_amount\",\"name\":\"subtotal_amount\"}},\"rows\":{\"row\":[{\"name\":\"success_chance\",\"label\":\"Probab. successo\"},{\"name\":\"agent_name\",\"label\":\"Agente\"},{\"name\":\"nation_address\",\"label\":\"Nazione\"}]},\"cols\":{\"col\":{\"name\":\"offer_status\",\"label\":\"Stato\"}}}",
+        "description": "",
+        "id": "",
+        "cbuuid": "",
+        "tmap.id": "76bbc536-47b8-45db-9765-ad171f5469a8",
+        "revision": "0"
+    }
+]

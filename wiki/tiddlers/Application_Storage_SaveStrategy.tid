@@ -1,0 +1,13 @@
+ValueType: string
+Values: dates | crmid
+created: 20220628181329886
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Storage_SaveStrategy
+tmap.id: 0fe190db-8041-4a66-9340-680314c09b60
+type: text/vnd.tiddlywiki
+
+"dates" saves the documents in a date structure as year/month/week, "crmid" saves the documents in folders named by the CRMID they are related to

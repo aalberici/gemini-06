@@ -1,0 +1,60 @@
+created: 20190619085305381
+modified: 20190619222341229
+revision: 0
+tags: $:/tags/Macro fields2table
+title: $:/_TWaddle/fields2table
+type: text/vnd.tiddlywiki
+
+\define f2t-toggle()
+<$vars newlist={{$:/temp/$(currentTiddler)$}} temp="""$:/temp/$(currentTiddler)$""">
+   <$checkbox field="mode" checked="-edit" unchecked="" default=" " class="f2t-btn" 
+        actions="""<$action-createtiddler $basetitle=<<temp>> text={{$(currentTiddler)$!!list}}/>"""
+        uncheckactions="""<$action-setfield $tiddler=<<currentTiddler>> list=<<newlist>> /><$action-deletetiddler $tiddler=<<temp>> />"""
+>
+ <div class="f2t-btn$(mode)$">{{$:/core/images/edit-button}}</div>
+   </$checkbox>
+</$vars>
+\end
+
+\define f2t-header()
+<$list filter=<<fieldnames>>>
+   <th class="f2t-header">{{!!title}}</th>
+</$list>
+\end
+
+\define f2t-header-edit()
+<$set name=colspan filter="$(fieldnames)$ +[count[]]">
+   <td colspan=<<colspan>> class="f2t-td-edit f2t-note">
+      <$edit-text  tiddler="""$:/temp/$(currentTiddler)$""" class="f2t-editor f2t-header-editor" default={{$(currentTiddler)$!!list}} tag=input/>
+   </td>
+</$set>
+\end
+
+\define f2t-td-edit() <td class="f2t-td-edit"><$edit-text  tiddler=<<tid>> field={{!!title}} size=1 class="f2t-editor" placeholder={{!!title}}/></td>
+
+\define f2t-td() <td><$transclude tiddler=<<tid>> field={{!!title}} /></td>
+
+\define fields2table-inner()
+<table class="f2t-table">
+<tr>
+   <th><<f2t-toggle>></th>
+   <<f2t-header$(mode)$>>
+</tr>
+<$list filter="""$(filter)$""" variable=tid>
+<tr>
+   <td>
+      <$link to=<<tid>>><$view tiddler=<<tid>> field=title/></$link>
+   </td>
+   <$list filter=<<fieldnames>>>
+      <<f2t-td$(mode)$>>
+   </$list>
+</tr>
+</$list>
+</table>
+\end
+
+\define fields2table(filter)
+<$vars filter="""$filter$""" fieldnames={{!!list}} mode={{!!mode}}>
+<<fields2table-inner "$filter$">>
+</$vars>
+\end

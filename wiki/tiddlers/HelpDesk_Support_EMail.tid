@@ -1,0 +1,13 @@
+ValueType: Email
+Values: 
+created: 20220628181515036
+creator: andrea.alberici
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: HelpDesk_Support_EMail
+tmap.id: 7aec8615-5064-4584-89eb-a1637c8913ea
+type: text/vnd.tiddlywiki
+
+"From" email address for emails going out from the HelpDesk support module (and some other system emails).

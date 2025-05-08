@@ -1,0 +1,13 @@
+ValueType: String
+Values: individual | group
+created: 20220711214926742
+creator: andrea.alberici
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Inventory_Tax_Type_Default
+tmap.id: bc2168b2-2b53-4721-961b-286b97da5b48
+type: text/vnd.tiddlywiki
+
+Establish the tax mode on inventory modules to Individual line or Group tax

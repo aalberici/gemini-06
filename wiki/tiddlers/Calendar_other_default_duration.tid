@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: hours
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_other_default_duration
+tmap.id: 8e6d2764-1a8b-4182-bc7b-2e682526c095
+type: text/vnd.tiddlywiki
+
+The initial number of hours assigned to an event that is not a call when creating. The default is 1 hour.

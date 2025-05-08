@@ -1,0 +1,25 @@
+created: 20220919102426890
+creator: andrea.alberici
+modified: 20230808114345638
+modifier: andrea.alberici
+releasedate: 20220815
+revision: 0
+summary: The application is created with a PHP backend and pure javascript for real-time interaction. The operating system of choice is Linux on a Debian or Ubuntu server (the last stable edition). The database is MySQL. The front-end interface is created using standard web technologies such as HTML, CSS, and JavaScript. The application is designed to be run on a LAMP (Linux, Apache, MySQL, PHP) stack.
+tags: deliverable
+title: DELIVERABLE: System Architecture Design
+tmap.id: 0b9cc6f2-81b6-4a33-be3e-50d9c89c780c
+type: text/vnd.tiddlywiki
+
+The application is created with a PHP backend and pure javascript for real-time interaction. The operating system of choice is Linux on a Debian or Ubuntu server (the last stable edition). The database is MySQL. The front-end interface is created using standard web technologies such as HTML, CSS, and JavaScript. 
+
+Application architecture is the process of designing and planning an application so that it can be easily executed, managed, and scaled. It is a critical component of software development and can have a profound impact on the overall quality of the application. 
+
+A well-designed application architecture will result in a more stable and scalable application that is easier to maintain and modify. It will also make the application more resistant to errors and performance issues. 
+
+There are many factors to consider when designing application architecture, such as the type of application, the target environment, the needs of the users, and the available resources. In this phase Application architecture for web-based applications can be divided into three tiers: the presentation tier, the business logic tier, and the data storage tier. Each tier can be further divided into two or more sub-tiers. For example, the presentation tier can be divided into a client-side sub-tier and a server-side sub-tier.
+
+The presentation tier handles the graphical user interface (GUI) and the user input. It is responsible for generating the HTML, CSS, and JavaScript that is sent to the client-side. The business logic tier handles the communication between the presentation tier and the data storage tier. It contains the business logic that is executed on the server-side. The data storage tier handles the data that is stored in the database.
+
+The three tiers can be further divided into sub-tiers. For example, we will discuss the different types of application architectures and the factors to consider when choosing one.
+
+In conclusion, the application architecture is designed to meet the specific needs of the client. It is a scalable and extensible solution that can be adapted to meet future needs. The architecture is based on industry best practices and provides a high level of performance and availability.

@@ -1,0 +1,31 @@
+actualname: cbSOMaster
+created: 20220729144958035
+creator: andrea.alberici
+modified: 20240103225153028
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Delivery Note Master
+tmap.id: eb554f47-8f96-44bb-b483-b4884f1ba823
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to DDT (document of transportation).
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about the terms and master data of DDT
+
+From the italian law: 472/96, deve riportare i seguenti dati:
+* il numero progressivo.
+* la data.
+* le generalità del cedente, del cessionario e dell'''eventuale incaricato'' al trasporto quando è affidato a terzi.
+* il numero di colli.
+* il peso dei beni da trasportare.
+* la quantità dei beni trasportati suddivisa per voce/articolo in the DDT detail
+* 
+
+!! Related Modules 
+* [[Module: Delivery Note Details]]
+* [[Module: Calendar Todos]]
+* [[Module: Documents]]

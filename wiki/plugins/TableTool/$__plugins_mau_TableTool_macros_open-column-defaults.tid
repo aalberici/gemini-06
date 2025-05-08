@@ -1,0 +1,16 @@
+created: 20170417213415279
+creator: )+(auloop
+list: 
+modified: 20181015200311366
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/open-column-defaults
+type: text/vnd.tiddlywiki
+
+\define tbl-open-column-defaults()
+tbl-td-view:<<tdvOpenThis>>
+tbl-td-edit:<<tdvOpenThis>>
+tbl-th-view:
+tbl-th-edit:
+\end

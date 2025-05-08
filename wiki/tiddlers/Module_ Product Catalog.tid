@@ -1,0 +1,11 @@
+actualname: ProductCatalog
+modified: 20240103225153033
+modifier: andrea.alberici
+modulename: Product Catalog
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Product Catalog
+tmap.id: 16a1ab49-6c79-4b0e-9e98-c9e714625ebc
+type: text/vnd.tiddlywiki
+
+Product to product relation. Permits establishing a relation between products to indicate things like what date range a product is Required,Standard,Optional,Selectable by another. --  --

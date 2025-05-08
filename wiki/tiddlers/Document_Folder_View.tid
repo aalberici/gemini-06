@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220627141641450
+creator: andrea.alberici
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Document_Folder_View
+tmap.id: b4c6c005-9c77-400e-a62d-a46dcb35b855
+type: text/vnd.tiddlywiki
+
+Show Documents list view as separate folders or as a normal list view. Default is 1 = Folder view.

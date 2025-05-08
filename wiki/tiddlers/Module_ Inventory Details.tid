@@ -1,0 +1,11 @@
+actualname: InventoryDetails
+created: 20220626235846585
+modified: 20240103225153030
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Inventory Details
+tmap.id: f81160ef-49bb-47ce-8e14-c22e9c54838d
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Inventory Details XXX The Inventory Details module is used to store the detailed product lines ,plus all the calculations that could be needed for reporting issues, we even add relations to the account, contact, and vendor making reporting on and accessing this information, a breeze.

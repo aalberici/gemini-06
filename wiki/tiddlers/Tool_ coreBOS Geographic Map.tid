@@ -1,0 +1,11 @@
+actualname: GEOMAP
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: coreBOS Geographic Map
+revision: 0
+tags: corebos-extension jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: coreBOS Geographic Map
+tmap.id: 37de009c-13e0-446e-a20d-d69fb07772e8
+type: text/vnd.tiddlywiki
+
+An extension that will permit us to geolocalize our clients, potentials, tickets or any module with an address using Google Maps or OpenStreetMaps integration. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbgeomap --  --

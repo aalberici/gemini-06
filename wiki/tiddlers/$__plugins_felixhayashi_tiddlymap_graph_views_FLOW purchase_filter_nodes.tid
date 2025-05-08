@@ -1,0 +1,4 @@
+filter: [tag[flow-status]] +[tag[purchaseorder_mgmt]]  [field:tmap.id[c0fb8c82-5c15-4db3-b825-54ba9aed9d8d]]
+revision: 0
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/FLOW purchase/filter/nodes
+type: text/vnd.tiddlywiki

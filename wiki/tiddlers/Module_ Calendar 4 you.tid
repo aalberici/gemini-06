@@ -1,0 +1,20 @@
+actualname: Calendar4you
+created: 20220626235836640
+creator: andrea.alberici
+modified: 20240103225153026
+modifier: andrea.alberici
+revision: 0
+tags: standard-module tool
+title: Module: Calendar 4 you
+tmap.id: fa8f676e-e9cc-4d78-a16e-841fae5f0af9
+type: text/vnd.tiddlywiki
+
+This is the view as a calendar for any entity with a date
+Especially useful for the meetings / tasks / calls
+
+Based on Calendar4you by our parter CRM4you, Slovakia based. 
+
+The Calendar module is used to add a new activity, event or to-do. There are several approaches on how to add a new activity, event or to-do:
+1.directly from Calendar View (recommended) - the order is the same for Day, Week or Month view and is described below – the advantage of this approach is that start date and time are automatically defined by your selection and you can easily see whether the time slot is empty for your activity as well as invited colleagues
+2. using Add event button
+3. using action buttons [Add Event], [Add To Do] from records of the modules like Contacts, Organizations

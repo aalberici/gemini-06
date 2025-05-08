@@ -1,0 +1,26 @@
+.f2t-table { width:100%;
+}
+.f2t-td-edit { padding:0; 
+}
+.f2t-header { text-transform:capitalize
+}
+.f2t-editor {
+  padding-top:0; padding-bottom:0; border:0; outline:1px solid lightgreen; width:100%; padding-left:5px;
+}
+.f2t-editor::placeholder { color: lightgreen;
+}
+.f2t-header-editor { font-weight:bold;
+}
+.f2t-note:before {
+  content:"Note: Headings must use field name format!"; position:absolute; margin-top:-1.5em; color: green; font-style:italic; font-size:80%;
+}
+.f2t-btn input {
+  position: absolute;
+  opacity: 0;
+  height: 0;
+  width: 0;
+}
+.f2t-btn svg { height:1.4em; float:left;
+}
+.f2t-btn-edit svg { background:lightgreen;
+}

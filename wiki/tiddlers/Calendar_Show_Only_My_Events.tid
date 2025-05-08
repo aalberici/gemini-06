@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Show_Only_My_Events
+tmap.id: 4ac5c562-f1d1-4c56-8d5f-0d21bf165141
+type: text/vnd.tiddlywiki
+
+Show only the events assign to me, shared with me and in which I am invited.

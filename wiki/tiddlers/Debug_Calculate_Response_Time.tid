@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Calculate_Response_Time
+tmap.id: 64336334-4b11-4a71-8b58-2bd6cb469d24
+type: text/vnd.tiddlywiki
+
+If active will show the application response time at the bottom of each page.

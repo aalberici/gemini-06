@@ -1,0 +1,16 @@
+created: 20170427165209789
+creator: )+(auloop
+list: 
+modified: 20181015200311336
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/edit-date
+type: text/vnd.tiddlywiki
+
+\define tdeEditDate(ef:"YYYY-MM-DD", vf:"YYYY-MM-DD", st, ss, s24)
+<$edit-date index=$(tbl-col-id)$ firstDay="1" format="""$ef$""" fieldFormat="""$vf$""" $st$ $ss$ $s24$/>
+<$button class="tc-btn-invisible" set="!!$(tbl-col-id)$" setTo="tbl-td-view">
+<small>{{$:/core/images/close-button}}</small>
+</$button>
+\end

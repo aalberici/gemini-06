@@ -1,0 +1,28 @@
+[
+    {
+        "created": "20241026185719000",
+        "creator": "admin",
+        "text": "!! [[MicroTask_Form|https://sales.evolutivo.it/index.php?action=DetailView&module=cbMap&record=13726]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "title": "MicroTask_Form",
+        "tags": "cbMap cbrecord",
+        "modified": "20241026190219149",
+        "modifier": "andrea.alberici",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "MicroTask_Form",
+        "mapnumber": "BMAP-0000110",
+        "maptype": "TaskForm",
+        "targetname": "Accounts",
+        "content": "<map>\n\t<props>\n\t\t<expand>1</expand>\n\t\t<shrink>1</shrink>\n\t\t<create>1</create>\n\t</props>\n    <modules>\n        <module>\n            <default>1</default>\n            <name>Accounts</name>\n            <fields>\n                <field>title</field>\n                <field>priority</field>\n                <field>description</field>\n                <field>due_date</field>\n                <field>taskstatus</field>\n                <field>assigned_user_id</field>\n<field>accounts_relation</field>\n            </fields>\n            <expand>\n                <field>title</field>\n                <field>priority</field>\n                <field>description</field>\n                <field>due_date</field>\n                <field>taskstatus</field>\n                <field>assigned_user_id</field>                \n            </expand>\n        </module>\n\n<module>\n            <default>1</default>\n            <name>Project</name>\n            <fields>\n                <field>title</field>\n                <field>priority</field>\n                <field>description</field>\n                <field>due_date</field>\n                <field>taskstatus</field>\n                <field>assigned_user_id</field>\n<field>project_relation</field>\n            </fields>\n            <expand>\n                <field>title</field>\n                <field>priority</field>\n                <field>description</field>\n                <field>due_date</field>\n                <field>taskstatus</field>\n                <field>assigned_user_id</field>                \n            </expand>\n        </module>\n    </modules>\n</map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "2024-04-22 15:29:10",
+        "modifiedtime": "2024-04-24 12:17:49",
+        "created_user_id": "19x1",
+        "contentjson": "{\"props\":{\"expand\":\"1\",\"shrink\":\"1\",\"create\":\"1\"},\"modules\":{\"module\":[{\"default\":\"1\",\"name\":\"Accounts\",\"fields\":{\"field\":[\"title\",\"priority\",\"description\",\"due_date\",\"taskstatus\",\"assigned_user_id\",\"accounts_relation\"]},\"expand\":{\"field\":[\"title\",\"priority\",\"description\",\"due_date\",\"taskstatus\",\"assigned_user_id\"]}},{\"default\":\"1\",\"name\":\"Project\",\"fields\":{\"field\":[\"title\",\"priority\",\"description\",\"due_date\",\"taskstatus\",\"assigned_user_id\",\"project_relation\"]},\"expand\":{\"field\":[\"title\",\"priority\",\"description\",\"due_date\",\"taskstatus\",\"assigned_user_id\"]}}]}}",
+        "description": "",
+        "id": "37x13726",
+        "cbuuid": "1ae33a2295350b89a296d08013ed0a2f5ddf2988",
+        "tmap.id": "f777105f-0c78-4810-be96-84854ddf200d",
+        "revision": "0"
+    }
+]

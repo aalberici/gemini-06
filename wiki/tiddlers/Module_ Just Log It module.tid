@@ -1,0 +1,11 @@
+actualname: JustLogIt
+modified: 20240103225153031
+modifier: andrea.alberici
+modulename: Just Log It module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Just Log It module
+tmap.id: f8ce2077-0e8c-46e8-8ca8-b6d22feb5f21
+type: text/vnd.tiddlywiki
+
+An Event/Calendar type module to register things that happen, incidents worth recording or simply time spent on some task. -- Subscription --

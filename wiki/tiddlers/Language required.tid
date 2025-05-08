@@ -1,0 +1,32 @@
+created: 20200423092317176
+creator: andrea.alberici
+modified: 20250319190441555
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: Language required
+tmap.id: 6c589e7a-bb19-4289-be53-3c4f04ae6a40
+type: text/vnd.tiddlywiki
+
+\define createLanguage()
+<$action-sendmessage 
+  $message="tm-new-tiddler" 
+  title="New Language" 
+  tags="language-extension" 
+  text=""
+  />
+\end
+
+\define newLanguage()
+<$button actions=<<createLanguage>> class="btn btn-sm btn-info" >New Language
+</$button>
+\end
+
+<div class="float-right">
+<<newLanguage>>
+</div>
+
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" field=text tags tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[language-extension]search{$:/temp/tasks/dtable/search}]" fields="tbl-checkbox-specific tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

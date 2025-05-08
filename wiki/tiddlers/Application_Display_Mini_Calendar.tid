@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Display_Mini_Calendar
+tmap.id: 1e7d519a-df64-4427-9948-6e8203afe8b2
+type: text/vnd.tiddlywiki
+
+Show or Hide mini Calendar widget in toolbar

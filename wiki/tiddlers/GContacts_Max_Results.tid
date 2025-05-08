@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: GContacts_Max_Results
+tmap.id: 77941028-d701-43ed-b4be-807de59ff710
+type: text/vnd.tiddlywiki
+
+The maximum number of records that will be synchronized in one batch when sending or receiving information from Google Contacts. The default value is 200 records.

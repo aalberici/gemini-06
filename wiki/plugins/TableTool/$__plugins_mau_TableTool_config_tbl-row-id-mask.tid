@@ -1,0 +1,11 @@
+created: 20180820194437205
+creator: )+(auloop
+list: 
+modified: 20181015200311388
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/config/tbl-row-id-mask
+type: text/vnd.tiddlywiki
+
+\define tbl-row-id() $(tbl-name)$/$(id)$

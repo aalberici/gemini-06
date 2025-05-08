@@ -1,0 +1,13 @@
+ValueType: Email
+Values: 
+created: 20220628181529667
+creator: andrea.alberici
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: HelpDesk_Support_Reply_EMail
+tmap.id: 30044e02-8b69-493b-9f83-b0a18b3c27d8
+type: text/vnd.tiddlywiki
+
+"Reply To" email address for emails going out from the Application.

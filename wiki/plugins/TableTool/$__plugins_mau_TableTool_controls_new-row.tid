@@ -1,0 +1,67 @@
+created: 20170412093519250
+creator: )+(auloop
+list: 
+modified: 20181015201310601
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblControl TableToolPlugin
+title: $:/plugins/mau/TableTool/controls/new-row
+type: text/vnd.tiddlywiki
+
+\define check-key-list() 
+<$list filter="""[list<tbl-conf>]""" variable="tbl-col-id">
+<!-- $list filter="""[<tbl-col-id>addprefix[/]addprefix<tbl-conf>tbl-key[yes]]""" variable="tbl-col" -->
+<$list filter="""[<tbl-col>tbl-key[yes]]""" variable="tbl-col">
+<$set name="k" tiddler="$:/temp/tbl/new-row" index=<<tbl-col-id>> >
+<$set name="chk" filter="""[enlist<k>]""" value="" emptyValue="x"><<chk>></$set>
+</$set>
+</$list>
+</$list>
+\end
+
+\define check-key()
+<$wikify name="chk" text=<<check-key-list>> >
+<$set name="go" filter="""[enlist<chk>]""" value="do-not-set-new-row" emptyValue="ok-to-set-new-row">
+<$macrocall $name=<<go>> />
+</$set>
+</$wikify>
+\end
+
+\define ok-to-set-new-row()
+<$button message="tm-close-tiddler" actions=<<tbl-set-new-row>> >{{$:/core/images/done-button}}</$button>
+\end
+
+\define tbl-set-new-row()
+<$set name="id" value=<<now "YYYY0MM0DD0hh0mm0ss">> >
+<$wikify name="tbl-row-id" text=<<tbl-row-id>> >
+
+<$action-setfield $tiddler="$:/temp/tbl/new-row" title=<<tbl-row-id>> />
+<$action-listops $tiddler=<<tbl-row-id>> $tags="""[<tbl-name>]""" />
+
+<$list filter="""[list<tbl-conf>]""" variable="tbl-col-id">
+<$action-setfield $tiddler=<<tbl-row-id>> $field=<<tbl-col-id>> $value="tbl-td-edit" />
+</$list>
+
+</$wikify>
+</$set>
+\end
+
+<!---------------------
+-- "New record" control
+--
+-- To enable the "New row" dialog:
+-- * uncomment the $action-sendmessage widget version
+-- * comment out the subsequent <<tbl-set-new-row>> macro call version
+-->
+<!-- start of $action-sendmessage widget version --
+<$button>
+New row
+<$action-sendmessage $message="tm-modal" $param="$:/plugins/mau/TableTool/modals/row-dialog" currentTiddler="$:/temp/tbl/new-row" tbl-name=<<tbl-name>> tbl-layout=<<tbl-layout>> check-key=<<check-key>> check-key-list=<<check-key-list>> ok-to-set-new-row=<<ok-to-set-new-row>> tbl-set-new-row=<<tbl-set-new-row>> /> 
+<$action-setfield $tiddler="$:/temp/tbl/new-row" type="application/json" text="" />
+</$button>
+-- end of $action-sendmessage widget version -->
+<!-- start of <<tbl-set-new-row>> macro call version -->
+<$button actions=<<tbl-set-new-row>> >
+New row
+</$button>
+<!-- end of <<tbl-set-new-row>> macro call version -->

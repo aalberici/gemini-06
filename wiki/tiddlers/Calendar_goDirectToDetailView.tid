@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_goDirectToDetailView
+tmap.id: faa9fda2-9441-460c-93a3-5ac0104becc9
+type: text/vnd.tiddlywiki
+
+When you click on an event you will open the detail view of the record instead of the actions toolbar.

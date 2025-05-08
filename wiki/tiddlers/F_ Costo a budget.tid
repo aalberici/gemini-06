@@ -1,0 +1,20 @@
+blockname: 
+columntype: decimal(10,3)
+created: 20220731233018106
+creator: andrea.alberici
+displaytype: 
+fieldname1: sc_budgetcost
+label: Costo a Budget
+massedit: 
+modified: 20230617155327064
+modifier: andrea.alberici
+mods: 
+module: ServiceContracts
+revision: 0
+tags: field non-standard-field
+title: F: Costo a budget
+tmap.id: 921ecb9a-bbb6-42df-9bad-57a8436f1a2d
+type: text/vnd.tiddlywiki
+typeofdata: 
+uitype: 
+vals: 

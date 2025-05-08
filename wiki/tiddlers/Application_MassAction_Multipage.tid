@@ -1,0 +1,11 @@
+ValueType: String
+Values: 0 | 1
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_MassAction_Multipage
+tmap.id: 3fcf0f80-9da6-491c-b535-5ee1fd3d3333
+type: text/vnd.tiddlywiki
+
+Define if we want to mass edit records that we select on many pages or allow us only to mass edit only on the page we are.

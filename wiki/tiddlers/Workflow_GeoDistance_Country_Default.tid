@@ -1,0 +1,11 @@
+ValueType: String
+Values: Country Name
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Workflow_GeoDistance_Country_Default
+tmap.id: 59e229cb-324d-413a-ad98-75522ebe19e4
+type: text/vnd.tiddlywiki
+
+For GeoDistance calculation workflow functions, this variable sets the default country coce to use if none is given. Useful when the company has a local area of influence.Example:gb,us,fr,es

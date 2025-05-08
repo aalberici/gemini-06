@@ -1,0 +1,12 @@
+actualname: cbSurveyAnswer
+created: 20220626235904225
+creator: xhensilda.ndreka
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Surveys Answer
+tmap.id: dd1106a3-98ee-4efc-899b-5cf3e06ac91a
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Surveys Answer XXX The Surveys Answer Is a module related to Contacts and gives information about the answers of a survey.

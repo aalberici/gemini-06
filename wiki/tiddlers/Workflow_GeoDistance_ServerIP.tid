@@ -1,0 +1,11 @@
+ValueType: String
+Values: Server name or IP
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Workflow_GeoDistance_ServerIP
+tmap.id: 15fbb89c-2d14-41bc-b707-801be3325244
+type: text/vnd.tiddlywiki
+
+For GeoDistance calculation workflow functions, this variable sets the server IP that will be used. Default value is router.project-osrm.org

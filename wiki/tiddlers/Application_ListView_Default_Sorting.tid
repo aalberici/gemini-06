@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV
+title: Application_ListView_Default_Sorting
+tmap.id: 054ff976-c40d-4e5f-8555-09864a4a4047
+type: text/vnd.tiddlywiki
+
+Turn off default sorting in list view, could eat up time as data grows. The default is 0

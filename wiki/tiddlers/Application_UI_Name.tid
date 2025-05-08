@@ -1,0 +1,15 @@
+ActualValue: application name
+ValueType: String
+Values: 
+created: 20220627141829883
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] done focus-project
+title: Application_UI_Name
+tmap.id: 0587dcb4-6c0c-4ab7-921b-d3747257622a
+type: text/vnd.tiddlywiki
+
+Name of the application that will be shown on screen.

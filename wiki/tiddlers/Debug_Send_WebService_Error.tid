@@ -1,0 +1,11 @@
+ValueType: CSV EMail
+Values: comma separated list of valid emails
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Send_WebService_Error
+tmap.id: 29160e54-f26e-4e6a-ac75-06476f44ebf2
+type: text/vnd.tiddlywiki
+
+All the email addresses on this list will receive an email when an error occurs in a web service call. You can select the errors you want to get notified on using the global variable Debug_WebService_Errors

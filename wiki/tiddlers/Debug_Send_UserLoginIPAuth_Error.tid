@@ -1,0 +1,11 @@
+ValueType: CSV EMail
+Values: comma separated list of valid emails
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Send_UserLoginIPAuth_Error
+tmap.id: b207aa54-b7e4-4fe2-9216-fbe558d0715e
+type: text/vnd.tiddlywiki
+
+All the email addresses on this list will receive an email when a user tries to login from an invalid IP

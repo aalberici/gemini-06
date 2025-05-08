@@ -1,0 +1,51 @@
+assigned_user_id: 19x1
+blocked: 0
+bmapid: 
+category: System
+cbuuid: 
+created: 20241026194415000
+created_user_id: 19x1
+createdtime: 2024-04-22 15:19:55
+creator: admin
+default_check: 0
+description: 
+globalno: 
+gvname: Application_Display_MicroTasks
+id: 35x13725
+in_module_list: 1
+mandatory: 0
+modified: 20241026195516084
+modifiedtime: 2024-04-24 12:16:31
+modifier: andrea.alberici
+module: GlobalVariable
+module_list: Business Process |##| Documents
+revision: 0
+rolegv: 
+tags: GlobalVariable cbrecord
+title: GV-microtasks
+tmap.id: f80073f5-2935-4e85-aa3e-7f31059415f9
+type: text/vnd.tiddlywiki
+value: 1
+viewtype: index |##| ListView |##| DetailView
+
+!! [[glb-0000012|https://sales.evolutivo.it/index.php?action=DetailView&module=GlobalVariable&record=13725]]
+
+|Name:|{{!!gvname}}|
+|Default:|{{!!default_check}}|
+|Value:|{{!!value}}|
+|Mandatory:|{{!!mandatory}}|
+|User:|{{!!assigned_user_id}}|
+|Blocked:|{{!!blocked}}|
+|Module List:|{{!!module_list}}|
+|Category:|{{!!category}}|
+|In Module List:|{{!!in_module_list}}|
+|Globalno:|{{!!globalno}}|
+|Created Time:|{{!!createdtime}}|
+|Modified Time:|{{!!modifiedtime}}|
+|cbMap:|{{!!bmapid}}|
+|Created By:|{{!!created_user_id}}|
+|Role:|{{!!rolegv}}|
+|View Type:|{{!!viewtype}}|
+|Description:|{{!!description}}|
+|ID:|{{!!id}}|
+|CBUUID:|{{!!cbuuid}}|

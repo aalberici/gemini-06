@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: ToolTip_MaxFieldValueLength
+tmap.id: 5684c5ad-d475-49a0-9dd0-449f8c9dca64
+type: text/vnd.tiddlywiki
+
+The maximum number of characters of a value to show in the tooltip. The default value is 35.

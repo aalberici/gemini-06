@@ -1,0 +1,25 @@
+created: 20170414143029421
+creator: )+(auloop
+list: 
+modified: 20181015201310578
+modifier: )+(auloop
+revision: 0
+select-all: false
+tags: $:/tags/tblControl TableToolPlugin
+title: $:/plugins/mau/TableTool/controls/reset
+type: text/vnd.tiddlywiki
+
+<!----------------
+-- "Reset" control
+-->
+<$button>
+Reset
+<$list filter="""[tag<tbl-name>]""">
+<$action-setfield selected="false" />
+
+<$list filter="""[list<tbl-conf>] -[list<tbl-list-hidden>]""" variable="tbl-col-id">
+<$action-setfield $field=<<tbl-col-id>> $value="tbl-td-view" />
+</$list>
+
+</$list>
+</$button>

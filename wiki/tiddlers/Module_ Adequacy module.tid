@@ -1,0 +1,11 @@
+actualname: Adecuaciones
+modified: 20240103225153023
+modifier: andrea.alberici
+modulename: Adequacy module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Adequacy module
+tmap.id: ad44d07a-bbc2-4f31-b4fc-61b8e610ac1a
+type: text/vnd.tiddlywiki
+
+This project-like module is part of the Adequacy functionality. It represents the actual implementation process in the company designated by the [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:flujo|flow]] and [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:pasos|steps]] and controls the status of implementation of the adequacy project. -- Sale -- superseded by BPM perspective

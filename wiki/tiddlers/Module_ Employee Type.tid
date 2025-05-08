@@ -1,0 +1,11 @@
+actualname: cbEmployeeType
+modified: 20240103225153029
+modifier: andrea.alberici
+modulename: Employee Type
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Employee Type
+tmap.id: a392c605-0792-4be6-b08d-fb9a38789eb9
+type: text/vnd.tiddlywiki
+
+Picklist-like module to record different types or roles of employees -- Subscription --

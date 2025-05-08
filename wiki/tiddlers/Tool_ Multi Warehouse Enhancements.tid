@@ -1,0 +1,11 @@
+actualname: WarehousePerspective
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Multi Warehouse Enhancements
+revision: 0
+tags: corebos-perspective jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Multi Warehouse Enhancements
+tmap.id: 6f65f6a2-ca9e-4aed-b9b2-225472ad298b
+type: text/vnd.tiddlywiki
+
+Perspective of three modules to manage multiwarehouse stock and movements of material between warehouses. --  --

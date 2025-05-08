@@ -1,0 +1,9 @@
+created: 20170415231403552
+creator: )+(auloop
+list: $:/plugins/mau/TableTool/controls/new-column $:/plugins/mau/TableTool/controls/new-row $:/plugins/mau/TableTool/controls/edit-selected $:/plugins/mau/TableTool/controls/delete-selected $:/plugins/mau/TableTool/controls/reset $:/plugins/mau/TableTool/controls/hide-show-col $:/plugins/mau/TableTool/controls/first-page $:/plugins/mau/TableTool/controls/prev-page $:/plugins/mau/TableTool/controls/rows-per-page $:/plugins/mau/TableTool/controls/next-page $:/plugins/mau/TableTool/controls/last-page
+modified: 20181015201310653
+modifier: )+(auloop
+revision: 0
+tags: TableToolPlugin
+title: $:/tags/tblControl
+type: text/vnd.tiddlywiki

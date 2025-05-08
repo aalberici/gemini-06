@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Calendar_Show_WeekNumber
+tmap.id: e553cae1-c255-46eb-9ec5-b1e9543549b2
+type: text/vnd.tiddlywiki
+
+When Calendar_Show_WeekNumber is active, the week numbers will appear on the Calendar.

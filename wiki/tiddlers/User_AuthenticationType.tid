@@ -1,0 +1,11 @@
+ValueType: String
+Values: LDAP | AD | SQL
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: User_AuthenticationType
+tmap.id: 6b29cafc-1c12-4ae8-8a93-4f110b730b3f
+type: text/vnd.tiddlywiki
+
+Login authentication type. Use the default SQL to login using the passwords stored in the database

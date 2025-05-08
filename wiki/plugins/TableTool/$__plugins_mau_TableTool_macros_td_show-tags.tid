@@ -1,0 +1,13 @@
+created: 20170412085145262
+creator: )+(auloop
+list: 
+modified: 20181015200311274
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/show-tags
+type: text/vnd.tiddlywiki
+
+\define tdvShowTags()
+<$list filter="""[<currentTiddler>tags[]sort[title]] -[<tbl-name>]""" template="$:/core/ui/TagTemplate" storyview="pop"/>
+\end

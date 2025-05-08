@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: UI GV
+title: Application_PopupScreen_Height
+tmap.id: a274b58f-f329-452f-9c7c-d88fb535ff1c
+type: text/vnd.tiddlywiki
+
+Percentage of screen height that popups will use. Default is 80%

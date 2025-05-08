@@ -1,0 +1,14 @@
+ValueType: String
+Values: file path
+created: 20220627141829192
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: Application GV [[starting GV]]
+title: Application_UI_CoverImage
+tmap.id: a6004375-579b-4ed4-a5c7-5a1498df6414
+type: text/vnd.tiddlywiki
+
+Image to use as back ground cover.

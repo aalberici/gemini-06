@@ -1,0 +1,11 @@
+actualname: projectteam
+modified: 20240103225153034
+modifier: andrea.alberici
+modulename: Project Team
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Project Team
+tmap.id: 64082a3e-4e15-4d3e-933b-a217adbec562
+type: text/vnd.tiddlywiki
+
+Module to relate project and contacts. It is similar to the [[en:extensions:extensions:cbstakeholder|Stake Holder module]]. --  --

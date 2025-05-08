@@ -1,0 +1,11 @@
+actualname: StateCourt
+modified: 20240103225153037
+modifier: andrea.alberici
+modulename: State Court
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: State Court
+tmap.id: 2d8008d0-6e21-4cdb-809d-4ed072cc74f3
+type: text/vnd.tiddlywiki
+
+Module to record US State Courts - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:statecourt --  --

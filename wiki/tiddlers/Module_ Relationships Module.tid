@@ -1,0 +1,11 @@
+actualname: cbRelations
+modified: 20240103225153035
+modifier: andrea.alberici
+modulename: Relationships Module
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: Relationships Module
+tmap.id: f386fe34-5595-4d15-8077-48fee3bdd006
+type: text/vnd.tiddlywiki
+
+Module to register the relation between two accounts, contacts, vendors or leads.\\ The module enables you to record and analyze relationships of a lead, an account or a contact for a better understanding of its roles, dependencies and influences. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:cbrelations --  --

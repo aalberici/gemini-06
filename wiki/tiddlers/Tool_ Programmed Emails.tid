@@ -1,0 +1,11 @@
+actualname: AP
+modified: 20230617155327089
+modifier: andrea.alberici
+modulename: Programmed Emails
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Programmed Emails
+tmap.id: dd89f809-f501-487d-ba9f-8d50338ac90d
+type: text/vnd.tiddlywiki
+
+Set of various modules that will permit you to create powerful email templates and send them out on determined schedule. --  -- deprecated

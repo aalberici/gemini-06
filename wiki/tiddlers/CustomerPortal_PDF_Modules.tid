@@ -1,0 +1,11 @@
+ValueType: CSV Modules
+Values: Comma separated values of modules capable of sending PDF data via Webservice
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_PDF_Modules
+tmap.id: 36215a68-421c-4095-aa19-4cdd2f4a7a8a
+type: text/vnd.tiddlywiki
+
+When using the getpdfdata webservice call, this variable indicates which Modules can generate PDF data.

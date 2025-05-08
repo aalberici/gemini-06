@@ -1,0 +1,18 @@
+created: 20211203112034545
+creator: artemisa.puci
+modified: 20240103225153024
+modifier: andrea.alberici
+revision: 0
+tags: [[area: data]] tool-config non-standard-module
+title: Module: BACK UP
+tmap.id: 8bad3887-e944-4a60-a995-355f6c32fcb5
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to back ups.
+
+This is a custom vtlib module which can be installed through the module manager.  It can contain a set of fields and information about a certain backup. Backup refers to the copying of physical or virtual files or databases to a secondary location for preservation in case of equipment failure or catastrophe. The process of backing up data is pivotal to a successful disaster recovery plan.
+
+Enterprises back up data they deem to be vulnerable in the event of buggy software, data corruption, hardware failure, malicious hacking, user error or other unforeseen events. Backups capture and synchronize a point-in-time snapshot that is then used to return data to its previous state.
+
+The goal is to ensure rapid and reliable data retrieval should the need arise. The process of retrieving backed-up data files is known as file restoration.

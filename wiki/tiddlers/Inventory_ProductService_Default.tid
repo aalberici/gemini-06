@@ -1,0 +1,13 @@
+ValueType: String
+Values: Products | Services
+created: 20220711214730529
+creator: andrea.alberici
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Inventory_ProductService_Default
+tmap.id: 225db94a-7871-4b03-a660-8e160e392b50
+type: text/vnd.tiddlywiki
+
+When creating a new inventory module record, the first product line that is shown will be a Product or a Service depending on the value of the variable.

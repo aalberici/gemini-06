@@ -1,0 +1,23 @@
+actualname: Services
+created: 20220611163143499
+creator: andrea.alberici
+modified: 20240103225153037
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module sales crm entity focus-project
+title: Module: Services
+tmap.id: e219c4ef-716e-44cd-96ee-6360444ab88b
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Products.
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about the entities worked on and sold. 
+
+The Products module is a catalogue of the products and services you are offering.
+
+
+!! Related Modules 
+
+[[Module: Invoice Details]]

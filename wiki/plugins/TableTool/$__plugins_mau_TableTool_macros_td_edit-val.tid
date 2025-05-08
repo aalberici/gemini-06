@@ -1,0 +1,16 @@
+created: 20170411161750906
+creator: )+(auloop
+list: 
+modified: 20181015200311322
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/edit-val
+type: text/vnd.tiddlywiki
+
+\define tdeEditVal()
+<$edit-text index=$(tbl-col-id)$ tag="textarea"/>
+<$button class="tc-btn-invisible" set="!!$(tbl-col-id)$" setTo="tbl-td-view">
+<small>{{$:/core/images/close-button}}</small>
+</$button>
+\end

@@ -1,0 +1,11 @@
+actualname: coreBOSAddress
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: coreBOS Multi-Address
+revision: 0
+tags: corebos-module jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: coreBOS Multi-Address
+tmap.id: 0c87de32-474a-4107-bfc9-a12ea40dba7e
+type: text/vnd.tiddlywiki
+
+Module to manage many addresses related to Accounts and Contacts. You will be able to relate as many addresses as you need to each account/contact and then establish the default billing and shipping address on them and on each individual Quote, SalesOrder, PurchaseOrder and Invoice. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:corebosaddress --  --

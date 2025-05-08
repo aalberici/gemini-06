@@ -1,0 +1,13 @@
+created: 20220918163735116
+creator: andrea.alberici
+modified: 20230808114345642
+modifier: andrea.alberici
+releasedate: 20220915
+revision: 0
+summary: The developer's work is generally focused on data storage, server configuration and maintenance of security
+tags: deliverable
+title: DELIVERABLE: system backend customization
+tmap.id: 4a1d3492-ae5d-4996-9e10-748481313f4d
+type: text/vnd.tiddlywiki
+
+Backend development is the programming of an application to create a user experience that is flexible and dynamic, but may not be visible to the user. The developer's work is generally focused on data storage, server configuration and maintenance of security. Backend developers work in multiple programming languages but primarily in PHP, Golang, having also integrated Python and Java applications.

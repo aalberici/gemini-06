@@ -1,0 +1,16 @@
+created: 20170412084142938
+creator: )+(auloop
+list: 
+modified: 20181015200311306
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/td/open-this
+type: text/vnd.tiddlywiki
+
+\define tdvOpenThis()
+<$button class="tc-btn-invisible">
+<small>{{$:/core/images/open-window}}</small>
+<$action-navigate/>
+</$button>
+\end

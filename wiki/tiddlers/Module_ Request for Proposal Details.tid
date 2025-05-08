@@ -1,0 +1,24 @@
+actualname: cbRFPDetails
+created: 20220729132438413
+creator: andrea.alberici
+modified: 20240103225153036
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: specific-module crm sales entity [[area: data]] non-standard-module
+title: Module: Request for Proposal Details
+tmap.id: d0c50864-9b81-44e5-8aee-5999b2a14670
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to RFP details, that represent the different product/services prices asked for a specfic offer to be done
+
+This is a normal vtlib module which can be installed through the module manager.
+
+ It contains a set of fields and information about quantity / prices requested to vendors / discounts. 
+
+
+
+!! Related Modules 
+
+

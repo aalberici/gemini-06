@@ -1,0 +1,11 @@
+actualname: QualityActions
+modified: 20240103225153035
+modifier: andrea.alberici
+modulename: Quality Actions module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Quality Actions module
+tmap.id: 178410d5-3760-40c8-8766-a44426803572
+type: text/vnd.tiddlywiki
+
+This module is related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:qualityclaims|Quality Claims module]] and details the different actions or steps taken to resolve or attend the quality claim. --  --

@@ -1,0 +1,63 @@
+created: 20220731174514748
+creator: andrea.alberici
+modified: 20240103225153039
+modifier: andrea.alberici
+revision: 0
+title: Spreadsheet Service Contracts fields
+tmap.id: dc81309e-1746-45ef-8aae-5ca1f89c9420
+type: text/vnd.tiddlywiki
+
+\define ss_cols() L R A
+\define ss_rows() 1 2 3 4 5 6 7 8 9 10 11 
+\define ss_cell() $(c)$$(r)$
+
+RELATED TO [[Module: Service Contracts]]
+
+<$tiddler tiddler="Spreadsheet/DataServiceContractFields">
+
+Click on cells to pop up an editor.  Formulas currently need to be written in `(= =)` but cells may be referred to by their names, such as `A2`.  Ranges aren't supported yet.
+
+<$vars popupState=<<qualify "$:/temp/spreadsheet/pop">> popupCell=<<qualify "$:/temp/spreadsheet/popcell">> >
+
+<$reveal type="popup" state=<<popupState>> >
+<div class="tc-drop-down tc-popup-keep">
+
+<$set name="cell" filter="[title<popupCell>get[text]]">
+''<<cell>>'': <$edit-text tag=input index=<<cell>> size=30 />
+<$button class="tc-btn-invisible">{{$:/core/images/save-button}}<$action-setfield $tiddler=<<popupState>> text=""/></$button>
+</$set>
+
+</div>
+</$reveal>
+
+<table>
+<tr><th></th><$list variable=c filter=<<ss_cols>> ><th><<c>></th></$list></tr>
+<$list variable=r filter=<<ss_rows>> >
+<tr>
+	<th style="padding:0;"><<r>></th>
+	<$list variable=c filter=<<ss_cols>> ><td style="padding:0;">
+		<$button popup=<<popupState>> style="width:100%;margin:0;padding:6px;display:block;background:none;border:none;cursor:pointer;"><$action-setfield $tiddler=<<popupCell>> text=<<ss_cell>>/> <$formula formula=<<ss_cell>>/>
+		</$button>
+	</td>
+	</$list>
+</tr>
+</$list>
+</table>
+
+</$vars>
+
+<!-- <table>
+<tr><th></th><$list variable=c filter=<<ss_cols>> ><th><<c>></th></$list></tr>
+<$list variable=r filter=<<ss_rows>> >
+<tr><th><<r>></th><$list variable=c filter=<<ss_cols>> ><td><$edit-text tag=input index=<<ss_cell>> size=10/></td></$list></tr>
+</$list>
+</table> -->
+
+</$tiddler>
+
+[[Data ServiceContractFields|Spreadsheet/DataServiceContractFields]]
+
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[field]] +[!tag[$:/tags/TextEditor/Template]]"  fields="tbl-checkbox-specific tbl-checkbox tbl-expand title fieldname1 label columntype uitype module " class="w-100" stateTiddler="your-state-tid"/>

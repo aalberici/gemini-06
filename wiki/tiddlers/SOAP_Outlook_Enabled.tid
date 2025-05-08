@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: SOAP_Outlook_Enabled
+tmap.id: 9dc8f994-1f5d-45db-85ba-f2703730c812
+type: text/vnd.tiddlywiki
+
+Completely disables or enables SOAP Outlook access.

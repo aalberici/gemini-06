@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: UI GV
+title: Application_PopupScreen_Width
+tmap.id: 7e7eb559-5ed0-4060-8e4d-a7d8912a0c70
+type: text/vnd.tiddlywiki
+
+Percentage of screen width that popups will use. Default is 80%

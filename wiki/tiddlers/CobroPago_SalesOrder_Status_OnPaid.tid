@@ -1,0 +1,11 @@
+ValueType: string
+Values: Valid Sales Order status picklist values
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: CobroPago_SalesOrder_Status_OnPaid
+tmap.id: cd53ce55-cb0f-48b1-ac42-f4a8b173386d
+type: text/vnd.tiddlywiki
+
+When saving a Payment related to a Sales Order, the status of the quote will be set to the value contained in this variable. The special value "DoNotChange" will deactivate this functionality and no change will be done.

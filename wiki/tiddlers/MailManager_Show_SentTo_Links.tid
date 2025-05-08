@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: MailManager_Show_SentTo_Links
+tmap.id: 7f512048-f321-4e13-a815-9b077125d0e0
+type: text/vnd.tiddlywiki
+
+MailManager shows, by default, on the left panel a set of links to filter emails related to Accounts, Contacts and some other modules. Setting this variable to 0 will hide those quick actions.

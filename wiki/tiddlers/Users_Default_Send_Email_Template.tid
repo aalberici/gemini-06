@@ -1,0 +1,11 @@
+ValueType: String
+Values: 
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Users_Default_Send_Email_Template
+tmap.id: 66d95c47-cdf7-4c1e-9af7-6d113d2a0815
+type: text/vnd.tiddlywiki
+
+Name of the default email template to load when creating a new email. The default is empty.

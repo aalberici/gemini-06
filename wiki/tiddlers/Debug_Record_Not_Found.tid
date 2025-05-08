@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220711220909005
+creator: andrea.alberici
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV [[starting GV]]
+title: Debug_Record_Not_Found
+tmap.id: 9f9c6698-48d8-4c73-a9a1-9572afcfd2bf
+type: text/vnd.tiddlywiki
+
+When a record cannot be found, the application will show a message indicating the event. If this variable is set to 1 then the application will show additional information about the record being looked for like the module and crmid.

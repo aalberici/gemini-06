@@ -1,0 +1,20 @@
+blockname: 
+columntype: decimal(10,3)
+created: 20220731233358281
+creator: andrea.alberici
+displaytype: 
+fieldname1: sc_expectedrevenues
+label: Ricavi Attesi
+massedit: 
+modified: 20230617155327064
+modifier: andrea.alberici
+mods: 
+module: ServiceContracts
+revision: 0
+tags: field non-standard-field
+title: F: Ricavi attesi
+tmap.id: 8d893de8-9ded-4487-8d6a-7772e348d54d
+type: text/vnd.tiddlywiki
+typeofdata: 
+uitype: 
+vals: 

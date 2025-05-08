@@ -1,0 +1,11 @@
+ValueType: String
+Values: Text to show
+modified: 20240103225846541
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Announcement
+tmap.id: 6054a463-b350-4840-a07e-8ee75b245682
+type: text/vnd.tiddlywiki
+
+Shows a scrolling header text as a system wide announcement

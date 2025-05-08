@@ -1,0 +1,21 @@
+created: 20180819170431494
+creator: )+(auloop
+list: 
+modified: 20181015201310631
+modifier: )+(auloop
+revision: 0
+select-all: false
+tags: $:/tags/tblControl TableToolPlugin
+title: $:/plugins/mau/TableTool/controls/first-page
+type: text/vnd.tiddlywiki
+
+\define tbl-first-page()
+<$action-setfield $tiddler="""$(tbl-start-row)$""" text={{{[tag[$(tbl-name)$]first[]]}}} />
+\end
+
+<!----------------
+-- "First-Page" control
+-->
+<$button actions=<<tbl-first-page>> >
+{{$:/core/images/chevron-left}}
+</$button>

@@ -1,0 +1,11 @@
+ValueType: String
+Values: 
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Customer_Portal_URL
+tmap.id: 8b6043ba-643e-449f-92db-0eb3d4d67b21
+type: text/vnd.tiddlywiki
+
+URL for customer portal (Example: http://your_support_domain.tld/portal). Used mostly for email template communications.

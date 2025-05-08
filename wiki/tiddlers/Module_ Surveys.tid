@@ -1,0 +1,12 @@
+actualname: cbSurvey
+created: 20220626235903805
+creator: xhensilda.ndreka
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Surveys
+tmap.id: a2ba0a1e-8ff7-42e0-b0e7-648a3959315f
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Surveys XXX The Surveys module is used for creating and conducting questionnaires and is related to three other modules: Survey Questions, Surveys Answer, Surveys Done.

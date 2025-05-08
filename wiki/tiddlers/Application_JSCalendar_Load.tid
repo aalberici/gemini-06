@@ -1,0 +1,11 @@
+ValueType: String
+Values: true | false
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Development GV
+title: Application_JSCalendar_Load
+tmap.id: 3e825b34-2f67-4b7e-9351-27a3a1b0f45b
+type: text/vnd.tiddlywiki
+
+true, which is the default value, will load the javascript date calendar extension, false will not load it. Specially used for extensions which load their own calendar plugin.

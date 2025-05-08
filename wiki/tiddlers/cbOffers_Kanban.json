@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20240618210348000",
+        "creator": "admin",
+        "title": "cbOffers_Kanban",
+        "text": "!! [[cbOffers_Kanban|https://itelcond.evolutivo.it/index.php?action=DetailView&module=cbMap&record=11562]]\n\n|Map Name:|{{!!mapname}}|\n|Map Number:|{{!!mapnumber}}|\n|Map Type:|{{!!maptype}}|\n|Target Module:|{{!!targetname}}|\n|Content:|{{!!content}}|\n|Assigned To:|{{!!assigned_user_id}}|\n|Created Time:|{{!!createdtime}}|\n|Modified Time:|{{!!modifiedtime}}|\n|Created By:|{{!!created_user_id}}|\n|ContentJson:|{{!!contentjson}}|\n|Description:|{{!!description}}|\n|ID:|{{!!id}}|\n|CBUUID:|{{!!cbuuid}}|\n",
+        "tags": "cbMap cbrecord",
+        "type": "text/vnd.tiddlywiki",
+        "module": "cbMap",
+        "mapname": "cbOffers_Kanban",
+        "mapnumber": "BMAP-0000057",
+        "maptype": "Kanban",
+        "targetname": "cbOffers",
+        "content": "<map>\n    <module>cbOffers</module>\n    <lanefield>offer_status</lanefield>\n    <showsearch>1</showsearch>\n    <showfilter>1</showfilter>\n    <applyfilter>All</applyfilter>\n    <pagesize>6</pagesize>\n \n<lanes>\n    <lane>\n        <name>Creato</name>\n        <sequence>1</sequence>\n       <color>orange</color>\n   </lane>\n\n   <lane>\n        <name>Spedito</name>\n        <sequence>3</sequence>\n        <color>orange</color>\n   </lane>\n\n   <lane>\n        <name>Da approvare</name>\n        <sequence>2</sequence>\n       <color>orange</color>\n   </lane>\n\n   <lane>\n        <name>Chiuso Vinto</name>\n        <sequence>4</sequence>\n       <color>green</color>\n   </lane>\n </lanes>\n\n<lane>\n        <name>Chiuso Perso</name>\n        <sequence>5</sequence>\n       <color>red</color>\n</lane>\n\n    <card>\n      <title>subject</title>\n      <showfields>\n        <field>cboffersno</field>\n      </showfields>\n      <morefields>\n        <field>related_client</field>\n        <field>expiration_date</field>\n      </morefields>\n    </card>\n</map>",
+        "assigned_user_id": "19x1",
+        "createdtime": "2022-05-26 13:52:13",
+        "modifiedtime": "2022-06-01 16:08:04",
+        "created_user_id": "19x1",
+        "contentjson": "{\"module\":\"cbOffers\",\"lanefield\":\"offer_status\",\"showsearch\":\"1\",\"showfilter\":\"1\",\"applyfilter\":\"All\",\"pagesize\":\"6\",\"lanes\":{\"lane\":[{\"name\":\"Creato\",\"sequence\":\"1\",\"color\":\"orange\"},{\"name\":\"Spedito\",\"sequence\":\"3\",\"color\":\"orange\"},{\"name\":\"Da approvare\",\"sequence\":\"2\",\"color\":\"orange\"},{\"name\":\"Chiuso Vinto\",\"sequence\":\"4\",\"color\":\"green\"}]},\"lane\":{\"name\":\"Chiuso Perso\",\"sequence\":\"5\",\"color\":\"red\"},\"card\":{\"title\":\"subject\",\"showfields\":{\"field\":\"cboffersno\"},\"morefields\":{\"field\":[\"related_client\",\"expiration_date\"]}}}",
+        "description": "",
+        "id": "37x11562",
+        "cbuuid": "427c22361dbccedab6a7611d9f4dc9b7aab4edb4",
+        "tmap.id": "fe1351f0-d2ef-4d66-bf62-b5ddb3ff887f",
+        "revision": "0"
+    }
+]

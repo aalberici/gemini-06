@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Document_CreateSelectContactFolder
+tmap.id: 956ed741-e01e-41cf-b026-9a93863d90ae
+type: text/vnd.tiddlywiki
+
+When creating a document from a Contact, create a new folder with the name of the contact and select it by default.

@@ -1,0 +1,11 @@
+actualname: OpposingParty
+modified: 20240103225153032
+modifier: andrea.alberici
+modulename: Opposing Party Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Opposing Party Module
+tmap.id: ced3ac30-591d-49dc-9bf2-049373f29778
+type: text/vnd.tiddlywiki
+
+Contact-like module to register information about the Opposing Party we face in litigation matters.\\ This is part of the **Attorney's Back Office**. --  --

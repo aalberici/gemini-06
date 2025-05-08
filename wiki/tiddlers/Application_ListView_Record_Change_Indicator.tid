@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV
+title: Application_ListView_Record_Change_Indicator
+tmap.id: f7cef040-0f1c-4a39-8ed6-7ff01462369e
+type: text/vnd.tiddlywiki
+
+Compute the record change indication for each record shown on the list view. The default is 1

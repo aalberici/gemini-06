@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSS Style
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Inventory_Comment_Style
+tmap.id: f19ad12b-0403-4097-973f-c887afc5747c
+type: text/vnd.tiddlywiki
+
+CSS Style to apply on inventory product line comment box. By default defines width and height.

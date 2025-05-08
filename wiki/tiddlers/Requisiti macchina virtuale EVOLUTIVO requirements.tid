@@ -1,0 +1,29 @@
+created: 20230419094512542
+creator: andrea.alberici
+modified: 20230808114345644
+modifier: andrea.alberici
+revision: 0
+tags: deliverable
+title: Requisiti macchina virtuale EVOLUTIVO requirements
+tmap.id: 79483101-7803-4a9a-9630-2be269b52ab5
+type: text/vnd.tiddlywiki
+
+Sistema operativo: Debian, ultima versione standard. Suggeriamo UBUNTU SERVER 22.04 LTS
+
+APACHE: Server HTTP Apache 2.4.54 (httpd): 2.4.54 è l'ultima versione disponibile.
+PHP: 8.2.0
+Accesso SSH alla macchina per fare noi le installazioni
+Installeremo un server GIT e un client.
+Installeremo MySQL
+
+Requisiti minimi: 
+RAM: 4Gb, consigliati 8Gb in su
+CPU: 4 virtual core minimo, consigliate 8 in su [2 CPU quadcore sono in genere ottimali]
+DISCO: minimo 50Gb, ma consigliati 100Gb (se servisse salvare e gestire documenti, potremmo farlo in un volume dedicato)
+
+!! Template VM
+VM di un Ubuntu server Long Term Support, come la 2204 
+https://www.osboxes.org/ubuntu/#ubuntu-22-04-jammy-vmware
+
+Il sito Osboxes è consigliato dalla Cornell University (https://www.cs.cornell.edu/courses/cs2043/2021sp/styled/styled-2/) 
+

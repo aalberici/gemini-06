@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Workflows GV
+title: Workflow_Maximum_Scheduled
+tmap.id: 31554175-eae8-4574-9531-34010a35f34b
+type: text/vnd.tiddlywiki
+
+This is the maximum númber of scheduled workflows that the application will permit you to create. You should be careful with this limit, especially try to distribute the scheduled workflows evenly on application low use time. The default value is 10.

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_showUserAdvancedBlock
+tmap.id: fd25cc42-62a6-44d7-96b4-1c2bdb3ee2b4
+type: text/vnd.tiddlywiki
+
+Show user fields contained in the advanced user block. Create a block named LBL_USER_ADV_OPTIONS and move the fields you want to export to that block.

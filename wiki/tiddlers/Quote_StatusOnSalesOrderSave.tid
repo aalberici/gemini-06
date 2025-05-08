@@ -1,0 +1,11 @@
+ValueType: string
+Values: Valid Quote status picklist values
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Quote_StatusOnSalesOrderSave
+tmap.id: 1562241d-841c-4ce9-94d3-e1a6ca531b1e
+type: text/vnd.tiddlywiki
+
+When saving a Sales Order related to a Quote, the status of the quote will be set to the value contained in this variable. The special value "DoNotChange" will deactivate this functionality and no change will be done.

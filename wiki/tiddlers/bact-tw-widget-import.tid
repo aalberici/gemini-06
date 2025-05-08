@@ -1,0 +1,71 @@
+acrole: 
+active: 1
+assigned_user_id: 19x1
+brmap: 
+businessactions_no: bact-0000158
+cbuuid: 1faad553313c3a73cdccd606c4379c1a5aaba74b
+confirmalert: 0
+confirmmessage: 
+created: 20240618201929000
+created_user_id: 19x1
+createdtime: 2023-08-03 15:38:24
+creator: admin
+description: 
+error_msg: 
+handler: 
+handler_class: 
+handler_path: 
+id: 
+linkicon: 
+linklabel: dvwidget
+linktype: DETAILVIEWWIDGET
+linkurl: module=Utilities&action=UtilitiesAjax&file=importTiddlers
+mandatory: 1
+modified: 20240815205852028
+modifiedtime: 2024-06-18 20:19:28
+modifier: andrea.alberici
+module: BusinessActions
+module_list: cbupdater |##| BusinessActions |##| cbMap |##| GlobalVariable
+onlyonmymodule: 0
+revision: 0
+sequence: 0
+success_msg: 
+tags: BusinessActions cbrecord
+title: bact-tw-widget-import
+tmap.id: 154838cb-25ae-444a-8810-63ddf507747f
+type: text/vnd.tiddlywiki
+widget_header: 0
+widget_height: 
+widget_width: 
+
+!! obsolete because of drag/drop functionality
+
+|linktype:|{{!!linktype}}|
+|linklabel:|{{!!linklabel}}|
+|linkurl:|{{!!linkurl}}|
+|linkicon:|{{!!linkicon}}|
+|sequence:|{{!!sequence}}|
+|handler_path:|{{!!handler_path}}|
+|onlyonmymodule:|{{!!onlyonmymodule}}|
+|handler_class:|{{!!handler_class}}|
+|module_list:|{{!!module_list}}|
+|handler:|{{!!handler}}|
+|Error Message:|{{!!error_msg}}|
+|Success Message:|{{!!success_msg}}|
+|Widget Header:|{{!!widget_header}}|
+|Widget Width:|{{!!widget_width}}|
+|Widget Height:|{{!!widget_height}}|
+|Confirmation Alert:|{{!!confirmalert}}|
+|Confirmation Message:|{{!!confirmmessage}}|
+|Assigned To:|{{!!assigned_user_id}}|
+|active:|{{!!active}}|
+|acrole:|{{!!acrole}}|
+|mandatory:|{{!!mandatory}}|
+|brmap:|{{!!brmap}}|
+|businessactions_no:|{{!!businessactions_no}}|
+|Created By:|{{!!created_user_id}}|
+|Created Time:|{{!!createdtime}}|
+|Modified Time:|{{!!modifiedtime}}|
+|Description:|{{!!description}}|
+|ID:|{{!!id}}|
+|CBUUID:|{{!!cbuuid}}|

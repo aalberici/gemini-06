@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSV of field names
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Import_DuplicateRecordHandling_Fields
+tmap.id: 037ec982-4b37-4315-b801-6c2eb76d731e
+type: text/vnd.tiddlywiki
+
+Comma separated list of field names to search on when deduplicating.

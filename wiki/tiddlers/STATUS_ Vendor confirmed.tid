@@ -1,0 +1,11 @@
+created: 20220709135433193
+creator: andrea.alberici
+modified: 20221006112935923
+modifier: andrea.alberici
+module: cbProcessStep
+revision: 0
+tags: purchaseorder_mgmt bpm-flow flow-status
+title: STATUS: Vendor confirmed
+tmap.edges: {"19d485df-09f7-4a75-ad11-c65dd8a35ba3":{"to":"358ad3e5-8975-439b-88e6-8bd3ec0fb805","type":"flow"},"7e674666-4fb7-4730-b3bf-41b82385ed65":{"to":"8d886499-9cb1-4bc4-9eb4-26cb94f4a30f","type":"unknown"}}
+tmap.id: 85871d7b-8d3a-4bab-bcef-739ac5cae3b4
+type: text/vnd.tiddlywiki

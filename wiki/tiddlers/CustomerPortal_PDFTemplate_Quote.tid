@@ -1,0 +1,11 @@
+ValueType: String
+Values: ID or name of template to use
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_PDFTemplate_Quote
+tmap.id: db60a1a6-333a-4870-afc6-c12a49976f70
+type: text/vnd.tiddlywiki
+
+When the CustomerPortal_PDF variable is set to PDFMaker or GenDoc, this variable indicates which template should be used to generate Quotes PDF. If it is empty the first template found will be used.

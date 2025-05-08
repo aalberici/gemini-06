@@ -1,0 +1,14 @@
+ValueType: String
+Values: Contacts,Potentials,HelpDesk,Documents
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: [[Module Functionality]] GV
+title: Mobile_Related_Modules
+tmap.id: 472589cb-a82c-4361-88e0-7b866eea6f85
+type: text/vnd.tiddlywiki
+
+Comma separated module list to indicate the modules that we want to show their related lists or to appear like a related list.
+Now Default value is: Contacts,Potentials,HelpDesk,Documents,Timecontrol.
+So, we recommend that first you copy this value and on the end of the string you add your new modules.
+For example: Contacts,Potentials,HelpDesk,Documents,Timecontrol,Assets

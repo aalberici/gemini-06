@@ -1,0 +1,11 @@
+ValueType: string
+Values: Valid SalesOrder status picklist values
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: SalesOrder_StatusOnInvoiceSave
+tmap.id: b0610a48-c45a-47a5-9a9f-8cb6d5f1fcd1
+type: text/vnd.tiddlywiki
+
+When saving an Invoice related to a Sales Order, the status of the sales order will be set to the value contained in this variable. The special value "DoNotChange" will deactivate this functionality and no change will be done.

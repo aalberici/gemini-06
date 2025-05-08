@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: WebService_Session_Idle_Time
+tmap.id: 2723ecde-2529-473f-85b2-ef853aaf23c2
+type: text/vnd.tiddlywiki
+
+The maximum life span that a session should be kept alive after the last transaction. Default is 1800 (seconds)

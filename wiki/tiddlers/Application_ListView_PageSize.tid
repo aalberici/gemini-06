@@ -1,0 +1,13 @@
+ValueType: Integer
+Values: 
+created: 20220711215510035
+creator: andrea.alberici
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_ListView_PageSize
+tmap.id: 08b3316c-81c4-459e-81a6-2f21befb381c
+type: text/vnd.tiddlywiki
+
+Number of rows per page in list views

@@ -1,0 +1,11 @@
+ValueType: String
+Values: None | Value | Percentage | ValuePercentage
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Graph_DataLabels
+tmap.id: 84009cf8-e49d-43ae-94f3-4e16e5fff3d3
+type: text/vnd.tiddlywiki
+
+This will permit us to show or not data on the application graphs. On each section/bar of the graph we will be able to show the value, the percentage or both.

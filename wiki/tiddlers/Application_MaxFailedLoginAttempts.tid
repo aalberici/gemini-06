@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_MaxFailedLoginAttempts
+tmap.id: 978a4b51-e4b3-49b7-924e-7159349d9133
+type: text/vnd.tiddlywiki
+
+The number of login attempts after which the user will be locked out of the application. The admin user can change this value in the users preferences page and it will be reset to 0 when the password is changed.

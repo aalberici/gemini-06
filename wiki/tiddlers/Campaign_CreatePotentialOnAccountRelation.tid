@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628181348062
+creator: andrea.alberici
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Campaign_CreatePotentialOnAccountRelation
+tmap.id: 7ecfbef2-39c0-46f2-8b86-2546af991bba
+type: text/vnd.tiddlywiki
+
+If set to 1 a potential record will be automatically created when an Account is related to a Campaign. The potential will be related to the account and the campaign. The default is to not create the potential.

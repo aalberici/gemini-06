@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: EMail_Signature_BeforeQuote
+tmap.id: 93c8202e-8402-42fa-b836-6b5f475367b2
+type: text/vnd.tiddlywiki
+
+Adds the user signature before the quoted email instead of at the end of the whole email.

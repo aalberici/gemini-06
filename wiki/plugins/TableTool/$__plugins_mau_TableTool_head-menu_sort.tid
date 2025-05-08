@@ -1,0 +1,13 @@
+created: 20170517195608152
+creator: )+(auloop
+list: 
+modified: 20181015194350720
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/thvHeadMenu TableToolPlugin
+title: $:/plugins/mau/TableTool/head-menu/sort
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible">
+Sort by this column
+</$button>

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Users_ReplyTo_SecondEmail
+tmap.id: 45a0e855-902b-48d3-9e77-d9750350b1ab
+type: text/vnd.tiddlywiki
+
+If set to 1 the users secondary email will be used in email responses. The default is set to 0 using the primary email address of the user.

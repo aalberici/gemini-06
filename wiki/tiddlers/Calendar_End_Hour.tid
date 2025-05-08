@@ -1,0 +1,11 @@
+ValueType: String
+Values: Hour in format HH:MM:SS
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_End_Hour
+tmap.id: 6beed95d-eed8-4325-a0cd-ed80a7b085e1
+type: text/vnd.tiddlywiki
+
+End hour to show in Calendar, by default will be 24:00:00.

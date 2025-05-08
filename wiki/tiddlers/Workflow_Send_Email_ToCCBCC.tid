@@ -1,0 +1,11 @@
+ValueType: Email CSV
+Values: 
+modified: 20240103225846557
+modifier: andrea.alberici
+revision: 0
+tags: Testing GV
+title: Workflow_Send_Email_ToCCBCC
+tmap.id: 729939a6-a5e1-4916-a733-2b85969cd1ab
+type: text/vnd.tiddlywiki
+
+If this variable is defined and contains a comma separated list of emails, ALL workflow emails will be sent to this list.

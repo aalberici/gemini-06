@@ -1,0 +1,8 @@
+created: 20220116014352420
+modified: 20220624141624102
+priority: 3
+revision: 0
+scope: [tag[operations]]
+style: {"font":{"size":20},"size":50,"color":{"background":"rgba(170,252,193,1)"},"shadow":true,"shape":"box","shapeProperties":{"borderDashes":false}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Operations
+type: text/vnd.tiddlywiki

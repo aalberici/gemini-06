@@ -1,0 +1,11 @@
+ValueType: CSV IPs
+Values: Example: 127.0.0.1,192.168.0.100
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Security GV
+title: Application_CSRF_Valid_IP
+tmap.id: d0eafec1-9ed8-4e24-b752-c408eb09af28
+type: text/vnd.tiddlywiki
+
+Comma separated list of IP addresses from which could bypass CSRF control.

@@ -1,0 +1,11 @@
+ValueType: String
+Values: Native | PDFMaker | GenDoc
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_PDF
+tmap.id: ce0b8e90-11fd-4dfe-bd98-229409afb254
+type: text/vnd.tiddlywiki
+
+When using the getpdfdata webservice call, this variable indicates which PDF generation system to use. Native is the programmed PDF, PDFMaker requires that you have PDFMaker installed and GenDoc uses the OpenOffice integration.

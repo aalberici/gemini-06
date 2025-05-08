@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: Any integer
+modified: 20240103225846544
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_ListView_SearchColumns_AC_Trigger
+tmap.id: d16bf978-7a80-4398-9704-98183767b682
+type: text/vnd.tiddlywiki
+
+The minimal number of characters needed to trigger an autocomplete-search in the search boxes on top of the columns (only visible when Application_ListView_SearchColumns is activated). Defaults to 3

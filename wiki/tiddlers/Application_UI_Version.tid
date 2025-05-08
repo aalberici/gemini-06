@@ -1,0 +1,14 @@
+ValueType: String
+Values: 
+created: 20220627141836940
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] focus-project [[mandatory GV]]
+title: Application_UI_Version
+tmap.id: e52026dd-7123-4e27-9c70-073b2e2ffc01
+type: text/vnd.tiddlywiki
+
+The version of the application that will be shown on screen.

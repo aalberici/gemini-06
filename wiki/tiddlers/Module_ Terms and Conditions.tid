@@ -1,0 +1,12 @@
+actualname: cbTermConditions
+created: 20220626235906197
+creator: xhensilda.ndreka
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+tags: entity standard-module
+title: Module: Terms and Conditions
+tmap.id: 8ef0bb79-0944-4ce5-a5e1-b6585964e27a
+type: text/vnd.tiddlywiki
+
+The business entity dedicated to Terms and Conditions XXX The Terms and Conditions Module is used to define and manage structured terms and conditions that can be applied to administer and to track due dates and grantee document submissions for the terms that require follow-up.

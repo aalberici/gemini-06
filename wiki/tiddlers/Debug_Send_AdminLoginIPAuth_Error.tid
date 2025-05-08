@@ -1,0 +1,11 @@
+ValueType: CSV EMail
+Values: comma separated list of valid emails
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Send_AdminLoginIPAuth_Error
+tmap.id: 3bd44156-54f0-4587-abcb-e825392eb63a
+type: text/vnd.tiddlywiki
+
+All the email addresses on this list will receive an email when an admin user tries to login from an invalid IP

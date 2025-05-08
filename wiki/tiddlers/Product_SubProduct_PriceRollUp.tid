@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Product_SubProduct_PriceRollUp
+tmap.id: 9ca51a90-30c8-4ccf-9840-eed9986562de
+type: text/vnd.tiddlywiki
+
+Calculate product unit price based on the unit price and quantity of its subproducts.

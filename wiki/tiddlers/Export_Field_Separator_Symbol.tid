@@ -1,0 +1,11 @@
+ValueType: character
+Values: , | ; | others
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Export_Field_Separator_Symbol
+tmap.id: b3001992-9698-4c8d-b07f-1b271fb66ec4
+type: text/vnd.tiddlywiki
+
+Character symbol which separates fields in the CSV export files. Normally this will be a comma or semicolon, but any symbol may be used.

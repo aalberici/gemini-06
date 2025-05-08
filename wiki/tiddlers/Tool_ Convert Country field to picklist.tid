@@ -1,0 +1,11 @@
+actualname: convertCountry2Picklist
+modified: 20230617155327086
+modifier: andrea.alberici
+modulename: Convert Country field to picklist
+revision: 0
+tags: change jpl_tsolucio tool non-standard-module archived-modules
+title: Tool: Convert Country field to picklist
+tmap.id: 397e844b-ac83-43fb-baf2-cf32b392d4b2
+type: text/vnd.tiddlywiki
+
+This change will convert country fields on Accounts, Contacts, Vendors, Leads and Inventory modules into shared picklists. -- Free --

@@ -1,0 +1,11 @@
+ValueType: Character
+Values: character
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: PBX_callerNumberSeparator
+tmap.id: c6819129-fde2-4022-bf0e-863572ddfd5a
+type: text/vnd.tiddlywiki
+
+Incoming number from PBX will be split by this character if given and each element will be searched individually. The default is to not split the number

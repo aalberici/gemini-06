@@ -1,0 +1,28 @@
+actualname: Potentials
+created: 20220611135128153
+creator: andrea.alberici
+modified: 20240103225153032
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module crm entity focus-project
+title: Module: Opportunities
+tmap.id: 0485fd0d-920d-4cf1-b72b-5d3f46b83058
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to potential opportunities (not to potential customers).
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. 
+
+An account  is an entity comprising a collection of resources that are working together to achieve a common purpose. 
+
+
+
+!! Related Modules 
+[[Module: Invoices]]
+[[Module: Projects]]
+
+[[Module: Calendar Todos]]
+
+[[Module: Service Contracts]]

@@ -1,0 +1,31 @@
+created: 20220627002356783
+creator: andrea.alberici
+modified: 20220902150940342
+modifier: andrea.alberici
+revision: 0
+tags: start
+title: Roles required
+tmap.id: a0127bad-0347-42e3-a2a5-02e5194a3a7a
+type: text/vnd.tiddlywiki
+
+\define createRole()
+<$action-sendmessage 
+  $message="tm-new-tiddler" 
+  title="New Role" 
+  tags="application-security" 
+  text=""
+  />
+\end
+
+\define newRole()
+<$button actions=<<createRole>> class="btn btn-sm btn-info" >New role
+</$button>
+\end
+
+<div class="float-right">
+<<newRole>>
+</div>
+
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" field=text tags tag=input default=""/>
+<$macrocall $name=table-dynamic filter="[tag[application-security]search{$:/temp/tasks/dtable/search}]" fields="tbl-checkbox-specific tbl-expand title related tags" class="w-100" stateTiddler="your-state-tid"/>

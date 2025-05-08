@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Performance GV
+title: Application_DetailView_Record_Navigation
+tmap.id: 32e32a12-076f-4f86-8db6-4de13203cfec
+type: text/vnd.tiddlywiki
+
+Saves information to permit navigating on DetailView, respecting the current ListView selection. The default is 1

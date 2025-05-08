@@ -1,0 +1,15 @@
+ActualValue: 1
+ValueType: Boolean
+Values: 0 | 1
+created: 20220627141752848
+creator: andrea.alberici
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: Application GV [[starting GV]] done focus-project
+title: Application_Filter_All_Edit
+tmap.id: 51e77ac7-7e83-4fdf-9740-1e7b2e9d3e61
+type: text/vnd.tiddlywiki
+
+Edit the filter "All". The default is 1

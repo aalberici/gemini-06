@@ -1,0 +1,25 @@
+actualname: Timecontrol
+created: 20220611105819497
+creator: andrea.alberici
+modified: 20240103225153038
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] operations entity focus-project non-standard-module
+title: Module: Time Control
+tmap.edges: {}
+tmap.id: 3ac956d6-5d99-46e9-8aca-a4952174b01c
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to Service Contracts
+
+This is a normal vtlib module which can be installed through the module manager. It contains a set of fields and information about your organizations. The account name field can be accessed by the user accessing the application as a means to extend the information we have about each organization that is linked to coreBOS.
+
+A Timecontrol serves as a basis to do reports on time management for employees
+
+
+
+!! Related Modules 
+
+

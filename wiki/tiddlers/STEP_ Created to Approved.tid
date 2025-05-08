@@ -1,0 +1,12 @@
+created: 20220709132824496
+creator: andrea.alberici
+fromstep: Created
+modified: 20220709133425426
+modifier: andrea.alberici
+revision: 0
+tags: purchaseorder_mgmt bpm-flow
+title: STEP: Created to Approved
+tmap.edges: {}
+tmap.id: 2ea45486-c95a-4bdf-b67c-7b2a8405bcbc
+tostep: Approved
+type: text/vnd.tiddlywiki

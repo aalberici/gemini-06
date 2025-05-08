@@ -1,0 +1,19 @@
+actualname: ContactRole
+created: 20211026145016999
+creator: andrea.alberici
+modified: 20240103225153028
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] entity non-standard-module
+title: Module: Contact Role
+tmap.edges: {"af3824af-d95f-47e0-8121-fce853a95b81":{"to":"0c9ebeb4-8036-4e21-8494-e560a413ed49","type":"1 to many"}}
+tmap.id: ce323768-a6a3-424e-972b-8069eeaa319a
+type: text/vnd.tiddlywiki
+
+!! Description
+The business entity  dedicated to the contacts role.
+
+This is a custom vtlib module which can be installed through the module manager. Contact roles module  lets you specify the part that a person plays in an account, case, contract, or opportunity. Contact can have multiple roles for n numbers of accounts, case, or opportunity. 
+
+Contact roles is the way to establish many to many relationships with Contacts and accounts, Contacts and cases or contacts, and opportunities.

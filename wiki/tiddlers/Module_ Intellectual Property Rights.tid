@@ -1,0 +1,14 @@
+created: 20220111145454445
+creator: artemisa.puci
+modified: 20240103225153030
+modifier: andrea.alberici
+revision: 0
+tags: [[area: data]] entity non-standard-module
+title: Module: Intellectual Property Rights
+tmap.id: 57351354-a1d4-496f-8efd-8e897aaad0bc
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity dedicated to Intellectual Property Rights.
+
+This is a new custom vtlib module which can be installed through the module manager. It can contain a set of fields and information about your organizations. Intellectual Property Rights (IPRs) are legal rights that protect creations and/or inventions resulting from intellectual activity in the industrial, scientific, literary or artistic fields. Intellectual Property rights provide protection for creations and inventions, to enable creators and inventors to earn recognition and financial benefit from their work. 

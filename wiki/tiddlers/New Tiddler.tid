@@ -1,0 +1,14 @@
+created: 20220719002012862
+creator: andrea.alberici
+modified: 20220719002535096
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: New Tiddler
+tmap.id: 5ffc47e8-4ca8-4830-8be9-4b55daaef342
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[start]]">
+
+<$transclude mode="block"/>
+</$list>

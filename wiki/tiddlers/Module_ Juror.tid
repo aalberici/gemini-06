@@ -1,0 +1,11 @@
+actualname: Juror
+modified: 20240103225153031
+modifier: andrea.alberici
+modulename: Juror
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Juror
+tmap.id: 5f630157-1118-470c-bc3e-bc18ba661cbc
+type: text/vnd.tiddlywiki
+
+Contact like module to register information about jurors.\\ This is part of the **Attorneys Back Office** application. -- Sale --

@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846553
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: MasterDetail_Pagination
+tmap.id: 45511083-783a-4a40-b296-5c914dacc845
+type: text/vnd.tiddlywiki
+
+Number of rows to show per page in the master detail list view grid.

@@ -1,0 +1,11 @@
+ValueType: String
+Values: skip | overwrite | merge
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Import_DuplicateRecordHandling_Type
+tmap.id: 9cc8a34b-a21e-41dc-9750-f1b59274add5
+type: text/vnd.tiddlywiki
+
+Default value to set the Duplicate Record Handling option.

@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220711221046925
+creator: andrea.alberici
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_EditView_Submit_Form_WithEnter
+tmap.id: 8e79b536-681a-4803-abbf-b2daa3d8caeb
+type: text/vnd.tiddlywiki
+
+Whether to submit edit form (1) or not (0) when the ENTER key is pressed. By default it does not submit.

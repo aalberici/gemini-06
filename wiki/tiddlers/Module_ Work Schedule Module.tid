@@ -1,0 +1,11 @@
+actualname: WorkSchedule
+modified: 20240103225153039
+modifier: andrea.alberici
+modulename: Work Schedule Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Work Schedule Module
+tmap.id: ddec23b6-f7bc-4a2f-90e3-fc9bc5489e88
+type: text/vnd.tiddlywiki
+
+Module to record the different weekly hours that we work in the office.\\ This is part of the **Attorney's Back Office** extensions. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:workschedule --  --

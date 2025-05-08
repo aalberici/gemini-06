@@ -1,0 +1,20 @@
+blockname: 
+columntype: decimal(10,3)
+created: 20220731200222414
+creator: andrea.alberici
+displaytype: 
+fieldname1: sc_actualrevenues
+label: Ricavi reali
+massedit: 1
+modified: 20230617155327064
+modifier: andrea.alberici
+mods: 
+module: ServiceContracts
+revision: 0
+tags: field non-standard-field
+title: F: Ricavi reali
+tmap.id: 8a487468-42a5-4f0f-96d5-81b313a2b570
+type: text/vnd.tiddlywiki
+typeofdata: 
+uitype: 
+vals: 

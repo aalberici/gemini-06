@@ -1,0 +1,31 @@
+created: 20170418101615496
+creator: )+(auloop
+list: 
+modified: 20181016211027400
+modifier: )+(auloop
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/macros/th/head-menu
+type: text/vnd.tiddlywiki
+
+\define thvHeadMenu()
+<$set name="tbl-head-menu-qualifier" value=<<qualify """$(tbl-col-id)$""">> >
+<$set name="tbl-head-menu-state" filter="""[[$:/state/tbl/]] +[addsuffix<tbl-head-menu-qualifier>]""" >
+<$button popup=<<tbl-head-menu-state>> class="tc-btn-invisible">
+{{$(tbl-col)$##tbl-col-label}}
+</$button>
+
+<$reveal type="popup" position="below" state=<<tbl-head-menu-state>> >
+<div class="tc-drop-down">
+
+<<<
+<$list filter="""[all[shadows+tiddlers]tag[$:/tags/thvHeadMenu]!has[draft.of]]""" variable="tbl-head-menu-item">
+<$transclude tiddler=<<tbl-head-menu-item>> /><br>
+</$list>
+<<<
+
+</div>
+</$reveal>
+</$set>
+</$set>
+\end

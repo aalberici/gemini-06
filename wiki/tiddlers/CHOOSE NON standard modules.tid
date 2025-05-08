@@ -1,0 +1,13 @@
+created: 20220627180549784
+creator: andrea.alberici
+modified: 20221006123654888
+modifier: andrea.alberici
+revision: 0
+tags: start
+title: CHOOSE NON standard modules
+tmap.id: 3703e765-940a-40e8-90c7-17e5d303e0dc
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[non-standard-module]]+[!tag[archived-modules]]"  fields="tbl-checkbox-specific tbl-checkbox tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

@@ -1,0 +1,13 @@
+created: 20220627140858764
+creator: andrea.alberici
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: start
+title: Global Variables Required
+tmap.id: ad8d619f-a0cd-44a1-a7bc-d0995ef9dfa9
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" field=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[starting GV]search{$:/temp/tasks/dtable/search}]" fields="tbl-checkbox-specific tbl-checkbox tbl-expand title Values ActualValue" class="w-100" stateTiddler="your-state-tid"/>

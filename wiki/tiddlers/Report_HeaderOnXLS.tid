@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Report_HeaderOnXLS
+tmap.id: 5fff88f3-f732-451e-9f17-5ebbcaee41a1
+type: text/vnd.tiddlywiki
+
+When Report_HeaderOnXLS is active, the name of the report will appear as the header in the XLS file.

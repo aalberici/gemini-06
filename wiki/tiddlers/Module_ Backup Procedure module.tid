@@ -1,0 +1,11 @@
+actualname: CpSeg
+modified: 20240103225153024
+modifier: andrea.alberici
+modulename: Backup Procedure module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Backup Procedure module
+tmap.id: 70ed53ed-96f3-443b-9047-ff1a85438c31
+type: text/vnd.tiddlywiki
+
+This documentation-like module records all the backups systems and their responsible parties that are used in the account. Necessary for inventory knowledge and legal requirements. -- Sale --

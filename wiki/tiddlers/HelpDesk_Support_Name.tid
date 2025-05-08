@@ -1,0 +1,13 @@
+ValueType: String
+Values: 
+created: 20220628181523271
+creator: andrea.alberici
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: HelpDesk_Support_Name
+tmap.id: ae0fe444-928e-4bd5-995f-921128e52000
+type: text/vnd.tiddlywiki
+
+"From" name and signature for emails going out from the HelpDesk support module (and some other system emails).

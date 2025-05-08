@@ -1,0 +1,59 @@
+created: 20220627173452290
+creator: andrea.alberici
+modified: 20240103225846548
+modifier: andrea.alberici
+revision: 0
+title: Checklist implementation
+tmap.id: 9334ee9c-7da3-4346-995f-18bae20f6484
+type: text/vnd.tiddlywiki
+
+Import GV: tag GV
+Import coreBOS modules: tag standard-module
+Import non standard modules: tag non-standard
+Import configbyentty
+Import Language extensions: tag language-extension
+
+Install tiddlymap
+Install kookma commander
+
+The following tiddlers were imported:
+$:/plugins/felixhayashi/tiddlymap/graph/views/ER veroproject
+$:/plugins/felixhayashi/tiddlymap/graph/views/ER veroproject/filter/edges
+$:/plugins/felixhayashi/tiddlymap/graph/views/ER veroproject/filter/nodes
+$:/plugins/felixhayashi/tiddlymap/graph/views/ER veroproject/map
+
+The following tiddlers were imported:
+$:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/calculations
+$:/plugins/felixhayashi/tiddlymap/graph/edgeTypes/specific link
+$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/specific-modules
+$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Presales-sales
+$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Operations
+$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/Post-sales
+$:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/code-calculations
+
+create task list for:
+choose basic / standard GV
+choose roles
+choose 
+
+select modules used in the project
+duplicated template from shiraz task management
+https://project-checklist.spike.studio/#%24%3A%2Fplugins%2Fkookma%2Fshiraz%2Ftemplates%2Fbody%2Ftbl-checkbox
+added the -specific and tag specific-module
+
+
+Imported plugins:
+Notion like icon/image
+Notion backlinks
+Template List to define automatically types of tiddlers
+import at least one template: GV_temp
+use a specific css  $:/plugins/linonetwo/template-list/style.css
+Markdown export
+
+Added cbOffers & cbOfferDetails tiddlers
+
+To be done:
+In the making:
+
+I created a POC for the management of fields using dropboard plugin, but it seems non compatible with tiddlymap
+Better move to spreadsheet formula plugin to manage fields...

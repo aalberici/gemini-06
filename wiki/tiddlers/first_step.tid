@@ -1,0 +1,12 @@
+created: 20220711090956649
+creator: andrea.alberici
+fromstep: Created
+modified: 20221113161451579
+modifier: andrea.alberici
+revision: 0
+tags: flow-status
+title: first_step
+tmap.edges: {"5a99e440-417d-40d2-88a9-27afd1ab5fca":{"to":"97e3c8c7-6750-4f8b-b71f-eeb1a1f91e6f","type":"segment"}}
+tmap.id: c0fb8c82-5c15-4db3-b825-54ba9aed9d8d
+tostep: Canceled
+type: text/vnd.tiddlywiki

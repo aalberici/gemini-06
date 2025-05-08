@@ -1,0 +1,11 @@
+ValueType: string
+Values: ASC | DESC
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_ListView_Default_OrderDirection
+tmap.id: 91769a3a-5143-450f-ae1c-2a1e701e4907
+type: text/vnd.tiddlywiki
+
+Sort order for records of a module. If not defined the internal default value of each module will be used.

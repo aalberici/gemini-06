@@ -1,0 +1,11 @@
+ValueType: string
+Values: valid field name for the module
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Export_RelatedField_NameForSearch
+tmap.id: 415ad9ac-993e-405b-a251-94ca4718ded7
+type: text/vnd.tiddlywiki
+
+Field name to append to the end of a related field export. This supports the extended search field syntax of the import process.

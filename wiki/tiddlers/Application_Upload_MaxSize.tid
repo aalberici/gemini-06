@@ -1,0 +1,12 @@
+ValueType: Integer
+Values: 
+created: 20220627141839791
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Upload_MaxSize
+tmap.id: 04dd2aa9-ae93-4853-a5a3-e4f11f91582c
+type: text/vnd.tiddlywiki
+
+Maximum file size for uploaded files in bytes. Also used as a limit when uploading import files. Default value = 3000000

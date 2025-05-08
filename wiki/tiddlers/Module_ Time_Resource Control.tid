@@ -1,0 +1,11 @@
+actualname: Timecontrol
+modified: 20240103225153038
+modifier: andrea.alberici
+modulename: Time/Resource Control
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Time/Resource Control
+tmap.id: 884be3d3-5cf8-4acd-81d7-9f90b9c045a2
+type: text/vnd.tiddlywiki
+
+This module adds time control to coreBOS. The idea is that you will be able to register in the system time slots spent on the majority of the entities in the application. So a sales person can register time spent on a lead, a technician can register time spent on a trouble ticket or administration can register time spent on an invoice. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:timecontrol --  --

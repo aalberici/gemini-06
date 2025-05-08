@@ -1,0 +1,11 @@
+ValueType: String
+Values: supported GenDoc languages: en es it pl
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Extension GV
+title: GenDoc_Default_Compile_Language
+tmap.id: 5966b8da-ce36-4087-ac8c-9c26bc85677e
+type: text/vnd.tiddlywiki
+
+Language in which the templates are created and compiled. By default, the selected language of the current user is used.

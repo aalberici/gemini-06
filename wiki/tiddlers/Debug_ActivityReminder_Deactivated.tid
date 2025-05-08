@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_ActivityReminder_Deactivated
+tmap.id: 93ea27e7-356c-4d03-a737-99cf294e44ee
+type: text/vnd.tiddlywiki
+
+If set to 1 the Activity Reminder will be deactivated, if set to 0 the Activity Reminder will be activated. The default is 0. This avoids a lot of noise in the application debug log.

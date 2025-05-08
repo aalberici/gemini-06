@@ -1,0 +1,11 @@
+actualname: Confidential-Information
+modified: 20240103225153027
+modifier: andrea.alberici
+modulename: Confidential Information
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Confidential Information
+tmap.id: 975a5ffa-98df-418a-93e7-46ab87ff1eab
+type: text/vnd.tiddlywiki
+
+Extension to safely store sensitive information. Data will be encrypted and only accessible by users with the appropriate credentials. The goal of the module is to protect sensitive information both from unauthorized access from within the company and from anybody who could somehow get a hold of our full database, be them ill-intentioned or simply third parties that require access to support or solve problems. -- Free -- Confidential Information Module (below)

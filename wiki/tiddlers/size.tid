@@ -1,0 +1,18 @@
+created: 20240815204815722
+creator: andrea.alberici
+modified: 20240815204826858
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: size
+tmap.id: bd63278c-04f7-4b49-b287-3cb24aceabbf
+type: text/vnd.tiddlywiki
+
+<table><tr><th>title</th><th>size</th></tr>
+<$list filter="[all[tiddlers]] :sort:integer:reverse[<currentTiddler>get[text]length[]]">
+   <tr>
+      <td><$link/></td>
+      <td style="text-align:right;"><$text text={{{ [<currentTiddler>get[text]length[]] }}}/></td>
+   </tr>
+</$list>
+</table>

@@ -1,0 +1,11 @@
+actualname: cbExternalAssets
+modified: 20240103225153029
+modifier: andrea.alberici
+modulename: External Assets module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: External Assets module
+tmap.id: 3e25e5cf-cfe9-4309-ac0d-110b5be595d3
+type: text/vnd.tiddlywiki
+
+An asset type module (really an asset clone) to register equipment and machines present in our clients installations that were not sold by us but that we are interested in controling/substituting. -- Subscription --

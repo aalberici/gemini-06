@@ -1,0 +1,11 @@
+ValueType: Business Map
+Values: 
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: BusinessMapping_PotentialOnCampaignRelation
+tmap.id: f38a70bb-9b08-4e23-89dd-1de38ff849c1
+type: text/vnd.tiddlywiki
+
+Business Map ID with the mapping to apply in the automatic creation of potentials in Campaigns. The mapping is from Campaign fields to Potential. Related to Campaign_CreatePotentialOnContactRelation and Campaign_CreatePotentialOnAccountRelation

@@ -1,0 +1,11 @@
+ValueType: String
+Values: User based template string
+modified: 20240103225846542
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_FirstTimeLogin_Template
+tmap.id: 908304e6-203d-40f7-a9af-e35fb147d590
+type: text/vnd.tiddlywiki
+
+HTML current user based workflow template that will be shown to user on first successful login

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0|1
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: PurchaseOrder_IgnoreTransferDiscount
+tmap.id: ff7a87a8-8106-4799-83e2-accfb7e4a781
+type: text/vnd.tiddlywiki
+
+When set to '1', transferring a line from for instance a salesorder to a purschaseorder will set all discounts to zero regardless of what the source module lists for that line. You can fine-tune the source modules by checking 'In Module list' and selecting the source modules.

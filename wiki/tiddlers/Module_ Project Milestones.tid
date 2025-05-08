@@ -1,0 +1,26 @@
+actualname: ProjectMilestone
+created: 20220611112552465
+creator: andrea.alberici
+modified: 20240103225153034
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module operations entity focus-project
+title: Module: Project Milestones
+tmap.id: 68943c7e-125a-43df-bccb-5093fce68a56
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to the deadline / milestones of projects
+
+A project is a set of actions leading to a deliverable, projects tasks and milestones are used to define phases and deadlines of a project.
+
+
+
+
+
+
+!! Related Modules
+
+[[Module: Time Control]]
+

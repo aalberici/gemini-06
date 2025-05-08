@@ -1,0 +1,25 @@
+actualname: Assets
+created: 20220611163322363
+creator: andrea.alberici
+modified: 20240103225153024
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: [[area: people]] standard-module operations entity focus-project
+title: Module: Assets
+tmap.edges: {"bdf8fdb0-ad7c-4354-b9a2-382c27a56915":{"to":"6f63b2ea-99a3-4ffe-a4e1-fa15103b6dbc","type":"specific link"}}
+tmap.id: 666a2de7-410b-40f2-a036-a3f5cc9464c5
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to the serialization of products
+
+This is a normal vtlib module which can be installed through the module manager.
+
+Business assets span many categories. They can be physical, tangible goods, such as  computers and other fixtures, or intangible items.
+
+
+
+!! Related Modules 
+[[Module: Asset Details]]
+

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_Describe_ReturnUserList
+tmap.id: e27fcc41-a170-4f54-b46d-5dadfeb3c3fc
+type: text/vnd.tiddlywiki
+
+Return list of available users in the assigned_user_id field. This can be very big and produce browser issues. You can get the list from getAssignedUserlist method.

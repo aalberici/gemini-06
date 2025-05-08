@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628181502368
+creator: andrea.alberici
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: HelpDesk_Sort_Comments_ASC
+tmap.id: d3d5d5b2-d6a0-4218-8c73-6514d5dc3234
+type: text/vnd.tiddlywiki
+
+If set to 1, ticket comments will be presented from the oldest to the newest (this is the default), if set to zero the comments will be presented from newest to oldest.

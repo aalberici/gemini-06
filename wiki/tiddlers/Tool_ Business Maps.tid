@@ -1,0 +1,8 @@
+actualname: modulename
+revision: 0
+tags: config-by-entity
+title: Tool: Business Maps
+tmap.id: 121828f7-c4d9-4247-a833-b0c87666e551
+type: text/vnd.tiddlywiki
+
+The business config by entity dedicated to Business Maps XXX The Business Mappings and Conditions module permits implementors to define high-level configuration options for the execution of the application.

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Debug GV
+title: Debug_Access_Restricted_File
+tmap.id: fabb6230-3f6c-497e-af5b-e724288d5335
+type: text/vnd.tiddlywiki
+
+If set to 1 a call stack will be output before the "Sorry! Attempt to access restricted file." error message.

@@ -1,0 +1,16 @@
+{
+    "author": "Mohammad Rahmani",
+    "core-version": ">=5.1.22",
+    "created": "20200324061747532",
+    "description": "Tiddler Commander",
+    "list": "readme license history",
+    "modified": "20210102141626667",
+    "name": "Tiddler Commander",
+    "plugin-type": "plugin",
+    "source": "https://github.com/kookma/TW-Commander",
+    "tags": "",
+    "title": "$:/plugins/kookma/commander",
+    "version": "2.1.2",
+    "revision": "0",
+    "bag": "default"
+}

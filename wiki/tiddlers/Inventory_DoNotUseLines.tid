@@ -1,0 +1,11 @@
+ValueType: String
+Values: comma-separated list of inventory modules that will not use product lines
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Inventory_DoNotUseLines
+tmap.id: ddbdd3ef-51df-4bfb-bb55-74fb2bbd2c9e
+type: text/vnd.tiddlywiki
+
+The modules listed in this variable will act as normal modules, not showing the product detail lines, only the header fields of the module.

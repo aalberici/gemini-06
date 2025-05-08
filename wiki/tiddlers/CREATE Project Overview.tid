@@ -1,0 +1,158 @@
+created: 20221015160258949
+creator: andrea.alberici
+modified: 20221015160320718
+modifier: andrea.alberici
+revision: 0
+tags: 
+title: CREATE Project Overview
+tmap.id: 42b92a6a-1e7a-4eb3-b507-d36175fbec97
+type: text/vnd.tiddlywiki
+
+Project Overview
+Commercial
+IMPLEMENTATION PLATFORM OF [PROJECT NAME]
+This is analytical services, assistance and development aimed at creating a [insert the name of the project].
+Special emphasis is given to training and Test Driven Development, namely the development in close cycles. For the effective management and customization of the software, will provide analysis sessions and development in "real time" thanks to a team of analysis and development at the same time can offer an active involvement of the customer
+It will make a strong involvement of the customer through face-to-face collaboration. The result of each iteration will be tested and approved by the customer. The feedback received is implemented in subsequent iterations, thus reducing risks and ensuring greater customer satisfaction.
+Technical
+This document defines the high level requirements of [insert project name]. It will be used as the basis for the following activities:
+Analyzing the business needs
+Creating solution designs
+Determining main functionalities
+Assessing project implementation
+
+At the core of the system stays coreBos, a developing framework and a core business operating system that is known for its modularity and flexibility.
+The technical infrastructure is mainly focused on Service Oriented Architecture (SOA) based upon the services. Different services (such as Web Services) carry out some functions like producing data, validating data or providing some analytical services.
+In this document  we will describe the main SOA components of the project by listing the current components and the new components developed in order to fulfill the project scope.
+Project Scope
+Business Goals
+
+At the end of this project the communication and the access of information after the implementation of [Project Name] will guarantee:
+
+Effectiveness
+Efficiency
+Integrity
+Reliability
+Authority
+Responsibility
+Competency
+ 
+The objective is to build up a system that will help the company to manage unpredictable growth and demand integrate sales history with sales projections. The lack of an internal operational system will be covered through the installing of the Operative Modules for and Business Driven Financial Analysis Platform including payments, invoicing and cash flow movements for the transactional data. The platform of data analysis is based on a framework called EvvtApps, which allows you to write reports in php language and publish them in the Evolutivo System. The work progress will bring together all the teams involved, and will determine the value of any corrective and within the subdivisions of load is within the release date (priority) of the various functions.
+Operational improvements
+The implementation of the project is separated in different phases but the operational benefits are quantified in the first steps.
+The main benefits of implementing coreBOS Business Operating System are:
+Better Customer Service
+Simplified Marketing/Sales
+Productivity and quality control is optimized
+Business Intelligence tools increase your real time reporting capability.
+Project Components / Architecture
+SOA Architecture
+Evolutivo Core API
+generic description UP TO DATE
+NEW APIs needed
+Client Portal
+generic desc
+new modules
+new graphical interfaces
+Mobile App
+Elasticsearch integration
+R integration
+CLOUD Integrations
+Components
+Perspectives
+Massive Launchers
+Dashboard Builder
+Dashboard Schema
+PA Launch
+Non Traditional BI
+vtApps
+cbApps
+Pivot Statistics
+BI Server
+Sales Force Automation
+Potential Detail
+Forecast
+Marketing
+Marketing Actions
+Campaigns
+Potential
+Invoicing/Cost Control
+Payments
+Bank
+Tariffs
+Group Companies
+Product Categories
+Financial Settings
+Warehouse Management
+Warehouse
+Stock
+Stock Monitor
+Stock Settings
+Location
+Inout Master
+Inout Detail
+Human Resource Management
+Employees
+Duties
+Evaluations
+Training on the job
+Career Change
+Business Process Management
+Process Template
+Process Flow
+Project Role
+Process Settings
+Business Rules Management
+Business Actions
+Business Rules
+Map
+Sequencers
+Time Control
+Escalation
+Modules
+Leads
+Accounts
+Contacts
+Account Details
+Calendario
+Documents
+Products
+Product Category
+Product SubCategory
+Projects
+Project Milestone
+Tasks
+Emails
+Mail Manager
+RSS
+PBX Manager
+Logging Cof
+Language
+Adocmaster
+Adocdetail
+Quotes
+Sales Order
+Purchase Order
+Framework Tools
+Marketing Dashboard
+Market LAB
+ngBlocks
+External Integrations
+Mail Service & Transactional Server
+SMS Server
+Asterix (VOIP) Integration
+e-Commerce Integration
+Google Calendar
+OFBiz Integration
+Elastic Search Integration
+Security Requirements
+Profiles
+Roles
+Groups
+Hardware and software Requirements
+The application is a web server based application, using a LAMP stack as a favourite environment. Although it could be based in a Windows server, we highly recommend a Linux OS (Debian, Ubuntu Server, CentOS).
+The preferred versions: Apache 2.1 MySQL 5.3 and PHP 5.5 (last stable LAMP stack).
+MySQL has no limit on the number of tables. The underlying file system may have a limit on the number of files that represent tables. Individual storage engines may impose engine-specific constraints. InnoDB permits up to 4 billion tables.
+Anyhow there is a relational connection between the nr of records, the performance of the system and the MySQL Database.
+We recommend a 4GB RAM as a minimum memory requirement, along with a highly responsive Hard Disk. The best being an SSD disk of minimum 120GB.
+The processor should be at least a Quad Core, or a 8 virtual core machine.

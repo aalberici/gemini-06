@@ -1,0 +1,13 @@
+created: 20171030010641601
+list: 
+modified: 20181016210910173
+revision: 0
+tags: TableToolPlugin $:/tags/tblMacro
+title: $:/plugins/mau/TableTool/macros/display-controls
+type: text/vnd.tiddlywiki
+
+\define tbl-display-controls()
+<$list filter="""[all[shadows+tiddlers]tag[$:/tags/tblControl]!has[draft.of]]""" variable="tbl-control">
+<$transclude tiddler=<<tbl-control>> />
+</$list>
+\end

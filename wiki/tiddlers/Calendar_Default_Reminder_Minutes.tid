@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846547
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Calendar_Default_Reminder_Minutes
+tmap.id: d4b81d32-3e16-44ef-868b-c7aa274dcb49
+type: text/vnd.tiddlywiki
+
+The number of minutes that the event reminder will be set to for the user. The default is 10.

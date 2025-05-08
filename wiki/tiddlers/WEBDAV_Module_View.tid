@@ -1,0 +1,15 @@
+ActualValue: Files
+ValueType: String
+Values: Letter | Files
+created: 20220628181543438
+creator: andrea.alberici
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+status: complete
+tags: WebDav GV [[starting GV]] focus-project
+title: WEBDAV_Module_View
+tmap.id: ce0df917-8e46-4490-b3c5-700b55fe183a
+type: text/vnd.tiddlywiki
+
+Letter groups records by alphabet. Files pages the records.

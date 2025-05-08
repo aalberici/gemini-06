@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 0 | 1
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: Webservice_Session_LockUserAgent
+tmap.id: c1ce6167-28f4-4d67-9cec-5fd6c705388f
+type: text/vnd.tiddlywiki
+
+1 (default) restricts access to the same browser the login was made from

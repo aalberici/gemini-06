@@ -1,0 +1,11 @@
+ValueType: String
+Values: CSS Color Definition
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Graph_DataLabels_Color
+tmap.id: 28dc231d-b0b6-4ae2-9b56-de2a0c21c969
+type: text/vnd.tiddlywiki
+
+Defines the color of the data label to use on the bar/section. By default white is set.

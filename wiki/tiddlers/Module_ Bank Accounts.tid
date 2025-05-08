@@ -1,0 +1,11 @@
+actualname: BankAccounts
+modified: 20240103225153025
+modifier: andrea.alberici
+modulename: Bank Accounts
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Bank Accounts
+tmap.id: 31a38e33-20a3-4499-a8e3-d9790fdbab01
+type: text/vnd.tiddlywiki
+
+Bank Accounts module to register information about the bank accounts you work with, either your company or your clients accounts.\\ This module is related with the Bank module and should be installed together.\\ This is part of the TSolucio **payments extensions** that support **SEPA and direct bank charges** to your clients. -- Subscription --

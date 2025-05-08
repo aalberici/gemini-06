@@ -1,0 +1,11 @@
+ValueType: String
+Values: Documents folder name
+modified: 20240103225846551
+modifier: andrea.alberici
+revision: 0
+tags: Extension GV
+title: GenDoc_Save_Document_Folder
+tmap.id: 65c13c6e-9cd6-4166-8b36-c9783b6539fb
+type: text/vnd.tiddlywiki
+
+Name of the folder where GenDoc will save generated documents. By default the first folder found will be used.

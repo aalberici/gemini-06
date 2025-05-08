@@ -1,0 +1,11 @@
+actualname: PayGrade
+modified: 20240103225153032
+modifier: andrea.alberici
+modulename: Pay Grades Module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Pay Grades Module
+tmap.id: 1a5fb881-aa08-4a31-8a03-8c02310f0992
+type: text/vnd.tiddlywiki
+
+This module registers the different payment ranges our company works with and permits relating our staff with each one.\\ This is part of the **Attorney's Back Office** **Human Resources** extensions. --  --

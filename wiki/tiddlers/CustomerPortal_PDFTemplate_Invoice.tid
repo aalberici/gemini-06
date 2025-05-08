@@ -1,0 +1,11 @@
+ValueType: String
+Values: ID or name of template to use
+modified: 20240103225846549
+modifier: andrea.alberici
+revision: 0
+tags: Integration GV
+title: CustomerPortal_PDFTemplate_Invoice
+tmap.id: 8aded42d-fc1a-435b-bd3f-c9c6596ec4aa
+type: text/vnd.tiddlywiki
+
+When the CustomerPortal_PDF variable is set to PDFMaker or GenDoc, this variable indicates which template should be used to generate Invoice PDF. If it is empty the first template found will be used.

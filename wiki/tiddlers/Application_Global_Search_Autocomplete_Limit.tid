@@ -1,0 +1,15 @@
+ActualValue: 
+ValueType: Integer
+Values: 
+created: 20220627141758438
+creator: andrea.alberici
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: Application GV [[starting GV]]
+title: Application_Global_Search_Autocomplete_Limit
+tmap.id: 492c655a-ca89-4c09-8cb4-d31a3a691594
+type: text/vnd.tiddlywiki
+
+Maximum númber of results to be shown in autocomplete global search.

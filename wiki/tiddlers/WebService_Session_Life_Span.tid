@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846556
+modifier: andrea.alberici
+revision: 0
+tags: Webservice GV
+title: WebService_Session_Life_Span
+tmap.id: b0352a1b-5a0b-4286-bc23-893a086ddb03
+type: text/vnd.tiddlywiki
+
+The maximum life span of a webservice session. After this time the session will be destroyed even if it is being kept alive. The default is a day.

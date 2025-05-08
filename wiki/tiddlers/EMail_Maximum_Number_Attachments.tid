@@ -1,0 +1,11 @@
+ValueType: Integer
+Values: 
+modified: 20240103225846550
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: EMail_Maximum_Number_Attachments
+tmap.id: 74d6c3e9-5b57-4fe4-82bd-be2e756ff327
+type: text/vnd.tiddlywiki
+
+The maximum number of attachments that can be uploaded to an email. The default is 6.

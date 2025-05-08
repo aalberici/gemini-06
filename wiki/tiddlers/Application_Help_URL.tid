@@ -1,0 +1,13 @@
+ValueType: String
+Values: 
+created: 20221212174830030
+creator: andrea.alberici
+modified: 20240103225846543
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Help_URL
+tmap.id: 63f5d2f4-68a2-42a6-967d-b880d5c3d101
+type: text/vnd.tiddlywiki
+
+URL to go to when a user clicks on help icon in the upper right corner. If set to 0 no help icon will be shown. The default value is corebos.org wiki.

@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: yes | no
+modified: 20240103225846554
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Product_Show_Subproducts_Popup
+tmap.id: b38bef75-9d2e-4e9b-a475-3a7e7ea8d830
+type: text/vnd.tiddlywiki
+
+Whether to show subproducts as selectable at the first level or as a second level relation.

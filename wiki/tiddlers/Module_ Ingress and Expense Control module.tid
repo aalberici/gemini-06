@@ -1,0 +1,11 @@
+actualname: cbControlIngresoGasto
+modified: 20240103225153030
+modifier: andrea.alberici
+modulename: Ingress and Expense Control module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Ingress and Expense Control module
+tmap.id: f65f4a32-46ee-48e0-8520-1838b9eba56a
+type: text/vnd.tiddlywiki
+
+An accounting type module to register incoming and outgoing money charges that happen against different records in the application. -- Subscription --

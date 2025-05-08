@@ -1,0 +1,11 @@
+actualname: GLATypes
+modified: 20240103225153030
+modifier: andrea.alberici
+modulename: General Ledger Types
+revision: 0
+tags: config-by-entity corebos-module jpl_tsolucio non-standard-module archived-modules
+title: Module: General Ledger Types
+tmap.id: 4e154410-54f3-4ed9-ac24-2a855f58be80
+type: text/vnd.tiddlywiki
+
+General Ledger Types module.\\ This is part of the Attorney's BackOffice **accounting extensions**. -- Subscription --

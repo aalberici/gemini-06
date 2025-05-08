@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846545
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Application_Permit_Assign_SameRole
+tmap.id: 3305f3bb-1895-477c-92dc-cf13b60c2276
+type: text/vnd.tiddlywiki
+
+In modules with private sharing privileges, permit assigning the record to any active user in the application with the same role as the current user.

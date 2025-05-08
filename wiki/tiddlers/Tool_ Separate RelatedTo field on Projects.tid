@@ -1,0 +1,11 @@
+actualname: ProjectsSeparateRelatedTo
+modified: 20230617155327090
+modifier: andrea.alberici
+modulename: Separate RelatedTo field on Projects
+revision: 0
+tags: enhancement jpl_tsolucio tool-config non-standard-module archived-modules
+title: Tool: Separate RelatedTo field on Projects
+tmap.id: b61b107a-7fe3-42ed-9046-d4af4075284b
+type: text/vnd.tiddlywiki
+
+This enhancement will separate the Account/Contact RelatedTo field on the Projects module. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:enhanceprjrelto --  --

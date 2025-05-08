@@ -1,0 +1,11 @@
+ValueType: String
+Values: strict | loose | clean
+modified: 20240103225846555
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Security_ImageCheck
+tmap.id: 87b047ec-2a5f-4e69-a5de-0a29521395d8
+type: text/vnd.tiddlywiki
+
+This variable decides if we strictly/loosely check for the security issue in an image file or ignore the check and clean the image.

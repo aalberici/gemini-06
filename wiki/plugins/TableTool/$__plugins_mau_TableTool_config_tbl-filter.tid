@@ -1,0 +1,9 @@
+created: 20171223173542428
+list: 
+modified: 20181015200311395
+revision: 0
+tags: $:/tags/tblMacro TableToolPlugin
+title: $:/plugins/mau/TableTool/config/tbl-filter
+type: text/vnd.tiddlywiki
+
+\define tbl-filter() [tag[$(tbl-name)$]allafter:include<start-row>first{$(tbl-max-rows)$}]

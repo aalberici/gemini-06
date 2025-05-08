@@ -1,0 +1,19 @@
+created: 20220622102649313
+creator: andrea.alberici
+modified: 20240103225153024
+modifier: andrea.alberici
+revision: 0
+status: rework
+tags: [[area: data]] operations specific-module entity non-standard-module
+title: Module: Asset Details
+tmap.id: 6f63b2ea-99a3-4ffe-a4e1-fa15103b6dbc
+type: text/vnd.tiddlywiki
+
+!!Description
+The business entity  dedicated to the serialization of products, and the relationship with sub-products, such as modules of a software
+
+This is a normal vtlib module which can be installed through the module manager.
+
+!! Related Modules 
+
+

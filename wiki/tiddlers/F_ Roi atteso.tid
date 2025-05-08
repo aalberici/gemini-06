@@ -1,0 +1,20 @@
+blockname: 
+columntype: decimal(10,3)
+created: 20220731233408582
+creator: andrea.alberici
+displaytype: 
+fieldname1: sc_expectedroi
+label: ROI atteso
+massedit: 
+modified: 20230617155327065
+modifier: andrea.alberici
+mods: 
+module: ServiceContracts
+revision: 0
+tags: field non-standard-field
+title: F: Roi atteso
+tmap.id: 7df17abd-53b7-4daf-a077-1b529f893945
+type: text/vnd.tiddlywiki
+typeofdata: 
+uitype: 
+vals: 

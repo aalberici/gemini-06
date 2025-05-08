@@ -1,0 +1,13 @@
+created: 20220627181432159
+creator: andrea.alberici
+modified: 20250508100801499
+modifier: andrea.alberici
+revision: 1
+tags: start
+title: CHOOSE MAIN standard modules
+tmap.id: 708be71b-2dc0-4ad3-b073-1f3bca47fab9
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[standard-module]] +[!tag[tool]] +[!tag[tool-config]]"  fields="tbl-checkbox-specific tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

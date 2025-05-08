@@ -1,0 +1,15 @@
+created: 20220628142944993
+creator: andrea.alberici
+modified: 20220628144612716
+modifier: andrea.alberici
+revision: 0
+tags: $:/tags/Table/BodyTemplate
+tbl-column-list: tbl-checkbox-specific
+title: $:/plugins/kookma/shiraz/templates/body/tbl-checkbox-specific
+type: text/vnd.tiddlywiki
+
+<td style="width:28px;text-align:center;">
+<$checkbox tiddler=<<currentRecord>> tag="focus-project"
+checkactions="""<$action-setfield $tiddler=<<tempTableStyle>> $index=<<currentRecord>> $value="color:#155724;background-color:#d4edda;" /><$action-setfield $tiddler=<<currentRecord>> status="complete"/>"""
+uncheckactions="""<$action-setfield $tiddler=<<tempTableStyle>> $index=<<currentRecord>> /><$action-setfield $tiddler=<<currentRecord>> status="rework"/>""" />
+</td>

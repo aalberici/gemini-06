@@ -1,0 +1,11 @@
+actualname: ResearchRequestActions
+modified: 20240103225153036
+modifier: andrea.alberici
+modulename: Research Request Actions module
+revision: 0
+tags: corebos-module entity jpl_tsolucio non-standard-module archived-modules
+title: Module: Research Request Actions module
+tmap.id: 8d306c24-1803-405f-94d0-4cdab3113e94
+type: text/vnd.tiddlywiki
+
+This module is related with [[http://corebos.org/documentation/doku.php?id=en:extensions:extensions:researchrequest|Research Request module]] and details the different actions or steps taken to resolve or attend the request. - http://corebos.tsolucio.com/documentation/doku.php?id=en:extensions:extensions:researchrequestactions --  --

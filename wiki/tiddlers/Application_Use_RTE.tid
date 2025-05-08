@@ -1,0 +1,13 @@
+ValueType: Boolean
+Values: 0 | 1
+created: 20220628181340025
+creator: andrea.alberici
+modified: 20240103225846546
+modifier: andrea.alberici
+revision: 0
+tags: Application GV [[starting GV]]
+title: Application_Use_RTE
+tmap.id: d0a66c85-1a48-48ef-842e-4aa59191cd2b
+type: text/vnd.tiddlywiki
+
+Use Rich Text Editor in those modules that support it

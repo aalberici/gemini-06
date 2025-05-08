@@ -1,0 +1,13 @@
+created: 20220918151151173
+creator: andrea.alberici
+modified: 20220918151441028
+modifier: andrea.alberici
+revision: 0
+tags: print-river
+title: NON standard modules
+tmap.id: 1470ff3f-73ee-4042-9d0a-208cdb7b1e72
+type: text/vnd.tiddlywiki
+
+Filter and search in table <$edit-text tiddler="$:/temp/tasks/dtable/search" filed=text tag=input default=""/>
+
+<$macrocall $name=table-dynamic filter="[tag[non-standard]]+[tag[focus-project]]"  fields="tbl-checkbox-specific tbl-checkbox tbl-expand title tags" class="w-100" stateTiddler="your-state-tid"/>

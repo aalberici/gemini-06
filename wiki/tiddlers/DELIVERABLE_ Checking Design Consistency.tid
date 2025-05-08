@@ -1,0 +1,17 @@
+created: 20220919064525298
+creator: andrea.alberici
+modified: 20230808114345640
+modifier: andrea.alberici
+releasedate: 20221101
+revision: 0
+summary: In this phase we verify consistency of the system’s source code with a higher-level design diagram.
+tags: deliverable
+title: DELIVERABLE: Checking Design Consistency
+tmap.id: c0c34968-aeba-41d5-a4bf-a6799371d9cf
+type: text/vnd.tiddlywiki
+
+In this phase we verify consistency of the system’s source code with a higher-level design diagram.
+
+''Rationale: ''Without a means of ensuring that the source code of a software system is, and remains, consis- tent with a higher-level design diagram, the design di- agram soon becomes outdated and looses its relevance as high-level documentation of the source code.
+
+''Solution: ''To verify whether every entity (e.g., class, method) in a UML class diagram corresponds to one in the source code and vice versa, we declare one intentional view with two alternative definitions. The first alternative groups all entities that have been defined in the diagram, the other groups all existing entities in the implementation. Of course, this requires that the diagram is somehow accessible by our logic meta- programming environment. Inconsistencies may arise either when adding, for example, a class or method to the code without updating the diagram or when mod- ifying the diagram without updating the code. These inconsistencies are detected automatically when veri- fying extensional consistency of the intentional view

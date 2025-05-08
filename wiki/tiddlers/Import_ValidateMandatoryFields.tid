@@ -1,0 +1,11 @@
+ValueType: Boolean
+Values: 0 | 1
+modified: 20240103225846552
+modifier: andrea.alberici
+revision: 0
+tags: Application GV
+title: Import_ValidateMandatoryFields
+tmap.id: 6712902a-704b-4903-a15b-98ba70cf1436
+type: text/vnd.tiddlywiki
+
+If field mapping of all mandatory fields must be enforced. By default they are mandatory.
